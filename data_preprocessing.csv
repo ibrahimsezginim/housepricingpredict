@@ -1,0 +1,738 @@
+,HOUSE_TYPE,NEIGHBORHOOD,GROSS_AREA,NET_AREA,NUMBER_OF_ROOMS,AGE_OF_BUİLDİNG,FLOOR_LOCATION,TOTALNUMBER_OF_FLOORS,TYPE_OF_HEATING,NUMBER_OF_BATHROOMS,IS_THERE_BALCONY,IS_IT_FURNISHED,WHO_IS_AT_HOME,ON_BUILDINGS,NAME_OF_BUILDINGS,DUES,AVAILABLE_FOR_CREDIT,TITLE_DEED,WHO_IS_THE_SELLER,IS_IT_VIEWABLE,PRICE,NEW_IS_IT_TWOPLY
+0,Daire,Marmara Mah.,130.0,120.0,3+1,5-10 arası,4,6,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Yeşil Akasya Evleri,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3300000,Hayır
+1,Daire,Cumhuriyet Mah.,125.0,110.0,2+1,0,6,20-25 arası,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1299900,Hayır
+2,Daire,Yakuplu Mah.,150.0,140.0,3+1,0,2,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,2118000,Hayır
+3,Daire,Cumhuriyet Mah.,140.0,130.0,2+1,0,Giriş Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,539000,Hayır
+4,Daire,Yakuplu Mah.,240.0,220.0,HIGH_RARITY,0,4,4,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2300000,Evet
+5,Daire,Cumhuriyet Mah.,125.0,110.0,2+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,779900,Hayır
+6,Daire,Adnan Kahveci Mah.,145.0,135.0,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2297000,Hayır
+7,Daire,Cumhuriyet Mah.,110.0,100.0,2+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,639000,Hayır
+8,Daire,Kavaklı Mh.,110.0,95.0,2+1,4,4,12,Merkezi,2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2039000,Hayır
+9,Daire,Yakuplu Mah.,100.0,90.0,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1249999,Hayır
+10,Daire,Cumhuriyet Mah.,130.0,115.0,2+1,0,Giriş Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,570000,Hayır
+11,Daire,Cumhuriyet Mah.,110.0,105.0,2+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1349000,Hayır
+12,Daire,Adnan Kahveci Mah.,120.0,110.0,3+1,0,2,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2550000,Hayır
+13,Daire,Kavaklı Mh.,150.0,130.0,3+1,0,Giriş Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1550000,Hayır
+14,Daire,Kavaklı Mh.,180.0,165.0,3+1,0,3,3,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1700000,Hayır
+15,Daire,Cumhuriyet Mah.,140.0,130.0,3+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,989900,Hayır
+16,Daire,Cumhuriyet Mah.,90.0,85.0,2+1,0,Giriş Katı,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,499000,Hayır
+17,Daire,Cumhuriyet Mah.,200.0,180.0,3+2,0,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1689999,Evet
+18,Daire,Beylikdüzü OSB,120.0,105.0,2+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,725000,Hayır
+19,Daire,Cumhuriyet Mah.,110.0,95.0,2+1,3,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1163000,Hayır
+20,Daire,Kavaklı Mh.,210.0,180.0,3+2,0,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2149999,Evet
+21,Daire,Yakuplu Mah.,150.0,130.0,3+1,5-10 arası,Yüksek Giriş,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1615000,Hayır
+22,Daire,Cumhuriyet Mah.,135.0,120.0,2+1,0,Giriş Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,649000,Hayır
+23,Daire,Kavaklı Mh.,140.0,130.0,3+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2519000,Hayır
+24,Daire,Adnan Kahveci Mah.,175.0,165.0,3+1,1,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2488000,Hayır
+25,Daire,Marmara Mah.,230.0,200.0,3+2,0,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3599999,Evet
+26,Daire,Beylikdüzü OSB,115.0,100.0,2+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,879000,Hayır
+27,Daire,Adnan Kahveci Mah.,155.0,145.0,3+1,2,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2340000,Hayır
+28,Daire,Kavaklı Mh.,110.0,95.0,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,1700000,Hayır
+29,Daire,Beylikdüzü OSB,150.0,135.0,3+1,5-10 arası,Giriş Katı,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,679900,Hayır
+30,Daire,Kavaklı Mh.,100.0,90.0,2+1,5-10 arası,2,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1900000,Hayır
+31,Daire,Yakuplu Mah.,185.0,170.0,3+1,0,Yüksek Giriş,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1439999,Hayır
+32,Daire,Cumhuriyet Mah.,120.0,100.0,2+1,4,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,899000,Hayır
+33,Daire,Yakuplu Mah.,120.0,110.0,2+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2100000,Hayır
+34,Daire,Adnan Kahveci Mah.,155.0,140.0,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2629000,Hayır
+35,Daire,Cumhuriyet Mah.,110.0,100.0,2+1,0,1,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,675000,Hayır
+36,Daire,Kavaklı Mh.,240.0,190.0,3+2,0,4,4,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2225000,Evet
+37,Daire,Cumhuriyet Mah.,110.0,100.0,2+1,3,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,689000,Hayır
+38,Daire,Kavaklı Mh.,110.0,95.0,2+1,0,7,11,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1429990,Hayır
+39,Daire,Gürpınar Mh.,180.0,140.0,3+1,0,3,8,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3500000,Hayır
+40,Daire,Yakuplu Mah.,115.0,105.0,2+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1545000,Hayır
+41,Daire,Cumhuriyet Mah.,110.0,100.0,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,697000,Hayır
+42,Daire,Yakuplu Mah.,100.0,90.0,2+1,0,Giriş Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1789000,Hayır
+43,Daire,Adnan Kahveci Mah.,165.0,150.0,3+1,0,1,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2647000,Hayır
+44,Daire,Adnan Kahveci Mah.,220.0,200.0,4+2,0,4,4,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2699999,Evet
+45,Daire,Cumhuriyet Mah.,120.0,110.0,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,664000,Hayır
+46,Daire,Cumhuriyet Mah.,110.0,100.0,2+1,4,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,679000,Hayır
+47,Daire,Barış Mh.,150.0,130.0,3+1,5-10 arası,Giriş Katı,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,250.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1579000,Hayır
+48,Daire,Adnan Kahveci Mah.,150.0,140.0,3+1,0,5,8,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1872000,Hayır
+49,Daire,Marmara Mah.,110.0,100.0,2+1,3,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2049000,Hayır
+50,Daire,Adnan Kahveci Mah.,240.0,200.0,4+2,0,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2699999,Evet
+51,Daire,Marmara Mah.,90.0,80.0,2+1,4,Yüksek Giriş,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,50.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1165000,Hayır
+52,Daire,Kavaklı Mh.,120.0,100.0,2+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2039999,Hayır
+53,Daire,Cumhuriyet Mah.,175.0,160.0,3+1,11-15 arası,9,13,Doğalgaz (Kombi),3,Yok,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,2695000,Hayır
+54,Daire,Cumhuriyet Mah.,125.0,110.0,2+1,0,Giriş Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,549900,Hayır
+55,Daire,Adnan Kahveci Mah.,98.0,95.0,2+1,4,Giriş Katı,4,Doğalgaz (Kombi),1,Yok,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2350000,Hayır
+56,Daire,Marmara Mah.,135.0,110.0,2+1,0,2,3,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1949000,Hayır
+57,Daire,Cumhuriyet Mah.,100.0,90.0,2+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1330000,Hayır
+58,Daire,Cumhuriyet Mah.,80.0,75.0,1+1,5-10 arası,5,15-20 arası,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1200000,Hayır
+59,Daire,Cumhuriyet Mah.,115.0,100.0,2+1,0,Giriş Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,589900,Hayır
+60,Daire,Kavaklı Mh.,105.0,90.0,2+1,0,Giriş Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1739999,Hayır
+61,Daire,Adnan Kahveci Mah.,180.0,150.0,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3199999,Hayır
+62,Daire,Cumhuriyet Mah.,115.0,105.0,2+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,865000,Hayır
+63,Daire,Cumhuriyet Mah.,125.0,115.0,2+1,5-10 arası,14,15,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1447000,Hayır
+64,Daire,Yakuplu Mah.,100.0,95.0,2+1,5-10 arası,1,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1499000,Hayır
+65,Daire,Cumhuriyet Mah.,125.0,110.0,2+1,0,1,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,765000,Hayır
+66,Daire,Cumhuriyet Mah.,135.0,120.0,2+1,0,9,14,Merkezi,1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1998000,Hayır
+67,Daire,Yakuplu Mah.,100.0,90.0,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1489000,Hayır
+68,Daire,Yakuplu Mah.,110.0,100.0,2+1,0,1,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1489999,Hayır
+69,Daire,Yakuplu Mah.,110.0,95.0,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1590000,Hayır
+70,Daire,Adnan Kahveci Mah.,115.0,105.0,2+1,2,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1499000,Hayır
+71,Daire,Cumhuriyet Mah.,140.0,135.0,3+1,0,4,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1385000,Hayır
+72,Daire,Cumhuriyet Mah.,145.0,135.0,3+1,0,Giriş Katı,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,689990,Hayır
+73,Daire,Cumhuriyet Mah.,135.0,125.0,3+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1180000,Hayır
+74,Daire,Cumhuriyet Mah.,95.0,90.0,2+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,695000,Hayır
+75,Daire,Kavaklı Mh.,105.0,95.0,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1217000,Hayır
+76,Daire,Yakuplu Mah.,115.0,95.0,2+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1232000,Hayır
+77,Daire,Cumhuriyet Mah.,180.0,160.0,3+1,0,Yüksek Giriş,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,679000,Hayır
+78,Daire,Cumhuriyet Mah.,170.0,160.0,3+2,0,5,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,849000,Evet
+79,Daire,Cumhuriyet Mah.,155.0,140.0,3+1,0,4,14,Merkezi,1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2153500,Hayır
+80,Daire,Beylikdüzü OSB,145.0,135.0,3+1,4,2,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1060000,Hayır
+81,Daire,Adnan Kahveci Mah.,150.0,135.0,3+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1899000,Hayır
+82,Daire,Adnan Kahveci Mah.,120.0,105.0,2+1,5-10 arası,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2599000,Hayır
+83,Daire,Cumhuriyet Mah.,80.0,67.0,1+1,4,16,20-25 arası,Merkezi,1,Yok,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,799900,Hayır
+84,Daire,Cumhuriyet Mah.,115.0,100.0,2+1,0,Giriş Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,599999,Hayır
+85,Daire,Cumhuriyet Mah.,85.0,70.0,1+1,0,4,15-20 arası,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,849000,Hayır
+86,Daire,Yakuplu Mah.,110.0,90.0,2+1,2,Giriş Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1149000,Hayır
+87,Daire,Kavaklı Mh.,148.0,135.0,3+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2220000,Hayır
+88,Daire,Cumhuriyet Mah.,155.0,145.0,2+1,0,Yüksek Giriş,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,699000,Hayır
+89,Daire,Cumhuriyet Mah.,110.0,100.0,2+1,1,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,775000,Hayır
+90,Daire,Kavaklı Mh.,280.0,260.0,3+2,0,3,3,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2865000,Evet
+91,Daire,Beylikdüzü OSB,90.0,80.0,2+1,4,Yüksek Giriş,6,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1050000,Hayır
+92,Daire,Yakuplu Mah.,115.0,90.0,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1239000,Hayır
+93,Daire,Kavaklı Mh.,105.0,95.0,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1688000,Hayır
+94,Daire,Yakuplu Mah.,80.0,70.0,1+1,0,Giriş Katı,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,804000,Hayır
+95,Daire,Adnan Kahveci Mah.,220.0,200.0,4+2,0,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2728000,Evet
+96,Daire,Adnan Kahveci Mah.,115.0,105.0,2+1,2,3,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1400000,Hayır
+97,Daire,Adnan Kahveci Mah.,160.0,150.0,3+1,0,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2949000,Hayır
+98,Daire,Adnan Kahveci Mah.,110.0,95.0,2+1,0,Giriş Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1650000,Hayır
+99,Daire,Adnan Kahveci Mah.,110.0,95.0,2+1,0,4,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1629000,Hayır
+100,Daire,Adnan Kahveci Mah.,140.0,130.0,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2999000,Hayır
+101,Daire,Beylikdüzü OSB,115.0,105.0,2+1,5-10 arası,Giriş Katı,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,587000,Hayır
+102,Daire,Cumhuriyet Mah.,135.0,120.0,2+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1179000,Hayır
+103,Daire,Adnan Kahveci Mah.,140.0,125.0,3+1,0,2,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2799999,Hayır
+104,Daire,Kavaklı Mh.,240.0,210.0,3+2,0,4,4,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2650000,Evet
+105,Daire,Cumhuriyet Mah.,120.0,100.0,2+1,4,1,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1139000,Hayır
+106,Daire,Adnan Kahveci Mah.,160.0,140.0,3+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2850000,Hayır
+107,Daire,Beylikdüzü OSB,105.0,99.0,2+1,3,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,845000,Hayır
+108,Daire,Cumhuriyet Mah.,112.0,95.0,2+1,2,Giriş Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,687000,Hayır
+109,Daire,Cumhuriyet Mah.,120.0,105.0,2+1,4,10,20-25 arası,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1279900,Hayır
+110,Daire,Yakuplu Mah.,115.0,105.0,2+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1099000,Hayır
+111,Daire,Kavaklı Mh.,150.0,130.0,3+1,4,1,3,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2199000,Hayır
+112,Daire,Cumhuriyet Mah.,115.0,105.0,2+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,900000,Hayır
+113,Daire,Gürpınar Mh.,100.0,98.0,2+1,4,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1489000,Hayır
+114,Daire,Kavaklı Mh.,145.0,135.0,3+1,2,Giriş Katı,3,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1599000,Hayır
+115,Daire,Yakuplu Mah.,125.0,110.0,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1335000,Hayır
+116,Daire,Adnan Kahveci Mah.,150.0,130.0,3+1,0,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3550000,Hayır
+117,Daire,Cumhuriyet Mah.,125.0,120.0,2+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,669000,Hayır
+118,Daire,Yakuplu Mah.,125.0,105.0,2+1,5-10 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,1495000,Hayır
+119,Daire,Adnan Kahveci Mah.,110.0,90.0,2+1,4,1,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1890000,Hayır
+120,Daire,Barış Mh.,160.0,145.0,3+1,5-10 arası,Giriş Katı,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Özgür Sitesi,150.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1585000,Hayır
+121,Daire,Marmara Mah.,110.0,95.0,2+1,4,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,50.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1450000,Hayır
+122,Daire,Cumhuriyet Mah.,80.0,70.0,1+1,0,2,12,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,699900,Hayır
+123,Daire,Cumhuriyet Mah.,110.0,98.0,2+1,5-10 arası,3,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,898000,Hayır
+124,Daire,Cumhuriyet Mah.,150.0,140.0,2+1,0,1,7,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1559000,Hayır
+125,Daire,Adnan Kahveci Mah.,100.0,90.0,2+1,4,4,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1629000,Hayır
+126,Daire,Kavaklı Mh.,150.0,145.0,3+1,0,2,3,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2299000,Hayır
+127,Daire,Yakuplu Mah.,105.0,100.0,2+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1750000,Hayır
+128,Daire,Marmara Mah.,115.0,95.0,2+1,5-10 arası,1,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,50.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2090000,Hayır
+129,Daire,Gürpınar Mh.,145.0,130.0,3+1,11-15 arası,5,7,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1849000,Hayır
+130,Daire,Adnan Kahveci Mah.,110.0,95.0,2+1,0,1,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1659000,Hayır
+131,Daire,Cumhuriyet Mah.,160.0,145.0,3+1,0,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,999000,Hayır
+132,Daire,Yakuplu Mah.,60.0,50.0,1+1,1,Giriş Katı,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1000000,Hayır
+133,Daire,Adnan Kahveci Mah.,190.0,170.0,3+2,5-10 arası,4,4,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2599000,Evet
+134,Daire,Cumhuriyet Mah.,125.0,115.0,2+1,0,Giriş Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,489000,Hayır
+135,Daire,Barış Mh.,150.0,135.0,3+1,11-15 arası,11,14,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,250.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,2399000,Hayır
+136,Daire,Cumhuriyet Mah.,109.0,97.0,2+1,0,5,6,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,950000,Hayır
+137,Daire,Cumhuriyet Mah.,109.0,96.0,2+1,2,6,9,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1050000,Hayır
+138,Daire,Kavaklı Mh.,105.0,95.0,2+1,4,Giriş Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1255000,Hayır
+139,Daire,Barış Mh.,170.0,145.0,3+1,11-15 arası,Giriş Katı,7,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,250.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1579000,Hayır
+140,Daire,Cumhuriyet Mah.,180.0,165.0,4+1,0,1,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,629900,Hayır
+141,Daire,Adnan Kahveci Mah.,105.0,95.0,2+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1630000,Hayır
+142,Daire,Cumhuriyet Mah.,190.0,170.0,3+2,0,Yüksek Giriş,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,729000,Evet
+143,Daire,Cumhuriyet Mah.,180.0,170.0,3+2,0,Giriş Katı,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,799000,Evet
+144,Daire,Beylikdüzü OSB,100.0,95.0,2+1,5-10 arası,18,25 üzeri,Merkezi,1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,885000,Hayır
+145,Daire,Kavaklı Mh.,140.0,85.0,2+1,1,Giriş Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1865000,Hayır
+146,Daire,Adnan Kahveci Mah.,110.0,105.0,2+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2348000,Hayır
+147,Daire,Cumhuriyet Mah.,115.0,105.0,2+1,0,Giriş Katı,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,599999,Hayır
+148,Daire,Cumhuriyet Mah.,125.0,110.0,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,679900,Hayır
+149,Daire,Adnan Kahveci Mah.,190.0,150.0,4+1,3,4,4,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2599000,Hayır
+150,Daire,Cumhuriyet Mah.,180.0,165.0,3+2,0,1,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,629900,Evet
+151,Daire,Kavaklı Mh.,115.0,100.0,2+1,0,Giriş Katı,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,999000,Hayır
+152,Daire,Yakuplu Mah.,100.0,90.0,2+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,1219900,Hayır
+153,Daire,Kavaklı Mh.,165.0,150.0,3+1,0,1,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1765000,Hayır
+154,Müstakil Ev,Dereağzı Mh.,700.0,350.0,HIGH_RARITY,0,3,3,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,5840000,Evet
+155,Daire,Adnan Kahveci Mah.,120.0,100.0,2+1,0,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2850000,Hayır
+156,Daire,Barış Mh.,160.0,150.0,3+1,5-10 arası,1,8,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,250.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2788000,Hayır
+157,Daire,Adnan Kahveci Mah.,155.0,145.0,3+1,4,2,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3200000,Hayır
+158,Daire,Cumhuriyet Mah.,115.0,105.0,2+1,0,Giriş Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,599000,Hayır
+159,Daire,Adnan Kahveci Mah.,140.0,125.0,3+1,5-10 arası,3,4,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1974000,Hayır
+160,Daire,Adnan Kahveci Mah.,140.0,125.0,3+1,0,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3375000,Hayır
+161,Daire,Adnan Kahveci Mah.,190.0,175.0,3+1,11-15 arası,1,8,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Beyaz İnci Konakları,400.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,4000000,Hayır
+162,Daire,Cumhuriyet Mah.,120.0,100.0,2+1,0,6,15-20 arası,Merkezi,1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Hayır,Kat İrtifaklı,Emlak Ofisinden,Hayır,980000,Hayır
+163,Daire,Cumhuriyet Mah.,130.0,120.0,2+1,0,Yüksek Giriş,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,849900,Hayır
+164,Daire,Cumhuriyet Mah.,62.0,54.0,LOW_RARITY,0,18,20-25 arası,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,649900,Hayır
+165,Daire,Yakuplu Mah.,140.0,130.0,3+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Corner Park,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3849000,Hayır
+166,Daire,Adnan Kahveci Mah.,120.0,105.0,2+1,4,Giriş Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1400000,Hayır
+167,Daire,Adnan Kahveci Mah.,160.0,145.0,3+1,0,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1750000,Hayır
+168,Daire,Adnan Kahveci Mah.,120.0,105.0,2+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1500000,Hayır
+169,Daire,Cumhuriyet Mah.,120.0,110.0,2+1,0,12,20-25 arası,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1399900,Hayır
+170,Daire,Yakuplu Mah.,115.0,100.0,2+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1090000,Hayır
+171,Daire,Marmara Mah.,240.0,200.0,4+2,0,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3250000,Evet
+172,Daire,Cumhuriyet Mah.,140.0,130.0,3+1,0,4,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1205000,Hayır
+173,Daire,Adnan Kahveci Mah.,180.0,170.0,3+1,4,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2799000,Hayır
+174,Daire,Cumhuriyet Mah.,110.0,95.0,2+1,5-10 arası,Giriş Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,679000,Hayır
+175,Daire,Kavaklı Mh.,145.0,130.0,3+1,0,4,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1835000,Hayır
+176,Daire,Kavaklı Mh.,140.0,135.0,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2550000,Hayır
+177,Daire,Cumhuriyet Mah.,110.0,100.0,2+1,4,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,679000,Hayır
+178,Daire,Kavaklı Mh.,165.0,145.0,3+1,0,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2549000,Hayır
+179,Daire,Marmara Mah.,135.0,120.0,2+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2850000,Hayır
+180,Daire,Cumhuriyet Mah.,135.0,120.0,3+1,4,1,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,990000,Hayır
+181,Daire,Adnan Kahveci Mah.,250.0,200.0,4+2,0,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,5350000,Evet
+182,Daire,Adnan Kahveci Mah.,110.0,90.0,2+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2500000,Hayır
+183,Daire,Cumhuriyet Mah.,140.0,130.0,2+1,3,Yüksek Giriş,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,868000,Hayır
+184,Daire,Yakuplu Mah.,110.0,100.0,2+1,0,Yüksek Giriş,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1800000,Hayır
+185,Daire,Yakuplu Mah.,117.0,102.0,2+1,1,Giriş Altı Daireler,4,Doğalgaz (Kombi),2,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1550000,Hayır
+186,Daire,Marmara Mah.,105.0,95.0,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1549000,Hayır
+187,Daire,Yakuplu Mah.,230.0,200.0,HIGH_RARITY,0,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,2699000,Evet
+188,Daire,Yakuplu Mah.,135.0,120.0,3+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2149000,Hayır
+189,Daire,Kavaklı Mh.,140.0,130.0,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2399000,Hayır
+190,Daire,Adnan Kahveci Mah.,115.0,110.0,2+1,0,3,5,Merkezi,2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2499000,Hayır
+191,Daire,Adnan Kahveci Mah.,140.0,125.0,3+1,0,4,8,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2199000,Hayır
+192,Daire,Adnan Kahveci Mah.,180.0,170.0,3.5+1,4,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3200000,Hayır
+193,Daire,Adnan Kahveci Mah.,185.0,155.0,3+1,11-15 arası,11,11,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2950000,Hayır
+194,Daire,Beylikdüzü OSB,90.0,85.0,2+1,3,Giriş Katı,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,690000,Hayır
+195,Daire,Kavaklı Mh.,220.0,190.0,3+2,4,5,5,Doğalgaz (Kombi),2,Var,Evet,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,3750000,Evet
+196,Daire,Barış Mh.,150.0,145.0,3+1,16-20 arası,Giriş Katı,8,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,215.0,Evet,Kat İrtifaklı,Sahibinden,Evet,1590000,Hayır
+197,Daire,Yakuplu Mah.,110.0,100.0,2+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1475000,Hayır
+198,Daire,Adnan Kahveci Mah.,140.0,115.0,3+1,5-10 arası,2,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Emir Life,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3750000,Hayır
+199,Daire,Cumhuriyet Mah.,80.0,70.0,1+1,5-10 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,865000,Hayır
+200,Daire,Cumhuriyet Mah.,110.0,100.0,2+1,0,9,25 üzeri,Merkezi,1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,819800,Hayır
+201,Daire,Adnan Kahveci Mah.,185.0,175.0,3+2,4,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2590000,Evet
+202,Daire,Cumhuriyet Mah.,105.0,100.0,2+1,0,Giriş Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,499000,Hayır
+203,Daire,Cumhuriyet Mah.,95.0,90.0,2+1,3,2,4,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,889000,Hayır
+204,Daire,Kavaklı Mh.,120.0,100.0,2+1,1,1,7,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Aqua Kavaklı,700.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2150000,Hayır
+205,Daire,Yakuplu Mah.,100.0,85.0,2+1,0,1,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1230000,Hayır
+206,Daire,Kavaklı Mh.,140.0,125.0,3+1,16-20 arası,4,8,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,İhlas Marmara Evleri 2. Kısım,240.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3100000,Hayır
+207,Daire,Cumhuriyet Mah.,87.0,63.0,2+1,0,1,15-20 arası,Merkezi,2,Var,Hayır,Boş,Evet,Kameroğlu Metrohome,255.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3250000,Hayır
+208,Daire,Adnan Kahveci Mah.,190.0,170.0,3+1,11-15 arası,10,13,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Ata Sitesi,255.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,2950000,Hayır
+209,Daire,Adnan Kahveci Mah.,200.0,180.0,3+2,0,5,5,Rare,2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3095000,Evet
+210,Daire,Cumhuriyet Mah.,110.0,105.0,2+1,0,3,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,945000,Hayır
+211,Daire,Cumhuriyet Mah.,120.0,115.0,2+1,0,4,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,980000,Hayır
+212,Daire,Cumhuriyet Mah.,130.0,120.0,3+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1179900,Hayır
+213,Daire,Dereağzı Mh.,180.0,150.0,3+1,0,3,4,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,6459000,Hayır
+214,Daire,Cumhuriyet Mah.,100.0,90.0,2+1,5-10 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,799000,Hayır
+215,Daire,Kavaklı Mh.,145.0,120.0,3+1,0,2,3,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,4990000,Hayır
+216,Daire,Adnan Kahveci Mah.,150.0,140.0,3+1,3,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2150000,Hayır
+217,Daire,Adnan Kahveci Mah.,170.0,165.0,3+1,16-20 arası,13,15-20 arası,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Yeşil Vadi Evleri,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3700000,Hayır
+218,Daire,Cumhuriyet Mah.,160.0,150.0,3+1,5-10 arası,5,15,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,945000,Hayır
+219,Daire,Kavaklı Mh.,120.0,105.0,3+1,5-10 arası,Giriş Katı,3,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1650000,Hayır
+220,Daire,Adnan Kahveci Mah.,140.0,130.0,3+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3150000,Hayır
+221,Daire,Adnan Kahveci Mah.,170.0,140.0,3+1,2,3,5,Merkezi,2,Var,Hayır,Mülk Sahibi,Evet,Alya Grandis,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,5990000,Hayır
+222,Daire,Büyükşehir Mh.,90.0,80.0,2+1,16-20 arası,4,11,Merkezi,1,Yok,Hayır,Mülk Sahibi,Evet,Büyükşehir Sitesi,250.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1750000,Hayır
+223,Daire,Adnan Kahveci Mah.,180.0,160.0,3+1,5-10 arası,1,7,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,5240000,Hayır
+224,Daire,Yakuplu Mah.,80.0,70.0,1+1,5-10 arası,2,6,Doğalgaz (Kombi),1,Yok,Evet,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Evet,1650000,Hayır
+225,Daire,Adnan Kahveci Mah.,160.0,130.0,3+1,5-10 arası,3,10,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,3600000,Hayır
+226,Daire,Cumhuriyet Mah.,160.0,150.0,2+1,5-10 arası,2,7,Merkezi,2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3300000,Hayır
+227,Daire,Cumhuriyet Mah.,110.0,100.0,2+1,4,4,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,685000,Hayır
+228,Daire,Kavaklı Mh.,144.0,122.0,3+1,4,10,12,Merkezi,2,Var,Hayır,Mülk Sahibi,Evet,Huzurlu Marmara,860.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,4075000,Hayır
+229,Daire,Kavaklı Mh.,100.0,80.0,2+1,0,Giriş Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Alya Mercan,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3100000,Hayır
+230,Daire,Kavaklı Mh.,100.0,80.0,2+1,1,Yüksek Giriş,4,Doğalgaz (Kombi),1,Yok,Hayır,Mülk Sahibi,Evet,Kanarya Park Sitesi,100.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1850000,Hayır
+231,Daire,Marmara Mah.,220.0,180.0,3+1,5-10 arası,2,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,50.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3950000,Hayır
+232,Daire,Adnan Kahveci Mah.,110.0,100.0,2+1,5-10 arası,6,8,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2375000,Hayır
+233,Daire,Büyükşehir Mh.,95.0,80.0,1+1,5-10 arası,5,9,Doğalgaz (Kombi),1,Yok,Hayır,Mülk Sahibi,Evet,Ekinoks Beylikdüzü,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1750000,Hayır
+234,Daire,Adnan Kahveci Mah.,185.0,165.0,3+1,11-15 arası,3,3,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Vista 1,255.0,Evet,Kat Mülkiyetli,Sahibinden,Evet,6150000,Hayır
+235,Daire,Yakuplu Mah.,75.0,55.0,2+1,5-10 arası,3,4,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,1600000,Hayır
+236,Daire,Kavaklı Mh.,195.0,175.0,3+2,4,5,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Saytaş Gold Evleri,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3150000,Evet
+237,Daire,Kavaklı Mh.,150.0,110.0,3+1,4,Giriş Katı,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Aden Kavaklı Konakları,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2890000,Hayır
+238,Daire,Adnan Kahveci Mah.,90.0,75.0,1+1,5-10 arası,2,4,Merkezi,1,Var,Hayır,Boş,Evet,Ahenk İstanbul,710.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,2370000,Hayır
+239,Daire,Yakuplu Mah.,110.0,100.0,2+1,4,Yüksek Giriş,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1349000,Hayır
+240,Daire,Adnan Kahveci Mah.,150.0,140.0,3+1,0,4,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3149000,Hayır
+241,Daire,Adnan Kahveci Mah.,200.0,190.0,4+1,0,1,5,Rare,2,Var,Hayır,Boş,Evet,Dora Park 6,700.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,6750000,Hayır
+242,Daire,Yakuplu Mah.,110.0,90.0,3+1,16-20 arası,Giriş Katı,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1650000,Hayır
+243,Daire,Cumhuriyet Mah.,115.0,105.0,2+1,4,4,8,Rare,1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1700000,Hayır
+244,Daire,Büyükşehir Mh.,125.0,110.0,3+1,26-30 arası,5,13,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Büyükşehir Sitesi,300.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2220000,Hayır
+245,Daire,Adnan Kahveci Mah.,155.0,135.0,3+1,5-10 arası,1,5,Doğalgaz (Kombi),3,Var,Hayır,Mülk Sahibi,Evet,Flora City,50.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2650000,Hayır
+246,Daire,Cumhuriyet Mah.,100.0,67.0,1+1,5-10 arası,5,15,Merkezi,1,Var,Evet,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1600000,Hayır
+247,Daire,Gürpınar Mh.,60.0,56.0,2+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1800000,Hayır
+248,Daire,Cumhuriyet Mah.,72.0,56.0,1+1,0,5,15-20 arası,Rare,1,Var,Hayır,Boş,Evet,Kameroğlu Metrohome,255.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,2950000,Hayır
+249,Daire,Yakuplu Mah.,105.0,90.0,2+1,1,Giriş Katı,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1490000,Hayır
+250,Daire,Cumhuriyet Mah.,54.0,44.0,LOW_RARITY,0,4,12,Merkezi,1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,619000,Hayır
+252,Daire,Yakuplu Mah.,110.0,95.0,2+1,4,Giriş Altı Daireler,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,1470000,Hayır
+253,Daire,Adnan Kahveci Mah.,180.0,165.0,3+1,5-10 arası,2,10,Merkezi,2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3122000,Hayır
+254,Daire,Adnan Kahveci Mah.,120.0,110.0,2+1,0,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1690000,Hayır
+255,Daire,Adnan Kahveci Mah.,125.0,105.0,2+1,5-10 arası,1,5,Merkezi,2,Var,Hayır,Mülk Sahibi,Evet,Asmalı Park Konakları,500.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3000000,Hayır
+256,Daire,Yakuplu Mah.,135.0,125.0,3+1,0,Yüksek Giriş,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,1530000,Hayır
+257,Daire,Barış Mh.,360.0,300.0,4+2,16-20 arası,6,7,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,222.5,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,3950000,Evet
+258,Daire,Yakuplu Mah.,115.0,95.0,2+1,0,4,8,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,790000,Hayır
+259,Müstakil Ev,Kavaklı Mh.,145.0,130.0,3+1,0,1,1,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2619000,Hayır
+260,Daire,Cumhuriyet Mah.,180.0,120.0,3+1,0,Giriş Katı,4,Merkezi,2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,2570000,Hayır
+261,Daire,Gürpınar Mh.,295.0,280.0,HIGH_RARITY,5-10 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Akevler,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3200000,Evet
+262,Daire,Yakuplu Mah.,150.0,120.0,2+2,2,Yüksek Giriş,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1472900,Evet
+263,Daire,Kavaklı Mh.,170.0,142.0,3+2,1,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,3450000,Evet
+264,Daire,Yakuplu Mah.,190.0,150.0,HIGH_RARITY,1,5,7,Doğalgaz (Kombi),2,Var,Evet,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,3565000,Hayır
+265,Daire,Cumhuriyet Mah.,85.0,75.0,1+1,3,Yüksek Giriş,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,780000,Hayır
+266,Daire,Yakuplu Mah.,85.0,69.0,2+1,0,Yüksek Giriş,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1750000,Hayır
+267,villa_or_müstakil_ev,Adnan Kahveci Mah.,185.0,160.0,3+1,11-15 arası,2,2,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,2925000,Hayır
+268,Daire,Barış Mh.,185.0,165.0,3+1,11-15 arası,3,14,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Plaksan Sitesi,120.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2950000,Hayır
+269,Daire,Adnan Kahveci Mah.,140.0,130.0,3+1,4,3,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Sahibinden,Hayır,2375000,Hayır
+270,Daire,Adnan Kahveci Mah.,167.0,142.0,3+1,0,1,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3250000,Hayır
+271,Daire,Adnan Kahveci Mah.,120.0,110.0,2+1,5-10 arası,12,15-20 arası,Doğalgaz (Kombi),1,Yok,Evet,Boş,Evet,Kubist Park Residence,450.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,4300000,Hayır
+272,Daire,Adnan Kahveci Mah.,130.0,100.0,2+1,0,1,7,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3600000,Hayır
+273,Daire,Adnan Kahveci Mah.,185.0,150.0,3+1,5-10 arası,2,8,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,5150000,Hayır
+274,Daire,Adnan Kahveci Mah.,180.0,156.0,3+1,16-20 arası,7,11,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Ekşioğlu Akkent Şelale Evleri,500.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,2375000,Hayır
+275,Daire,Cumhuriyet Mah.,175.0,160.0,3+1,5-10 arası,1,8,Merkezi,2,Var,Hayır,Mülk Sahibi,Evet,Beyaz Park 2,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,6750000,Hayır
+276,Daire,Yakuplu Mah.,110.0,105.0,2+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1959000,Hayır
+278,Daire,Marmara Mah.,200.0,170.0,3+1,0,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2750000,Hayır
+279,Daire,Adnan Kahveci Mah.,100.0,81.0,1+1,5-10 arası,3,7,Merkezi,1,Yok,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2100000,Hayır
+280,Daire,Kavaklı Mh.,240.0,200.0,3+2,2,4,4,Doğalgaz (Kombi),HIGH_RARITY,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3950000,Evet
+281,Daire,Yakuplu Mah.,90.0,90.0,2+1,5-10 arası,2,5,Merkezi,1,Var,Hayır,Mülk Sahibi,Evet,Özgün Kent Sitesi,255.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,1630000,Hayır
+282,Daire,Yakuplu Mah.,95.0,75.0,2+1,0,Giriş Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2000000,Hayır
+283,Daire,Dereağzı Mh.,90.0,80.0,2+1,21-25 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,1300000,Hayır
+284,Daire,Cumhuriyet Mah.,86.0,70.0,LOW_RARITY,5-10 arası,1,8,Merkezi,1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1300000,Hayır
+285,Daire,Kavaklı Mh.,220.0,200.0,3+2,3,3,3,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Evet,2975000,Evet
+286,Daire,Kavaklı Mh.,120.0,110.0,2+1,0,1,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1665000,Hayır
+287,Daire,Dereağzı Mh.,115.0,100.0,2+1,5-10 arası,3,5,Doğalgaz (Kombi),2,Var,Evet,Mülk Sahibi,Evet,Prince Homes,255.0,Hayır,Kat Mülkiyetli,Sahibinden,Hayır,3400000,Hayır
+288,Daire,Yakuplu Mah.,100.0,95.0,2+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1450000,Hayır
+289,Daire,Kavaklı Mh.,125.0,110.0,2+1,0,2,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Evet,2199000,Hayır
+290,Daire,Dereağzı Mh.,150.0,130.0,3+1,3,1,3,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Camellia Evleri,255.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,2970000,Hayır
+291,Daire,Adnan Kahveci Mah.,120.0,110.0,2+1,4,1,4,Doğalgaz (Kombi),2,Yok,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,1825000,Hayır
+292,Daire,Adnan Kahveci Mah.,380.0,320.0,HIGH_RARITY,11-15 arası,15,15,Doğalgaz (Kombi),3,Var,Hayır,Mülk Sahibi,Evet,Yeşilkent 1 Sitesi,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,5100000,Evet
+293,Daire,Adnan Kahveci Mah.,156.0,124.0,3+1,5-10 arası,Giriş Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1949000,Hayır
+294,Daire,Adnan Kahveci Mah.,180.0,155.0,3+1,16-20 arası,10,15,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3200000,Hayır
+295,Daire,Kavaklı Mh.,145.0,130.0,3+1,16-20 arası,3,8,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,İhlas Marmara Evleri 2. Kısım,255.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,3500000,Hayır
+296,Daire,Dereağzı Mh.,130.0,100.0,2+1,3,4,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2775000,Hayır
+297,Daire,Adnan Kahveci Mah.,165.0,140.0,3+1,4,5,9,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Hayır,Kat İrtifaklı,Emlak Ofisinden,Hayır,3100000,Hayır
+298,Daire,Adnan Kahveci Mah.,350.0,300.0,HIGH_RARITY,5-10 arası,7,7,Doğalgaz (Kombi),3,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,4950000,Evet
+299,Daire,Adnan Kahveci Mah.,120.0,105.0,2+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2275000,Hayır
+300,Daire,Kavaklı Mh.,172.0,148.0,3+1,0,Giriş Katı,12,Merkezi,2,Var,Hayır,Boş,Evet,İhlas Marmara Evleri 4. Kısım,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,5100000,Hayır
+301,Daire,Adnan Kahveci Mah.,110.0,100.0,2+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,1999000,Hayır
+302,Daire,Marmara Mah.,110.0,100.0,3+1,16-20 arası,6,8,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,İhlas Marmara Evleri 1. Kısım,360.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2425000,Hayır
+303,Daire,Adnan Kahveci Mah.,110.0,90.0,2+1,11-15 arası,8,9,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Elit Park Evleri,260.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,2450000,Hayır
+304,Daire,Marmara Mah.,115.0,100.0,2+1,0,Giriş Katı,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,50.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1259000,Hayır
+305,Daire,Dereağzı Mh.,155.0,135.0,3+1,5-10 arası,4,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2750000,Hayır
+307,Daire,Barış Mh.,150.0,140.0,3+1,11-15 arası,4,12,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,250.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3250000,Hayır
+308,Daire,Beylikdüzü OSB,100.0,90.0,2+1,0,3,8,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Sahibinden,Hayır,892000,Hayır
+309,Daire,Barış Mh.,160.0,145.0,3+1,21-25 arası,3,14,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,218.75,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2550000,Hayır
+310,Daire,Kavaklı Mh.,134.0,100.0,2+1,0,5,20-25 arası,Merkezi,1,Yok,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,4750000,Hayır
+311,Daire,Yakuplu Mah.,90.0,85.0,2+1,4,Giriş Katı,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1169000,Hayır
+312,Daire,Adnan Kahveci Mah.,145.0,130.0,3+1,4,1,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2100000,Hayır
+313,Daire,Gürpınar Mh.,110.0,90.0,2+1,4,3,6,Doğalgaz (Kombi),2,Var,Evet,Boş,Evet,Blue Sea City 34 Konutları,350.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2840000,Hayır
+314,Daire,Barış Mh.,82.0,70.0,1+1,5-10 arası,10,10,Merkezi,1,Var,Hayır,Mülk Sahibi,Evet,Makyol Yaşam Beylikdüzü,650.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2300000,Hayır
+315,Daire,Kavaklı Mh.,115.0,105.0,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1799000,Hayır
+316,Daire,Dereağzı Mh.,110.0,100.0,2+1,4,3,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2450000,Hayır
+317,Daire,Marmara Mah.,180.0,160.0,3+1,5-10 arası,4,10,Doğalgaz (Kombi),3,Var,Hayır,Mülk Sahibi,Evet,Beyza Konakları,150.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3500000,Hayır
+318,Daire,Kavaklı Mh.,85.0,70.0,2+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2250000,Hayır
+319,Daire,Adnan Kahveci Mah.,150.0,145.0,3+1,11-15 arası,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3100000,Hayır
+320,Daire,Kavaklı Mh.,130.0,110.0,3+1,0,4,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,990000,Hayır
+321,Daire,Adnan Kahveci Mah.,200.0,180.0,3+1,5-10 arası,4,7,Doğalgaz (Kombi),2,Var,Evet,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,4650000,Hayır
+322,Daire,Barış Mh.,105.0,75.0,2+1,5-10 arası,Yüksek Giriş,14,Merkezi,1,Var,Hayır,Mülk Sahibi,Evet,Aris Park Residence,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2385000,Hayır
+323,Daire,Kavaklı Mh.,100.0,90.0,2+1,5-10 arası,4,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,2400000,Hayır
+324,Daire,Adnan Kahveci Mah.,150.0,120.0,3+1,21-25 arası,4,12,Doğalgaz (Kombi),2,Yok,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2850000,Hayır
+325,Daire,Gürpınar Mh.,150.0,120.0,3+1,0,1,6,Doğalgaz (Kombi),2,Yok,Hayır,Mülk Sahibi,Evet,Gürpınar Konakları,400.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,3000000,Hayır
+326,Daire,Adnan Kahveci Mah.,125.0,105.0,2+1,5-10 arası,Giriş Katı,8,Doğalgaz (Kombi),2,Yok,Hayır,Mülk Sahibi,Evet,Adel Palas,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2500000,Hayır
+327,Daire,Barış Mh.,145.0,125.0,3+1,21-25 arası,1,9,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,220.625,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2550000,Hayır
+328,Daire,Kavaklı Mh.,120.0,110.0,2+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Ayazma Konakları,450.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2650000,Hayır
+329,Daire,Barış Mh.,239.0,188.0,3+1,3,6,11,Merkezi,2,Var,Hayır,Mülk Sahibi,Evet,Westside İstanbul,255.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,7000000,Hayır
+330,Daire,Yakuplu Mah.,110.0,100.0,2+1,0,1,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1488000,Hayır
+331,Daire,Kavaklı Mh.,350.0,300.0,HIGH_RARITY,1,4,5,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Şehri Beyaz Konakları 2,255.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,7440000,Hayır
+332,Daire,Kavaklı Mh.,115.0,110.0,2+1,0,Giriş Katı,5,Merkezi,1,Var,Hayır,Boş,Evet,Dora Park 7,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2975000,Hayır
+333,Daire,Adnan Kahveci Mah.,145.0,130.0,3+1,4,4,5,Merkezi,2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,3700000,Hayır
+334,Daire,Cumhuriyet Mah.,140.0,130.0,3+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1200000,Hayır
+335,Daire,Marmara Mah.,110.0,95.0,2+1,0,Giriş Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,50.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1650000,Hayır
+336,Daire,Adnan Kahveci Mah.,185.0,160.0,3+1,16-20 arası,2,12,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3150000,Hayır
+337,Daire,Kavaklı Mh.,127.0,107.0,2+1,5-10 arası,2,5,Merkezi,2,Var,Hayır,Mülk Sahibi,Evet,Bey Kasrı Konakları,1.25,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3500000,Hayır
+338,Daire,Adnan Kahveci Mah.,175.0,158.0,3+1,16-20 arası,3,14,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Yeşilkent Sitesi 3,400.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3250000,Hayır
+339,Daire,Adnan Kahveci Mah.,110.0,100.0,2+1,4,Giriş Katı,5,Merkezi,2,Var,Hayır,Mülk Sahibi,Evet,Ahenk İstanbul,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2350000,Hayır
+340,Daire,Marmara Mah.,100.0,80.0,1+1,0,2,10,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,İn Mari,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3800000,Hayır
+341,Daire,Yakuplu Mah.,230.0,200.0,4+2,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2050000,Evet
+342,Daire,Adnan Kahveci Mah.,90.0,70.0,1+1,0,12,20-25 arası,Merkezi,1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3500000,Hayır
+343,Daire,Barış Mh.,140.0,120.0,3+1,16-20 arası,Yüksek Giriş,14,Doğalgaz (Kombi),1,Yok,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,221.5625,Evet,Kat Mülkiyetli,Sahibinden,Hayır,2650000,Hayır
+344,Daire,Cumhuriyet Mah.,145.0,130.0,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1900000,Hayır
+345,Daire,Büyükşehir Mh.,85.0,75.0,2+1,21-25 arası,8,12,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1750000,Hayır
+346,Daire,Adnan Kahveci Mah.,170.0,150.0,3+1,16-20 arası,12,14,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2860000,Hayır
+347,Daire,Yakuplu Mah.,155.0,140.0,3+1,16-20 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2300000,Hayır
+348,Daire,Adnan Kahveci Mah.,235.0,220.0,4+2,5-10 arası,3,5,Merkezi,3,Var,Hayır,Mülk Sahibi,Evet,Zülal Konakları,255.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3950000,Evet
+349,Daire,Yakuplu Mah.,105.0,100.0,2+1,5-10 arası,2,4,Doğalgaz (Kombi),1,Var,Evet,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,2250000,Hayır
+350,Daire,Kavaklı Mh.,160.0,153.0,3+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Şehri Beyaz Konakları,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,4100000,Hayır
+351,Daire,Yakuplu Mah.,148.0,120.0,3+1,3,2,4,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Zirve Park Yaşam Evleri,500.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3795000,Hayır
+352,Daire,Yakuplu Mah.,200.0,175.0,3+2,0,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2219000,Evet
+353,Daire,Kavaklı Mh.,124.0,120.0,2+1,0,Yüksek Giriş,5,Doğalgaz (Kombi),HIGH_RARITY,Var,Hayır,Boş,Evet,Şehri Beyaz Konakları 2,255.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2865000,Hayır
+354,Daire,Yakuplu Mah.,120.0,100.0,2+1,0,Giriş Katı,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,750000,Hayır
+355,Daire,Kavaklı Mh.,210.0,185.0,3+2,2,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3675000,Evet
+356,Daire,Marmara Mah.,96.0,78.0,2+1,11-15 arası,5,10,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Eston Reşitpaşa 3 Evleri,550.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,2975000,Hayır
+357,Daire,Adnan Kahveci Mah.,190.0,170.0,3+1,4,7,7,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,4300000,Hayır
+358,Daire,Yakuplu Mah.,135.0,115.0,3+1,5-10 arası,Giriş Katı,5,Doğalgaz (Kombi),2,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1650000,Hayır
+359,Daire,Sahil Mah.,160.0,145.0,3+1,2,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Alya Marin,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,6000000,Hayır
+360,Daire,Adnan Kahveci Mah.,110.0,100.0,2+1,0,4,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,2650000,Hayır
+361,Daire,Marmara Mah.,145.0,125.0,3+1,21-25 arası,4,10,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Gelişim Sitesi,200.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,2200000,Hayır
+362,Daire,Adnan Kahveci Mah.,280.0,250.0,4+2,2,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,4500000,Evet
+363,Daire,Marmara Mah.,180.0,160.0,3+1,16-20 arası,1,9,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Gelişim Sitesi,110.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3150000,Hayır
+364,Daire,Kavaklı Mh.,185.0,165.0,3+2,4,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,2800000,Evet
+365,Daire,Adnan Kahveci Mah.,120.0,105.0,2+1,16-20 arası,11,12,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Velittin Küçük Sitesi,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2500000,Hayır
+366,Daire,Kavaklı Mh.,140.0,130.0,3+1,1,3,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1350000,Hayır
+367,Daire,Yakuplu Mah.,155.0,145.0,3+1,0,8,10,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1525000,Hayır
+368,Daire,Cumhuriyet Mah.,130.0,125.0,3+1,5-10 arası,2,10,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1475000,Hayır
+369,Daire,Kavaklı Mh.,210.0,185.0,3+2,5-10 arası,5,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,3100000,Evet
+371,Daire,Kavaklı Mh.,80.0,59.0,LOW_RARITY,11-15 arası,Yüksek Giriş,4,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Bilim Yuva Sitesi 2. Kısım,150.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1400000,Hayır
+372,Daire,Kavaklı Mh.,127.0,120.0,2+1,5-10 arası,5,8,Merkezi,2,Var,Hayır,Boş,Evet,Kavaklı Konakları,800.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3550000,Hayır
+373,Daire,Adnan Kahveci Mah.,165.0,145.0,3+1,11-15 arası,8,14,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2850000,Hayır
+374,Daire,Adnan Kahveci Mah.,140.0,120.0,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2549000,Hayır
+375,Daire,Adnan Kahveci Mah.,180.0,160.0,3+1,3,Giriş Katı,8,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Flora City,750.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3750000,Hayır
+376,Daire,Büyükşehir Mh.,60.0,55.0,1+1,26-30 arası,4,5,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,137.5,Hayır,Kat Mülkiyetli,Sahibinden,Hayır,1285000,Hayır
+377,Daire,Kavaklı Mh.,250.0,230.0,HIGH_RARITY,2,4,5,Doğalgaz (Kombi),HIGH_RARITY,Var,Evet,Boş,Hayır,Belirtilmemiş,80.0,Hayır,Kat İrtifaklı,Emlak Ofisinden,Hayır,5760000,Evet
+378,Daire,Yakuplu Mah.,125.0,115.0,2+1,0,7,10,Merkezi,2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,550000,Hayır
+379,Daire,Cumhuriyet Mah.,135.0,125.0,2+1,0,10,15,Merkezi,2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,525000,Hayır
+380,Daire,Dereağzı Mh.,110.0,100.0,2+1,5-10 arası,Giriş Katı,2,Doğalgaz (Kombi),1,Var,Evet,Boş,Evet,Sunkent Tatil Sitesi,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2400000,Hayır
+381,Daire,Büyükşehir Mh.,175.0,150.0,3+1,16-20 arası,Yüksek Giriş,14,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Güzelkent Sitesi,300.0,Evet,Kat İrtifaklı,Sahibinden,Evet,2250000,Hayır
+382,Daire,Barış Mh.,150.0,130.0,3+1,11-15 arası,6,12,Doğalgaz (Kombi),1,Var,Evet,Mülk Sahibi,Hayır,Belirtilmemiş,221.09375,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2500000,Hayır
+383,Daire,Kavaklı Mh.,160.0,140.0,3+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2325000,Hayır
+384,Daire,Dereağzı Mh.,120.0,95.0,2+1,5-10 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2250000,Hayır
+385,Daire,Adnan Kahveci Mah.,135.0,115.0,3+1,1,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,4350000,Hayır
+386,Daire,Kavaklı Mh.,140.0,125.0,3+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Evet,1959999,Hayır
+387,Daire,Yakuplu Mah.,125.0,100.0,2+1,0,Giriş Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Evet,1149999,Hayır
+388,Daire,Dereağzı Mh.,135.0,120.0,3+1,4,3,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2550000,Hayır
+389,Daire,Gürpınar Mh.,245.0,210.0,HIGH_RARITY,5-10 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3350000,Evet
+390,Daire,Adnan Kahveci Mah.,120.0,100.0,2+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Sahibinden,Evet,2299999,Hayır
+391,Daire,Dereağzı Mh.,80.0,60.0,2+1,0,Giriş Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1215000,Hayır
+392,Daire,Kavaklı Mh.,250.0,230.0,HIGH_RARITY,0,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,4150000,Evet
+393,Daire,Kavaklı Mh.,125.0,100.0,3+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Alya Mercan,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3999999,Hayır
+394,Daire,Barış Mh.,140.0,125.0,3+1,21-25 arası,6,9,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Şişli Huzur Sitesi,200.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2550000,Hayır
+395,Daire,Yakuplu Mah.,70.0,55.0,1+1,5-10 arası,Giriş Katı,3,Doğalgaz (Kombi),1,Yok,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,750000,Hayır
+396,Daire,Adnan Kahveci Mah.,200.0,185.0,3+1,21-25 arası,14,15,Doğalgaz (Kombi),2,Var,Evet,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3950000,Hayır
+398,Daire,Barış Mh.,170.0,160.0,3+1,11-15 arası,12,14,Rare,2,Var,Hayır,Boş,Evet,Ada 90 Çamlık Sitesi,150.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,2950000,Hayır
+399,Daire,Kavaklı Mh.,120.0,105.0,2+1,4,1,4,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2100000,Hayır
+400,Daire,Barış Mh.,150.0,140.0,3+1,5-10 arası,12,14,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,220.859375,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2899999,Hayır
+401,Daire,Yakuplu Mah.,130.0,120.0,2+2,11-15 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3290000,Evet
+402,Daire,Adnan Kahveci Mah.,180.0,160.0,3+1,16-20 arası,2,14,Doğalgaz (Kombi),3,Var,Hayır,Mülk Sahibi,Evet,İdeal Evleri,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2550000,Hayır
+403,Daire,Cumhuriyet Mah.,71.0,61.0,1+1,5-10 arası,16,15-20 arası,Merkezi,1,Var,Hayır,Mülk Sahibi,Evet,Demir Romance,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2300000,Hayır
+404,Daire,Marmara Mah.,200.0,185.0,3+1,16-20 arası,2,14,Merkezi,2,Var,Evet,Mülk Sahibi,Evet,T.E.V.D. Sağlık Sitesi,650.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,4700000,Hayır
+405,Daire,Kavaklı Mh.,120.0,110.0,2+1,2,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2049000,Hayır
+406,Daire,Adnan Kahveci Mah.,145.0,135.0,3+1,5-10 arası,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3050000,Hayır
+407,Daire,Marmara Mah.,144.0,115.0,2+1,3,2,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Deniz İstanbul Mercan Konakları,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,7675000,Hayır
+408,Daire,Yakuplu Mah.,140.0,120.0,3+1,4,3,5,Doğalgaz (Kombi),1,Var,Evet,Boş,Hayır,Belirtilmemiş,80.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,2220000,Hayır
+409,Daire,Kavaklı Mh.,168.0,130.0,3+1,1,1,4,Rare,2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Sahibinden,Evet,3500000,Hayır
+410,Daire,Cumhuriyet Mah.,130.0,120.0,3+1,0,Giriş Katı,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,749900,Hayır
+411,Daire,Adnan Kahveci Mah.,230.0,200.0,4+2,5-10 arası,3,4,Doğalgaz (Kombi),3,Var,Hayır,Mülk Sahibi,Evet,Kolej Evleri,250.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3200000,Evet
+412,Daire,Büyükşehir Mh.,85.0,80.0,2+1,21-25 arası,Yüksek Giriş,12,Merkezi,2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,143.75,Evet,Kat Mülkiyetli,Sahibinden,Hayır,1750000,Hayır
+413,Daire,Marmara Mah.,165.0,150.0,3+1,5-10 arası,8,12,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2346000,Hayır
+415,Daire,Sahil Mah.,125.0,115.0,2+1,0,Giriş Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1849000,Hayır
+416,Daire,Cumhuriyet Mah.,150.0,135.0,3+1,5-10 arası,2,11,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2199900,Hayır
+417,Daire,Cumhuriyet Mah.,145.0,130.0,3+1,0,Yüksek Giriş,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,868000,Hayır
+418,Daire,Adnan Kahveci Mah.,125.0,100.0,2+1,5-10 arası,5,7,Doğalgaz (Kombi),2,Yok,Hayır,Mülk Sahibi,Evet,İdeal Evleri,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3000000,Hayır
+420,Daire,Adnan Kahveci Mah.,135.0,125.0,2+1,0,6,9,Merkezi,2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,5320000,Hayır
+421,Daire,Kavaklı Mh.,60.0,42.0,1+1,1,9,12,Merkezi,1,Var,Evet,Boş,Evet,Demir Country,400.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2325000,Hayır
+422,Daire,Kavaklı Mh.,145.0,130.0,3+1,0,Giriş Katı,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1599000,Hayır
+423,Daire,Kavaklı Mh.,85.0,65.0,2+1,0,Giriş Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1650000,Hayır
+425,Daire,Dereağzı Mh.,300.0,280.0,HIGH_RARITY,4,5,5,Merkezi,3,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,6750000,Evet
+426,Daire,Adnan Kahveci Mah.,165.0,155.0,3+1,16-20 arası,3,11,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Simakent Sitesi,255.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,2550000,Hayır
+427,Daire,Cumhuriyet Mah.,110.0,100.0,2+1,5-10 arası,9,10,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1925000,Hayır
+428,Daire,Adnan Kahveci Mah.,110.0,100.0,2+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2600000,Hayır
+429,Daire,Dereağzı Mh.,110.0,98.0,2+1,21-25 arası,Giriş Katı,7,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2550000,Hayır
+430,Daire,Barış Mh.,160.0,150.0,3+1,21-25 arası,4,14,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,220.9765625,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,2335000,Hayır
+431,Daire,Adnan Kahveci Mah.,92.0,65.0,2+1,5-10 arası,6,7,Merkezi,1,Yok,Hayır,Mülk Sahibi,Evet,Kalekent Evleri,255.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3950000,Hayır
+432,Daire,Kavaklı Mh.,150.0,140.0,3+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3850000,Hayır
+433,Daire,Adnan Kahveci Mah.,190.0,180.0,3+1,1,2,6,Merkezi,2,Var,Hayır,Mülk Sahibi,Evet,Doğa Panorama Evleri,500.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,315000,Hayır
+434,Daire,Yakuplu Mah.,165.0,155.0,3+1,5-10 arası,4,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1700000,Hayır
+435,Daire,Yakuplu Mah.,145.0,135.0,3+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1990000,Hayır
+436,Daire,Adnan Kahveci Mah.,170.0,158.0,3+1,5-10 arası,12,14,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3790000,Hayır
+438,Daire,Kavaklı Mh.,170.0,145.0,3+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2299000,Hayır
+439,Daire,Yakuplu Mah.,110.0,95.0,2+1,0,Giriş Katı,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1770000,Hayır
+440,Daire,Barış Mh.,145.0,130.0,3+1,21-25 arası,3,14,Doğalgaz (Kombi),1,Yok,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,221.03515625,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,2250000,Hayır
+441,Daire,Gürpınar Mh.,115.0,110.0,2+1,5-10 arası,3,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2350000,Hayır
+442,Daire,Gürpınar Mh.,95.0,70.0,2+1,4,4,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1629000,Hayır
+443,Daire,Adnan Kahveci Mah.,120.0,110.0,2+1,4,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,2300000,Hayır
+445,Daire,Barış Mh.,165.0,155.0,3+1,11-15 arası,12,15,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Kardelen Sitesi,200.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,2749000,Hayır
+446,Daire,Yakuplu Mah.,195.0,170.0,4+2,5-10 arası,3,3,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Evet,2615000,Evet
+448,Daire,Adnan Kahveci Mah.,145.0,120.0,3+1,5-10 arası,Giriş Katı,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3199000,Hayır
+450,Daire,Büyükşehir Mh.,155.0,145.0,3+1,16-20 arası,12,14,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,140.625,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,2900000,Hayır
+451,Daire,Kavaklı Mh.,146.0,135.0,3+1,5-10 arası,Giriş Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2275000,Hayır
+452,Daire,Yakuplu Mah.,250.0,200.0,HIGH_RARITY,5-10 arası,3,3,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2295000,Evet
+453,Daire,Kavaklı Mh.,155.0,150.0,3+1,3,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2090000,Hayır
+454,Daire,Gürpınar Mh.,155.0,140.0,3+1,0,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3390000,Hayır
+455,Daire,Adnan Kahveci Mah.,185.0,160.0,3+1,16-20 arası,Yüksek Giriş,15-20 arası,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Ata Sitesi,390.0,Evet,Kat Mülkiyetli,Sahibinden,Evet,2675000,Hayır
+456,Daire,Kavaklı Mh.,400.0,250.0,4+2,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2750000,Evet
+457,Daire,Yakuplu Mah.,110.0,95.0,2+1,5-10 arası,3,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2040000,Hayır
+458,Daire,Adnan Kahveci Mah.,120.0,100.0,2+1,4,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2850000,Hayır
+459,Daire,Yakuplu Mah.,130.0,110.0,3+1,0,5,10,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,895000,Hayır
+460,Daire,Yakuplu Mah.,147.0,132.0,3+1,0,4,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1195000,Hayır
+461,Daire,Adnan Kahveci Mah.,175.0,140.0,3+1,5-10 arası,1,8,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,4000000,Hayır
+462,Daire,Marmara Mah.,130.0,120.0,3+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1970000,Hayır
+463,Daire,Kavaklı Mh.,148.0,138.0,3+1,0,Giriş Katı,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,950000,Hayır
+464,Daire,Yakuplu Mah.,140.0,130.0,3+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1850000,Hayır
+465,Daire,Yakuplu Mah.,125.0,115.0,2+1,4,4,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1750000,Hayır
+466,Daire,Adnan Kahveci Mah.,220.0,190.0,4+2,0,5,5,Rare,3,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,3850000,Evet
+467,Daire,Beylikdüzü OSB,140.0,135.0,3+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1290000,Hayır
+468,Daire,Adnan Kahveci Mah.,140.0,130.0,2+1,0,Giriş Katı,3,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2219500,Hayır
+469,Daire,Marmara Mah.,175.0,155.0,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,4000000,Hayır
+470,Daire,Adnan Kahveci Mah.,105.0,85.0,2+1,3,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1630000,Hayır
+471,Daire,Beylikdüzü OSB,115.0,105.0,2+1,0,Giriş Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,685000,Hayır
+472,Daire,Cumhuriyet Mah.,164.0,146.0,3+1,21-25 arası,3,8,Merkezi,2,Var,Hayır,Mülk Sahibi,Evet,Bizimkent Sitesi,500.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,4000000,Hayır
+473,Daire,Yakuplu Mah.,95.0,85.0,2+1,4,Giriş Katı,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1279000,Hayır
+474,Daire,Barış Mh.,100.0,80.0,1+1,5-10 arası,4,15,Doğalgaz (Kombi),1,Yok,Evet,Boş,Evet,Belirtilmemiş,250.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1830000,Hayır
+475,Daire,Kavaklı Mh.,95.0,60.0,1+1,3,Giriş Altı Daireler,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,849000,Hayır
+476,Daire,Adnan Kahveci Mah.,110.0,80.0,2+1,16-20 arası,Yüksek Giriş,12,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Velittin Küçük Sitesi,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1630000,Hayır
+477,Daire,Kavaklı Mh.,150.0,135.0,3+1,5-10 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2800000,Hayır
+478,Daire,Gürpınar Mh.,120.0,110.0,2+1,0,2,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1400000,Hayır
+479,Daire,Cumhuriyet Mah.,100.0,90.0,2+1,4,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,945000,Hayır
+480,Daire,Yakuplu Mah.,220.0,200.0,4+1,11-15 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2650000,Evet
+481,Daire,Barış Mh.,155.0,135.0,3+1,11-15 arası,9,14,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,250.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2700000,Hayır
+482,Daire,Kavaklı Mh.,125.0,110.0,2+1,16-20 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Bilim Yuva Sitesi 2. Kısım,200.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1550000,Hayır
+483,Daire,Yakuplu Mah.,85.0,75.0,2+1,5-10 arası,2,8,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,2550000,Hayır
+484,Daire,Cumhuriyet Mah.,75.0,58.0,1+1,5-10 arası,16,15-20 arası,Merkezi,1,Var,Hayır,Boş,Evet,Demir Romance,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2590000,Hayır
+485,Daire,Yakuplu Mah.,135.0,116.0,3+1,5-10 arası,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2100000,Hayır
+486,Daire,Yakuplu Mah.,110.0,90.0,2+1,0,7,25 üzeri,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,2000000,Hayır
+487,Daire,Barış Mh.,140.0,125.0,3+1,16-20 arası,12,14,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,221.005859375,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2630000,Hayır
+489,Daire,Marmara Mah.,145.0,130.0,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3099000,Hayır
+490,Daire,Gürpınar Mh.,135.0,120.0,3+1,0,1,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2750000,Hayır
+491,Daire,Adnan Kahveci Mah.,235.0,220.0,4+2,4,5,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,6299999,Evet
+492,Daire,Yakuplu Mah.,110.0,100.0,2+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1620000,Hayır
+493,Daire,Kavaklı Mh.,75.0,65.0,1+1,3,Giriş Katı,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,970000,Hayır
+494,Daire,Yakuplu Mah.,100.0,95.0,2+1,0,Giriş Katı,4,Doğalgaz (Kombi),1,Yok,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1549000,Hayır
+495,Daire,Adnan Kahveci Mah.,240.0,220.0,HIGH_RARITY,0,5,5,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,4675000,Evet
+496,Daire,Beylikdüzü OSB,105.0,95.0,2+1,0,3,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,895000,Hayır
+497,Daire,Beylikdüzü OSB,110.0,105.0,2+1,3,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,765000,Hayır
+498,Daire,Marmara Mah.,150.0,140.0,3+1,5-10 arası,6,8,Doğalgaz (Kombi),3,Var,Evet,Boş,Evet,Yeşil Akasya Evleri,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2669000,Hayır
+499,Daire,Yakuplu Mah.,130.0,100.0,2+1,0,2,8,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3300000,Hayır
+500,Daire,Kavaklı Mh.,136.0,97.0,2+1,0,8,12,Merkezi,2,Var,Hayır,Mülk Sahibi,Evet,Azur Marmara,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3950000,Hayır
+501,Daire,Gürpınar Mh.,125.0,105.0,2+1,5-10 arası,1,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1550000,Hayır
+502,Daire,Cumhuriyet Mah.,125.0,100.0,3+1,21-25 arası,9,11,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Bizim Konut Sitesi,150.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2100000,Hayır
+503,Daire,Yakuplu Mah.,240.0,215.0,4+2,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Evet,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,3550000,Evet
+504,Daire,Beylikdüzü OSB,110.0,100.0,2+1,5-10 arası,Giriş Katı,5,Doğalgaz (Kombi),2,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,649999,Hayır
+505,Daire,Cumhuriyet Mah.,120.0,110.0,2+1,5-10 arası,2,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,790000,Hayır
+506,Daire,Dereağzı Mh.,210.0,200.0,4+2,0,4,5,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,4450000,Evet
+508,Daire,Büyükşehir Mh.,115.0,100.0,3+1,21-25 arası,8,8,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,142.1875,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2500000,Hayır
+509,Daire,Barış Mh.,180.0,155.0,3+1,16-20 arası,2,9,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,250.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2175000,Hayır
+510,Daire,Kavaklı Mh.,90.0,80.0,2+1,4,Giriş Katı,4,Doğalgaz (Kombi),1,Yok,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1650000,Hayır
+511,Daire,Adnan Kahveci Mah.,270.0,225.0,HIGH_RARITY,4,4,4,Doğalgaz (Kombi),3,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3500000,Evet
+512,Daire,Yakuplu Mah.,90.0,70.0,1+1,0,3,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,790000,Hayır
+513,Daire,Kavaklı Mh.,110.0,90.0,2+1,5-10 arası,4,5,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2500000,Hayır
+514,Daire,Barış Mh.,150.0,135.0,3+1,21-25 arası,1,9,Merkezi,1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,221.0205078125,Evet,Kat İrtifaklı,Sahibinden,Hayır,3500000,Hayır
+515,Daire,Beylikdüzü OSB,130.0,110.0,3+1,0,2,8,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,885000,Hayır
+518,Daire,Adnan Kahveci Mah.,155.0,135.0,3+1,5-10 arası,4,8,Merkezi,3,Var,Evet,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,4350000,Hayır
+519,Daire,Beylikdüzü OSB,140.0,117.0,2+1,2,3,7,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1250000,Hayır
+520,Daire,Cumhuriyet Mah.,115.0,105.0,2+1,4,7,14,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1297000,Hayır
+521,Daire,Adnan Kahveci Mah.,350.0,290.0,3+1,21-25 arası,15,15,Rare,3,Var,Hayır,Boş,Evet,Yeşilkent Sitesi 2,255.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,5250000,Hayır
+522,Daire,Yakuplu Mah.,180.0,170.0,4+2,0,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3149000,Evet
+523,Daire,Büyükşehir Mh.,135.0,120.0,3+1,5-10 arası,2,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2450000,Hayır
+524,Daire,Marmara Mah.,135.0,120.0,3+1,0,1,4,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,50.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3149000,Hayır
+525,Daire,Kavaklı Mh.,115.0,110.0,3+1,0,Yüksek Giriş,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2449000,Hayır
+526,Daire,Barış Mh.,160.0,120.0,3+1,3,Giriş Katı,9,Merkezi,2,Var,Evet,Mülk Sahibi,Evet,Westside İstanbul,1.5,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,6700000,Hayır
+527,Daire,Cumhuriyet Mah.,176.0,146.0,3+1,21-25 arası,6,8,Merkezi,2,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,4000000,Hayır
+528,Daire,Kavaklı Mh.,120.0,105.0,2+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,2300000,Hayır
+529,Daire,Marmara Mah.,185.0,165.0,3+1,0,4,12,Rare,2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,6000000,Hayır
+530,Daire,Yakuplu Mah.,135.0,120.0,2+1,16-20 arası,2,10,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Mimoza Konutları,255.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,2500000,Hayır
+531,Daire,Beylikdüzü OSB,110.0,100.0,2+1,3,3,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,895000,Hayır
+532,Daire,Gürpınar Mh.,160.0,145.0,3+1,5-10 arası,1,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2450000,Hayır
+533,Daire,Yakuplu Mah.,115.0,100.0,2+1,5-10 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,1665000,Hayır
+534,Daire,Adnan Kahveci Mah.,350.0,335.0,HIGH_RARITY,5-10 arası,6,6,Merkezi,3,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,5250000,Evet
+535,Daire,Kavaklı Mh.,140.0,130.0,3+1,0,1,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Yüksel Konakları,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3250000,Hayır
+536,Daire,Adnan Kahveci Mah.,185.0,175.0,3+1,1,5,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1650000,Hayır
+537,Daire,Cumhuriyet Mah.,185.0,150.0,3+1,5-10 arası,11,14,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Hayır,Kat İrtifaklı,Emlak Ofisinden,Evet,2750000,Hayır
+538,Daire,Barış Mh.,145.0,115.0,3+1,11-15 arası,14,14,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,221.01318359375,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,2300000,Hayır
+539,Daire,Yakuplu Mah.,100.0,90.0,2+1,5-10 arası,2,3,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,1500000,Hayır
+540,Daire,Kavaklı Mh.,100.0,95.0,2+1,4,7,13,Merkezi,1,Var,Hayır,Mülk Sahibi,Evet,Huzurlu Marmara,350.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3000000,Hayır
+541,Daire,Büyükşehir Mh.,140.0,125.0,3+1,26-30 arası,5,11,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,2220000,Hayır
+542,Daire,Adnan Kahveci Mah.,120.0,100.0,2+1,4,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2899000,Hayır
+543,Daire,Adnan Kahveci Mah.,185.0,165.0,3+1,16-20 arası,4,11,Doğalgaz (Kombi),2,Var,Evet,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,3050000,Hayır
+544,Daire,Barış Mh.,70.0,55.0,1+1,2,7,9,Merkezi,1,Var,Hayır,Mülk Sahibi,Evet,Westside İstanbul,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2500000,Hayır
+545,Daire,Kavaklı Mh.,230.0,185.0,HIGH_RARITY,5-10 arası,3,4,Doğalgaz (Kombi),3,Var,Hayır,Mülk Sahibi,Evet,Çimen Park Evleri,255.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,2975000,Hayır
+546,Daire,Cumhuriyet Mah.,138.0,105.0,2+1,0,2,15,Rare,2,Var,Hayır,Boş,Evet,Kameroğlu Metrohome,255.0,Hayır,Kat İrtifaklı,Emlak Ofisinden,Hayır,5200000,Hayır
+547,Daire,Yakuplu Mah.,85.0,76.0,2+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1600000,Hayır
+548,Daire,Kavaklı Mh.,250.0,215.0,4+2,4,4,4,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Palmiye Konakları,400.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,4500000,Evet
+549,Daire,Barış Mh.,150.0,135.0,3+1,21-25 arası,1,13,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,250.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2590000,Hayır
+550,Daire,Adnan Kahveci Mah.,90.0,82.0,2+1,4,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,1990000,Hayır
+551,Daire,Adnan Kahveci Mah.,250.0,220.0,3.5+1,16-20 arası,Giriş Altı Daireler,6,Doğalgaz (Kombi),3,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Hayır,Kat İrtifaklı,Sahibinden,Hayır,5950000,Hayır
+552,Daire,Kavaklı Mh.,110.0,95.0,2+1,4,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1825000,Hayır
+553,Daire,Barış Mh.,155.0,140.0,3+1,21-25 arası,14,14,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Aydın Kent Sitesi,250.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2725000,Hayır
+554,Daire,Adnan Kahveci Mah.,190.0,185.0,3+1,5-10 arası,9,13,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Pınar Kent Sitesi,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,4100000,Hayır
+555,Daire,Kavaklı Mh.,140.0,110.0,2+2,5-10 arası,9,10,Doğalgaz (Kombi),1,Var,Evet,Mülk Sahibi,Evet,Bey 2023 Evleri,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2250000,Evet
+556,Daire,Barış Mh.,157.0,140.0,3+1,11-15 arası,14,15,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,221.016845703125,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2850000,Hayır
+557,Daire,Kavaklı Mh.,165.0,150.0,3+1,3,2,15-20 arası,Doğalgaz (Kombi),1,Var,Evet,Boş,Evet,Aqua Kavaklı,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3700000,Hayır
+558,Daire,Yakuplu Mah.,150.0,125.0,2+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1749000,Hayır
+560,Daire,Adnan Kahveci Mah.,185.0,170.0,3+1,16-20 arası,5,15,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Altın Kent Sitesi,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3050000,Hayır
+562,Daire,Adnan Kahveci Mah.,180.0,150.0,3+1,16-20 arası,11,15,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3300000,Hayır
+563,Daire,Cumhuriyet Mah.,161.0,145.0,3.5+1,5-10 arası,15,15-20 arası,Merkezi,2,Var,Hayır,Boş,Evet,Demir Romance,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,6500000,Hayır
+564,Daire,Barış Mh.,150.0,140.0,3+1,16-20 arası,12,14,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Okatan Sitesi,250.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,2400000,Hayır
+565,Daire,Büyükşehir Mh.,150.0,135.0,3+1,16-20 arası,11,14,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Güzelkent Sitesi,255.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,2600000,Hayır
+566,Daire,Büyükşehir Mh.,145.0,135.0,3+1,16-20 arası,1,10,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,142.96875,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3200000,Hayır
+567,Daire,Barış Mh.,150.0,135.0,3+1,11-15 arası,1,14,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,250.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2670000,Hayır
+568,Daire,Barış Mh.,145.0,125.0,3+1,21-25 arası,3,12,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Piramit Konutları,200.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,2100000,Hayır
+569,Daire,Kavaklı Mh.,142.0,110.0,2+1,0,11,11,Merkezi,2,Var,Hayır,Boş,Evet,Demir Country,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,4700000,Hayır
+570,Daire,Marmara Mah.,160.0,150.0,3+1,16-20 arası,4,10,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Menekşe Evleri,250.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,2270000,Hayır
+571,Daire,Yakuplu Mah.,75.0,65.0,1+1,5-10 arası,Giriş Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Evet,750000,Hayır
+572,Daire,Cumhuriyet Mah.,140.0,130.0,3+1,0,1,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1049900,Hayır
+573,Daire,Adnan Kahveci Mah.,185.0,145.0,3+1,21-25 arası,11,14,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Altın Kent Sitesi,200.0,Hayır,Kat İrtifaklı,Emlak Ofisinden,Hayır,3925000,Hayır
+574,Daire,Yakuplu Mah.,180.0,150.0,3+1,11-15 arası,Giriş Katı,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Yakuplu Konakları,1.02,Hayır,Kat Mülkiyetli,Sahibinden,Hayır,3890000,Hayır
+575,Daire,Barış Mh.,160.0,148.0,3+1,5-10 arası,3,14,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,250.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2390000,Hayır
+576,Daire,Gürpınar Mh.,125.0,110.0,3+1,5-10 arası,Giriş Katı,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1999000,Hayır
+577,Daire,Barış Mh.,155.0,135.0,3+1,16-20 arası,13,14,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,250.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2385000,Hayır
+578,Daire,Yakuplu Mah.,95.0,90.0,2+1,5-10 arası,2,4,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,1900000,Hayır
+579,Daire,Kavaklı Mh.,120.0,105.0,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Hayır,Kat Mülkiyetli,Sahibinden,Evet,1659999,Hayır
+580,Daire,Adnan Kahveci Mah.,90.0,70.0,2+1,5-10 arası,4,4,Merkezi,1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2000000,Hayır
+581,Daire,Adnan Kahveci Mah.,130.0,120.0,2+1,5-10 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2390000,Hayır
+582,Daire,Kavaklı Mh.,105.0,90.0,2+1,5-10 arası,Giriş Altı Daireler,4,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,1145000,Hayır
+584,Daire,Yakuplu Mah.,144.0,80.0,2+1,0,4,14,Merkezi,1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Hayır,Kat İrtifaklı,Emlak Ofisinden,Hayır,5380000,Hayır
+585,Daire,Yakuplu Mah.,110.0,100.0,2+1,0,1,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1400000,Hayır
+586,Daire,Büyükşehir Mh.,105.0,90.0,3+1,21-25 arası,8,11,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Büyükşehir Sitesi,200.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1900000,Hayır
+587,Daire,Dereağzı Mh.,135.0,125.0,3+1,11-15 arası,3,3,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Sahibinden,Hayır,3100000,Hayır
+588,Daire,Adnan Kahveci Mah.,145.0,125.0,3+1,16-20 arası,9,14,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Ak Yaşam Evleri,50.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2650000,Hayır
+589,Daire,Cumhuriyet Mah.,110.0,105.0,2+1,4,1,15-20 arası,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,789000,Hayır
+591,Daire,Kavaklı Mh.,225.0,215.0,HIGH_RARITY,0,5,5,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3099000,Evet
+592,Daire,Beylikdüzü OSB,130.0,110.0,3+1,0,3,8,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,735000,Hayır
+593,Daire,Yakuplu Mah.,110.0,100.0,2+1,5-10 arası,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1845000,Hayır
+594,Daire,Barış Mh.,200.0,150.0,3.5+1,3,5,13,Merkezi,2,Var,Hayır,Mülk Sahibi,Evet,Vira İstanbul,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,6500000,Hayır
+595,Daire,Adnan Kahveci Mah.,110.0,75.0,1+1,1,Yüksek Giriş,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,1580000,Hayır
+596,Daire,Gürpınar Mh.,110.0,90.0,2+1,26-30 arası,1,8,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1500000,Hayır
+597,Daire,Marmara Mah.,145.0,135.0,3+1,4,8,15,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2399000,Hayır
+598,Daire,Adnan Kahveci Mah.,120.0,120.0,2+1,3,5,8,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2800000,Hayır
+599,Daire,Adnan Kahveci Mah.,175.0,157.0,3+1,11-15 arası,4,13,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Evet,4000000,Hayır
+600,Daire,Sahil Mah.,135.0,125.0,2+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Güverte Beylikdüzü,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2600000,Hayır
+601,Daire,Yakuplu Mah.,65.0,55.0,1+1,0,Giriş Katı,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,1015000,Hayır
+602,Daire,Kavaklı Mh.,125.0,110.0,2+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2560000,Hayır
+603,Daire,Cumhuriyet Mah.,180.0,175.0,4+1,1,5,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1350000,Hayır
+604,Daire,Adnan Kahveci Mah.,145.0,120.0,2+1,5-10 arası,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,3500000,Hayır
+605,Daire,Adnan Kahveci Mah.,155.0,140.0,3+1,5-10 arası,9,10,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1450000,Hayır
+606,Daire,Gürpınar Mh.,250.0,200.0,HIGH_RARITY,4,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3390000,Evet
+607,Daire,Yakuplu Mah.,130.0,120.0,2+1,0,1,5,Doğalgaz (Kombi),2,Var,Evet,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1399999,Hayır
+608,Daire,Kavaklı Mh.,250.0,210.0,4+2,4,4,4,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Yeni Hayat Konakları,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,6950000,Evet
+609,Daire,Yakuplu Mah.,105.0,100.0,2+1,4,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1559000,Hayır
+610,Daire,Adnan Kahveci Mah.,105.0,90.0,2+1,0,2,5,Merkezi,1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1750000,Hayır
+611,Daire,Adnan Kahveci Mah.,57.0,45.0,1+1,5-10 arası,2,7,Merkezi,1,Var,Hayır,Mülk Sahibi,Evet,Kalekent Evleri,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1850000,Hayır
+612,Daire,Adnan Kahveci Mah.,100.0,90.0,2+1,0,1,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2600000,Hayır
+613,Daire,Barış Mh.,137.0,93.0,2+1,0,10,15-20 arası,Merkezi,2,Var,Hayır,Boş,Hayır,Belirtilmemiş,221.0150146484375,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,7000000,Hayır
+614,Daire,Dereağzı Mh.,185.0,115.0,3+1,4,Giriş Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1750000,Hayır
+615,Daire,Cumhuriyet Mah.,75.0,66.0,1+1,21-25 arası,4,8,Merkezi,1,Yok,Hayır,Mülk Sahibi,Evet,Bizimkent Sitesi,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2000000,Hayır
+616,Daire,Büyükşehir Mh.,120.0,110.0,3+1,26-30 arası,6,8,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Büyükşehir Sitesi,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1950000,Hayır
+617,Daire,Adnan Kahveci Mah.,160.0,140.0,3+1,5-10 arası,10,14,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Mavisu Evleri,255.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,2900000,Hayır
+619,Daire,Yakuplu Mah.,160.0,140.0,3+1,5-10 arası,3,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Burcu Evleri,50.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,2450000,Hayır
+621,Daire,Barış Mh.,145.0,120.0,3+1,21-25 arası,6,12,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,221.01409912109375,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,2300000,Hayır
+622,Daire,Kavaklı Mh.,104.0,97.0,2+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,1950000,Hayır
+623,Daire,Barış Mh.,165.0,145.0,3+1,21-25 arası,2,14,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,221.01455688476562,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2950000,Hayır
+624,Daire,Adnan Kahveci Mah.,185.0,160.0,4+2,4,5,6,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,4750000,Evet
+625,Daire,Adnan Kahveci Mah.,400.0,380.0,HIGH_RARITY,11-15 arası,8,9,Doğalgaz (Kombi),3,Var,Hayır,Mülk Sahibi,Evet,Alba Residence,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,7500000,Evet
+626,Daire,Büyükşehir Mh.,125.0,110.0,3+1,26-30 arası,12,13,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Büyükşehir Sitesi,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1825000,Hayır
+627,Daire,Kavaklı Mh.,125.0,115.0,2+1,0,1,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Evet,1899000,Hayır
+628,Daire,Yakuplu Mah.,125.0,110.0,2+1,5-10 arası,1,7,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1970000,Hayır
+629,Daire,Cumhuriyet Mah.,190.0,175.0,3+1,5-10 arası,Giriş Katı,9,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Saklıhan Konakları,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,5000000,Hayır
+630,Daire,Adnan Kahveci Mah.,145.0,140.0,3+1,5-10 arası,3,9,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,2275000,Hayır
+631,Daire,Barış Mh.,160.0,150.0,3+1,16-20 arası,8,14,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,250.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2155000,Hayır
+633,Daire,Kavaklı Mh.,115.0,100.0,2+1,0,Giriş Katı,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1650000,Hayır
+634,Daire,Marmara Mah.,145.0,119.0,3+1,1,3,5,Doğalgaz (Kombi),2,Var,Evet,Boş,Evet,Deniz İstanbul,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,7499000,Hayır
+635,Daire,Cumhuriyet Mah.,115.0,110.0,2+1,5-10 arası,Giriş Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2500000,Hayır
+636,Daire,Gürpınar Mh.,95.0,80.0,2+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1950000,Hayır
+637,Daire,Marmara Mah.,150.0,135.0,3+1,21-25 arası,Yüksek Giriş,8,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,İhlas Marmara Evleri 1. Kısım,275.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3000000,Hayır
+638,Daire,Kavaklı Mh.,350.0,320.0,4+2,0,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2870000,Evet
+639,Daire,Yakuplu Mah.,110.0,100.0,2+1,1,7,15-20 arası,Merkezi,2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Hayır,Kat İrtifaklı,Emlak Ofisinden,Evet,1600000,Hayır
+640,Daire,Kavaklı Mh.,105.0,100.0,2+1,2,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1890000,Hayır
+641,Daire,Cumhuriyet Mah.,160.0,150.0,3+1,5-10 arası,6,7,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3400000,Hayır
+642,Daire,Kavaklı Mh.,120.0,110.0,2+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1450000,Hayır
+643,Daire,Kavaklı Mh.,150.0,130.0,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2650000,Hayır
+644,Daire,Yakuplu Mah.,100.0,95.0,2+1,4,1,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,1490000,Hayır
+645,Daire,Marmara Mah.,120.0,100.0,2+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2349000,Hayır
+646,Daire,Kavaklı Mh.,110.0,90.0,2+1,4,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2100000,Hayır
+647,Daire,Kavaklı Mh.,130.0,115.0,2+1,2,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2099000,Hayır
+648,Daire,Adnan Kahveci Mah.,105.0,95.0,3+1,5-10 arası,2,4,Merkezi,2,Var,Hayır,Mülk Sahibi,Evet,Nevsa Konakları,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,5500000,Hayır
+649,Daire,Barış Mh.,145.0,135.0,3+1,21-25 arası,9,14,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,250.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2250000,Hayır
+650,Daire,Adnan Kahveci Mah.,180.0,155.0,3+1,5-10 arası,3,3,Doğalgaz (Kombi),2,Var,Evet,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3900000,Hayır
+651,Daire,Gürpınar Mh.,280.0,240.0,HIGH_RARITY,4,5,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,3800000,Evet
+652,Daire,Büyükşehir Mh.,95.0,85.0,2+1,5-10 arası,5,12,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,142.578125,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1850000,Hayır
+653,Daire,Cumhuriyet Mah.,160.0,136.0,3+1,21-25 arası,14,15,Merkezi,2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3310000,Hayır
+654,Daire,Adnan Kahveci Mah.,230.0,200.0,4+2,0,5,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3949500,Evet
+655,Daire,Kavaklı Mh.,120.0,100.0,2+1,0,1,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,955000,Hayır
+656,Daire,Gürpınar Mh.,75.0,70.0,2+1,5-10 arası,3,4,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,1600000,Hayır
+657,Daire,Dereağzı Mh.,185.0,155.0,4+1,0,1,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3669999,Hayır
+658,Daire,Kavaklı Mh.,145.0,130.0,3+1,1,1,3,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2100000,Hayır
+659,Daire,Kavaklı Mh.,135.0,110.0,3+1,1,3,3,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,2050000,Evet
+660,Daire,Adnan Kahveci Mah.,270.0,220.0,HIGH_RARITY,2,5,5,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3750000,Hayır
+661,Daire,Kavaklı Mh.,120.0,110.0,2+1,0,1,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1425000,Hayır
+662,Daire,Gürpınar Mh.,165.0,145.0,3+1,11-15 arası,1,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2475000,Hayır
+663,Daire,Cumhuriyet Mah.,170.0,146.0,3+1,21-25 arası,5,8,Merkezi,2,Var,Hayır,Mülk Sahibi,Evet,Bizimkent Sitesi,400.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,4000000,Hayır
+664,Daire,Adnan Kahveci Mah.,125.0,100.0,3+1,0,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2800000,Hayır
+665,Daire,Yakuplu Mah.,285.0,250.0,HIGH_RARITY,5-10 arası,6,6,Doğalgaz (Kombi),HIGH_RARITY,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Evet,3275000,Evet
+666,Daire,Yakuplu Mah.,85.0,75.0,2+1,4,Giriş Katı,6,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,1150000,Hayır
+667,Daire,Adnan Kahveci Mah.,85.0,65.0,1+1,3,Yüksek Giriş,3,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,1220000,Hayır
+668,Daire,Kavaklı Mh.,220.0,200.0,4+2,4,3,3,Doğalgaz (Kombi),3,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,4200000,Evet
+669,Daire,Adnan Kahveci Mah.,160.0,145.0,3+2,0,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3299000,Evet
+670,Daire,Kavaklı Mh.,200.0,170.0,3+2,0,4,5,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Marmara Konakları,600.0,Hayır,Kat İrtifaklı,Emlak Ofisinden,Evet,3300000,Evet
+671,Daire,Sahil Mah.,105.0,95.0,2+1,4,2,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2600000,Hayır
+672,Daire,Yakuplu Mah.,165.0,145.0,3+2,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2675000,Evet
+673,Daire,Adnan Kahveci Mah.,185.0,165.0,3+1,2,2,4,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2747500,Hayır
+674,Daire,Adnan Kahveci Mah.,195.0,180.0,3+1,16-20 arası,Yüksek Giriş,15,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Emincan Kent Sitesi,200.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3450000,Hayır
+675,Daire,Adnan Kahveci Mah.,160.0,155.0,3+1,16-20 arası,10,12,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Simakent Sitesi,255.0,Evet,Kat İrtifaklı,Sahibinden,Evet,3950000,Hayır
+676,Daire,Cumhuriyet Mah.,120.0,100.0,3+1,5-10 arası,13,15,Merkezi,2,Var,Evet,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2800000,Hayır
+677,Daire,Adnan Kahveci Mah.,160.0,130.0,3+1,16-20 arası,15,15-20 arası,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Banksis Sitesi,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3100000,Hayır
+678,Daire,Adnan Kahveci Mah.,145.0,130.0,3+1,0,2,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2250000,Hayır
+679,Daire,Gürpınar Mh.,95.0,80.0,2+1,4,Giriş Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,1090000,Hayır
+680,Daire,Adnan Kahveci Mah.,155.0,135.0,3+1,5-10 arası,4,8,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Osten Park Evleri,350.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,4159000,Hayır
+681,Daire,Adnan Kahveci Mah.,125.0,100.0,3+1,4,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Letisya Evleri,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2880000,Hayır
+682,Daire,Kavaklı Mh.,160.0,140.0,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2399000,Hayır
+683,Daire,Cumhuriyet Mah.,140.0,127.0,3+1,0,6,10,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1245000,Hayır
+684,Daire,Yakuplu Mah.,290.0,270.0,HIGH_RARITY,4,5,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,2200000,Evet
+686,Daire,Yakuplu Mah.,180.0,140.0,3+1,0,4,8,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,4000000,Hayır
+687,Daire,Kavaklı Mh.,120.0,100.0,2+1,0,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2850000,Hayır
+688,Daire,Adnan Kahveci Mah.,145.0,120.0,2+1,5-10 arası,5,9,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2400000,Hayır
+689,Daire,Marmara Mah.,125.0,110.0,2+1,3,5,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,50.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1625000,Hayır
+690,Daire,Adnan Kahveci Mah.,200.0,150.0,3+2,4,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2800000,Evet
+691,Daire,Kavaklı Mh.,100.0,90.0,2+1,21-25 arası,5,6,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1680000,Hayır
+692,Daire,Adnan Kahveci Mah.,160.0,145.0,3+1,16-20 arası,10,14,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Simakent Sitesi,350.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,2675000,Hayır
+693,Daire,Dereağzı Mh.,150.0,140.0,3+1,4,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2540000,Hayır
+694,Daire,Cumhuriyet Mah.,135.0,120.0,3+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,1690000,Hayır
+695,Daire,Cumhuriyet Mah.,110.0,90.0,2+1,2,Yüksek Giriş,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1255000,Hayır
+696,Daire,Yakuplu Mah.,100.0,90.0,2+1,0,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,1730000,Hayır
+697,Daire,Kavaklı Mh.,280.0,240.0,HIGH_RARITY,5-10 arası,3,4,Doğalgaz (Kombi),3,Var,Hayır,Mülk Sahibi,Evet,Kavaklı Park Sitesi,300.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,4150000,Hayır
+698,Müstakil Ev,Barış Mh.,280.0,270.0,HIGH_RARITY,16-20 arası,3,3,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,221.0143280029297,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,5800000,Evet
+699,Daire,Cumhuriyet Mah.,135.0,128.0,3+1,16-20 arası,2,13,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Basındoğa Sitesi,300.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2150000,Hayır
+700,Daire,Gürpınar Mh.,125.0,115.0,2+1,0,1,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2689000,Hayır
+701,Daire,Adnan Kahveci Mah.,200.0,185.0,3+1,5-10 arası,4,12,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,3550000,Hayır
+702,Daire,Cumhuriyet Mah.,140.0,120.0,2+1,5-10 arası,7,14,Merkezi,2,Var,Evet,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2075000,Hayır
+703,Daire,Adnan Kahveci Mah.,145.0,125.0,3+1,4,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2900000,Hayır
+704,Daire,Adnan Kahveci Mah.,185.0,158.0,3+1,16-20 arası,6,12,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Yeşilkent Sitesi 2,400.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,3200000,Hayır
+705,Daire,Kavaklı Mh.,100.0,90.0,2+1,5-10 arası,2,3,Doğalgaz (Kombi),1,Yok,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,2850000,Hayır
+706,Daire,Barış Mh.,250.0,200.0,4.5+1,3,3,5,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Vira İstanbul,300.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,7150000,Hayır
+707,Daire,Cumhuriyet Mah.,65.0,59.0,1+1,5-10 arası,2,14,Merkezi,1,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1174000,Hayır
+708,Daire,Adnan Kahveci Mah.,70.0,60.0,1+1,5-10 arası,1,7,Merkezi,1,Var,Evet,Boş,Evet,Kalekent Evleri,450.0,Hayır,Kat İrtifaklı,Emlak Ofisinden,Hayır,3300000,Hayır
+709,Daire,Cumhuriyet Mah.,130.0,125.0,2+1,2,12,15,Merkezi,2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat İrtifaklı,Sahibinden,Evet,1430000,Hayır
+710,Daire,Adnan Kahveci Mah.,150.0,140.0,3+1,0,3,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1850000,Hayır
+711,Daire,Sahil Mah.,110.0,100.0,2+1,0,3,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,2500000,Hayır
+712,Daire,Kavaklı Mh.,150.0,130.0,4+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Sahibinden,Evet,2750000,Hayır
+713,Daire,Kavaklı Mh.,85.0,75.0,2+1,1,Yüksek Giriş,3,Doğalgaz (Kombi),1,Yok,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1500000,Hayır
+714,Daire,Adnan Kahveci Mah.,125.0,95.0,2+1,5-10 arası,3,4,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1880000,Hayır
+715,Daire,Cumhuriyet Mah.,120.0,110.0,2+1,1,3,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,970000,Hayır
+716,Daire,Yakuplu Mah.,145.0,115.0,3+1,0,8,14,Merkezi,2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3915000,Hayır
+717,Daire,Sahil Mah.,160.0,140.0,3+1,4,3,3,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Hayır,Kat İrtifaklı,Emlak Ofisinden,Hayır,5250000,Hayır
+718,Daire,Adnan Kahveci Mah.,145.0,110.0,3+1,11-15 arası,4,8,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Akkonak Sitesi,255.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,2250000,Hayır
+719,Daire,Kavaklı Mh.,135.0,125.0,4+2,0,3,3,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,4149000,Evet
+720,Daire,Marmara Mah.,120.0,115.0,2+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,50.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2849000,Hayır
+721,Daire,Yakuplu Mah.,175.0,165.0,4+2,0,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2999000,Evet
+722,Daire,Adnan Kahveci Mah.,180.0,165.0,3+1,16-20 arası,7,11,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3300000,Hayır
+723,Daire,Yakuplu Mah.,95.0,85.0,2+1,0,Yüksek Giriş,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1690000,Hayır
+724,Daire,Barış Mh.,220.0,185.0,3.5+1,5-10 arası,2,12,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Beyaz City,755.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,5120000,Hayır
+725,Daire,Yakuplu Mah.,100.0,90.0,2+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1550000,Hayır
+726,Daire,Cumhuriyet Mah.,80.0,70.0,1+1,0,5,10,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,1180000,Hayır
+727,Daire,Adnan Kahveci Mah.,110.0,100.0,2+1,4,Giriş Katı,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,2395000,Hayır
+728,Daire,Yakuplu Mah.,110.0,100.0,2+1,0,Giriş Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1248000,Hayır
+729,Daire,Gürpınar Mh.,130.0,105.0,3+1,0,1,5,Rare,2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,2750000,Hayır
+730,Daire,Yakuplu Mah.,145.0,135.0,2+1,1,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1000000,Hayır
+731,Daire,Cumhuriyet Mah.,145.0,135.0,2+1,0,1,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1150000,Hayır
+732,Daire,Yakuplu Mah.,90.0,75.0,2+1,5-10 arası,Giriş Katı,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,1100000,Hayır
+733,Daire,Kavaklı Mh.,108.0,93.0,2+1,5-10 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,1929000,Hayır
+734,Daire,Kavaklı Mh.,152.0,120.0,4+2,0,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,3950000,Evet
+735,Daire,Marmara Mah.,145.0,120.0,3+1,11-15 arası,1,8,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Beylerbeyi Konutları,100.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,3000000,Hayır
+736,Daire,Adnan Kahveci Mah.,170.0,145.0,3+1,11-15 arası,Yüksek Giriş,15,Doğalgaz (Kombi),2,Yok,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,2500000,Hayır
+737,Daire,Kavaklı Mh.,125.0,115.0,2+1,5-10 arası,1,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2450000,Hayır
+738,Daire,Adnan Kahveci Mah.,150.0,120.0,2+1,5-10 arası,2,7,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,4450000,Hayır
+739,Daire,Dereağzı Mh.,155.0,135.0,3+1,5-10 arası,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,2500000,Hayır
+740,Daire,Adnan Kahveci Mah.,115.0,100.0,2+1,4,2,5,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,255.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,2250000,Hayır
+742,Daire,Kavaklı Mh.,90.0,80.0,2+1,5-10 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,1590000,Hayır
+743,Daire,Marmara Mah.,170.0,155.0,3+1,3,2,10,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Konfor Residence,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,3450000,Hayır
+745,Residence,Barış Mh.,150.0,135.0,2+1,11-15 arası,2,13,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,221.01444244384766,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3700000,Hayır
+747,Residence,Cumhuriyet Mah.,110.0,85.0,1+1,5-10 arası,6,15,Merkezi,1,Var,Evet,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,1550000,Hayır
+748,Residence,Büyükşehir Mh.,105.0,85.0,2+1,11-15 arası,4,9,Doğalgaz (Kombi),2,Yok,Hayır,Mülk Sahibi,Evet,Ekinoks Residence,990.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,3300000,Hayır
+749,Residence,Yakuplu Mah.,136.0,112.0,2+1,0,7,25 üzeri,Merkezi,2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,4450000,Hayır
+750,Residence,Cumhuriyet Mah.,193.0,143.0,3+1,0,16,20-25 arası,Merkezi,1,Var,Hayır,Boş,Evet,Kameroğlu Metrohome,255.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,7350000,Hayır
+751,Residence,Cumhuriyet Mah.,125.0,110.0,2+1,2,9,10,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,1750000,Hayır
+754,Müstakil Ev,Sahil Mah.,330.0,288.0,HIGH_RARITY,16-20 arası,4,4,Doğalgaz (Kombi),3,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,7500000,Evet
+757,Villa,Dereağzı Mh.,700.0,350.0,HIGH_RARITY,0,3,3,Doğalgaz (Kombi),HIGH_RARITY,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,5832000,Evet
+760,Villa,Kavaklı Mh.,270.0,210.0,HIGH_RARITY,0,3,3,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,5850000,Evet
+783,Villa,Sahil Mah.,400.0,350.0,HIGH_RARITY,0,3,3,Doğalgaz (Kombi),HIGH_RARITY,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,7499000,Evet
+785,Villa,Dereağzı Mh.,320.0,300.0,HIGH_RARITY,16-20 arası,3,3,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,5300000,Hayır
+792,villa_or_müstakil_ev,Gürpınar Mh.,450.0,350.0,HIGH_RARITY,0,2,2,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,7490000,Evet
+795,Villa,Dereağzı Mh.,235.0,180.0,3+2,26-30 arası,3,3,Doğalgaz (Kombi),HIGH_RARITY,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,3500000,Evet
+797,Villa,Gürpınar Mh.,400.0,350.0,HIGH_RARITY,16-20 arası,3,3,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Sultan Fatih Sitesi,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,4900000,Hayır
+801,Villa,Sahil Mah.,330.0,270.0,HIGH_RARITY,0,4,4,Doğalgaz (Kombi),HIGH_RARITY,Var,Hayır,Boş,Evet,Belirtilmemiş,255.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,7499000,Evet
+803,villa_or_müstakil_ev,Kavaklı Mh.,295.0,230.0,4+2,0,2,2,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,6250000,Evet
+806,Villa,Gürpınar Mh.,200.0,180.0,4+2,16-20 arası,3,3,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Sahibinden,Hayır,7500000,Evet
+807,Villa,Gürpınar Mh.,220.0,210.0,3+1,16-20 arası,3,3,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,80.0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,6200000,Hayır

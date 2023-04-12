@@ -1,0 +1,1969 @@
+,HOUSE_TYPE,NEIGHBORHOOD,GROSS_AREA,NET_AREA,NUMBER_OF_ROOMS,AGE_OF_BUİLDİNG,FLOOR_LOCATION,TOTALNUMBER_OF_FLOORS,TYPE_OF_HEATING,NUMBER_OF_BATHROOMS,IS_THERE_BALCONY,IS_IT_FURNISHED,WHO_IS_AT_HOME,ON_BUILDINGS,NAME_OF_BUILDINGS,DUES,AVAILABLE_FOR_CREDIT,TITLE_DEED,WHO_IS_THE_SELLER,IS_IT_VIEWABLE,PRICE
+0,Daire,Marmara Mah.,130,120,3+1,5-10 arası,4,6,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Evet,Yeşil Akasya Evleri,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.300.000 TL
+Kredi Teklifleri"
+1,Daire,Cumhuriyet Mah.,125,110,2+1,0,6,25,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.299.900 TL
+Kredi Teklifleri"
+2,Daire,Yakuplu Mah.,150,140,3+1,0,2,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,150,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.118.000 TL
+Kredi Teklifleri"
+3,Daire,Cumhuriyet Mah.,140,130,2+1,0,Bahçe Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"539.000 TL
+Kredi Teklifleri"
+4,Daire,Cumhuriyet Mah.,140,130,2+1,0,Bahçe Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"539.000 TL
+Kredi Teklifleri"
+5,Daire,Yakuplu Mah.,240,220,5+2,0,4,4,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.300.000 TL
+Kredi Teklifleri"
+6,Daire,Cumhuriyet Mah.,125,110,2+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"779.900 TL
+Kredi Teklifleri"
+7,Daire,Adnan Kahveci Mah.,145,135,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.297.000 TL
+Kredi Teklifleri"
+8,Daire,Adnan Kahveci Mah.,145,135,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.297.000 TL
+Kredi Teklifleri"
+9,Daire,Cumhuriyet Mah.,110,100,2+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"639.000 TL
+Kredi Teklifleri"
+10,Daire,Kavaklı Mh.,110,95,2+1,4,4,12,Merkezi,2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.039.000 TL
+Kredi Teklifleri"
+11,Daire,Yakuplu Mah.,100,90,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.249.999 TL
+Kredi Teklifleri"
+12,Daire,Cumhuriyet Mah.,110,100,2+1,1,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"785.000 TL
+Kredi Teklifleri"
+13,Daire,Cumhuriyet Mah.,130,115,2+1,0,Bahçe Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"570.000 TL
+Kredi Teklifleri"
+14,Daire,Cumhuriyet Mah.,110,105,2+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,150,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.349.000 TL
+Kredi Teklifleri"
+15,Daire,Adnan Kahveci Mah.,120,110,3+1,0,2,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.550.000 TL
+Kredi Teklifleri"
+16,Daire,Kavaklı Mh.,150,130,3+1,0,Bahçe Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.550.000 TL
+Kredi Teklifleri"
+17,Daire,Kavaklı Mh.,180,165,3+1,0,3,3,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.700.000 TL
+Kredi Teklifleri"
+18,Daire,Cumhuriyet Mah.,140,130,3+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"989.900 TL
+Kredi Teklifleri"
+19,Daire,Cumhuriyet Mah.,90,85,2+1,0,Bahçe Katı,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,60,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"499.000 TL
+Kredi Teklifleri"
+20,Daire,Cumhuriyet Mah.,200,180,3+2,0,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.689.999 TL
+Kredi Teklifleri"
+21,Daire,Beylikdüzü OSB,120,105,2+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"725.000 TL
+Kredi Teklifleri"
+22,Daire,Cumhuriyet Mah.,110,95,2+1,3,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.163.000 TL
+Kredi Teklifleri"
+23,Daire,Kavaklı Mh.,210,180,3+2,0,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.149.999 TL
+Kredi Teklifleri"
+24,Daire,Yakuplu Mah.,150,130,3+1,5-10 arası,Yüksek Giriş,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,150,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.615.000 TL
+Kredi Teklifleri"
+25,Daire,Cumhuriyet Mah.,135,120,2+1,0,Giriş Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,35,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"649.000 TL
+Kredi Teklifleri"
+26,Daire,Kavaklı Mh.,140,130,3+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.519.000 TL
+Kredi Teklifleri"
+27,Daire,Adnan Kahveci Mah.,175,165,3+1,1,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,200,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.488.000 TL
+Kredi Teklifleri"
+28,Daire,Marmara Mah.,230,200,3+2,0,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.599.999 TL
+Kredi Teklifleri"
+29,Daire,Beylikdüzü OSB,115,100,2+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"879.000 TL
+Kredi Teklifleri"
+30,Daire,Adnan Kahveci Mah.,155,145,3+1,2,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,200,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.340.000 TL
+Kredi Teklifleri"
+31,Daire,Cumhuriyet Mah.,115,100,2+1,0,Bahçe Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"559.900 TL
+Kredi Teklifleri"
+32,Daire,Kavaklı Mh.,110,95,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.700.000 TL
+Kredi Teklifleri"
+33,Daire,Beylikdüzü OSB,150,135,3+1,5-10 arası,Bahçe Katı,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,25,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"679.900 TL
+Kredi Teklifleri"
+34,Daire,Beylikdüzü OSB,150,135,3+1,5-10 arası,Bahçe Katı,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,25,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"679.900 TL
+Kredi Teklifleri"
+35,Daire,Kavaklı Mh.,280,260,3+2,0,3,3,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.865.000 TL
+Kredi Teklifleri"
+36,Daire,Kavaklı Mh.,100,90,2+1,5-10 arası,2,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.900.000 TL
+Kredi Teklifleri"
+37,Daire,Yakuplu Mah.,185,170,3+1,0,Yüksek Giriş,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.439.999 TL
+Kredi Teklifleri"
+38,Daire,Cumhuriyet Mah.,120,100,2+1,4,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"899.000 TL
+Kredi Teklifleri"
+39,Daire,Yakuplu Mah.,120,110,2+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.100.000 TL
+Kredi Teklifleri"
+40,Daire,Adnan Kahveci Mah.,155,140,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.629.000 TL
+Kredi Teklifleri"
+41,Daire,Cumhuriyet Mah.,110,100,2+1,0,1,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,40,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"675.000 TL
+Kredi Teklifleri"
+42,Daire,Kavaklı Mh.,240,190,3+2,0,4,4,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.225.000 TL
+Kredi Teklifleri"
+43,Daire,Cumhuriyet Mah.,110,100,2+1,3,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,75,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"689.000 TL
+Kredi Teklifleri"
+44,Daire,Kavaklı Mh.,110,95,2+1,0,7,11,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.429.990 TL
+Kredi Teklifleri"
+45,Daire,Gürpınar Mh.,180,140,3+1,0,3,8,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.500.000 TL
+Kredi Teklifleri"
+46,Daire,Yakuplu Mah.,115,105,2+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.545.000 TL
+Kredi Teklifleri"
+47,Daire,Cumhuriyet Mah.,110,100,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"697.000 TL
+Kredi Teklifleri"
+48,Daire,Yakuplu Mah.,100,90,2+1,0,Giriş Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.789.000 TL
+Kredi Teklifleri"
+49,Daire,Adnan Kahveci Mah.,165,150,3+1,0,1,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.647.000 TL
+Kredi Teklifleri"
+50,Daire,Adnan Kahveci Mah.,220,200,4+2,0,4,4,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.699.999 TL
+Kredi Teklifleri"
+51,Daire,Cumhuriyet Mah.,120,110,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"664.000 TL
+Kredi Teklifleri"
+52,Daire,Cumhuriyet Mah.,120,110,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"664.000 TL
+Kredi Teklifleri"
+53,Daire,Cumhuriyet Mah.,110,100,2+1,4,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,15,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"679.000 TL
+Kredi Teklifleri"
+54,Daire,Cumhuriyet Mah.,120,110,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"664.000 TL
+Kredi Teklifleri"
+55,Daire,Cumhuriyet Mah.,110,100,2+1,4,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,15,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"679.000 TL
+Kredi Teklifleri"
+56,Daire,Barış Mh.,150,130,3+1,5-10 arası,Bahçe Katı,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.579.000 TL
+Kredi Teklifleri"
+57,Daire,Adnan Kahveci Mah.,150,140,3+1,0,5,8,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.872.000 TL
+Kredi Teklifleri"
+58,Daire,Marmara Mah.,110,100,2+1,3,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.049.000 TL
+Kredi Teklifleri"
+59,Daire,Adnan Kahveci Mah.,240,200,4+2,0,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.699.999 TL
+Kredi Teklifleri"
+60,Daire,Marmara Mah.,90,80,2+1,4,Yüksek Giriş,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.165.000 TL
+Kredi Teklifleri"
+61,Daire,Kavaklı Mh.,120,100,2+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.039.999 TL
+Kredi Teklifleri"
+62,Daire,Cumhuriyet Mah.,175,160,3+1,11-15 arası,9,13,Doğalgaz (Kombi),3,Yok,Hayır,Kiracılı,Hayır,Belirtilmemiş,0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"2.695.000 TL
+Kredi Teklifleri"
+63,Daire,Cumhuriyet Mah.,175,160,3+1,11-15 arası,9,13,Doğalgaz (Kombi),3,Yok,Hayır,Kiracılı,Hayır,Belirtilmemiş,0,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"2.695.000 TL
+Kredi Teklifleri"
+64,Daire,Cumhuriyet Mah.,125,110,2+1,0,Bahçe Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"549.900 TL
+Kredi Teklifleri"
+65,Daire,Cumhuriyet Mah.,125,110,2+1,0,Bahçe Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"549.900 TL
+Kredi Teklifleri"
+66,Daire,Adnan Kahveci Mah.,98,95,2+1,4,Giriş Katı,4,Doğalgaz (Kombi),1,Yok,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.350.000 TL
+Kredi Teklifleri"
+67,Daire,Adnan Kahveci Mah.,98,95,2+1,4,Giriş Katı,4,Doğalgaz (Kombi),1,Yok,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.350.000 TL
+Kredi Teklifleri"
+68,Daire,Marmara Mah.,135,110,2+1,0,2,3,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.949.000 TL
+Kredi Teklifleri"
+69,Daire,Cumhuriyet Mah.,100,90,2+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.330.000 TL
+Kredi Teklifleri"
+70,Daire,Cumhuriyet Mah.,100,90,2+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.330.000 TL
+Kredi Teklifleri"
+71,Daire,Cumhuriyet Mah.,80,75,1+1,5-10 arası,5,20,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.200.000 TL
+Kredi Teklifleri"
+72,Daire,Cumhuriyet Mah.,80,75,1+1,5-10 arası,5,20,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.200.000 TL
+Kredi Teklifleri"
+73,Daire,Cumhuriyet Mah.,115,100,2+1,0,Bahçe Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"589.900 TL
+Kredi Teklifleri"
+74,Daire,Cumhuriyet Mah.,115,100,2+1,0,Bahçe Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"589.900 TL
+Kredi Teklifleri"
+75,Daire,Kavaklı Mh.,105,90,2+1,0,Bahçe Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.739.999 TL
+Kredi Teklifleri"
+76,Daire,Adnan Kahveci Mah.,180,150,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.199.999 TL
+Kredi Teklifleri"
+77,Daire,Cumhuriyet Mah.,115,105,2+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"865.000 TL
+Kredi Teklifleri"
+78,Daire,Cumhuriyet Mah.,125,115,2+1,5-10 arası,14,15,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.447.000 TL
+Kredi Teklifleri"
+79,Daire,Yakuplu Mah.,100,95,2+1,5-10 arası,1,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.499.000 TL
+Kredi Teklifleri"
+80,Daire,Cumhuriyet Mah.,125,110,2+1,0,1,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"765.000 TL
+Kredi Teklifleri"
+81,Daire,Cumhuriyet Mah.,125,110,2+1,0,1,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"765.000 TL
+Kredi Teklifleri"
+82,Daire,Cumhuriyet Mah.,135,120,2+1,0,9,14,Merkezi (Pay Ölçer),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.998.000 TL
+Kredi Teklifleri"
+83,Daire,Yakuplu Mah.,100,90,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.489.000 TL
+Kredi Teklifleri"
+84,Daire,Yakuplu Mah.,100,90,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.489.000 TL
+Kredi Teklifleri"
+85,Daire,Yakuplu Mah.,110,100,2+1,0,1,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.489.999 TL
+Kredi Teklifleri"
+86,Daire,Yakuplu Mah.,110,100,2+1,0,1,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.489.999 TL
+Kredi Teklifleri"
+87,Daire,Yakuplu Mah.,110,95,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.590.000 TL
+Kredi Teklifleri"
+88,Daire,Adnan Kahveci Mah.,115,105,2+1,2,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.499.000 TL
+Kredi Teklifleri"
+89,Daire,Cumhuriyet Mah.,140,135,3+1,0,4,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.385.000 TL
+Kredi Teklifleri"
+90,Daire,Cumhuriyet Mah.,140,135,3+1,0,4,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.385.000 TL
+Kredi Teklifleri"
+91,Daire,Cumhuriyet Mah.,145,135,3+1,0,Bahçe Katı,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"689.990 TL
+Kredi Teklifleri"
+92,Daire,Cumhuriyet Mah.,145,135,3+1,0,Bahçe Katı,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"689.990 TL
+Kredi Teklifleri"
+93,Daire,Cumhuriyet Mah.,135,125,3+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.180.000 TL
+Kredi Teklifleri"
+94,Daire,Cumhuriyet Mah.,95,90,2+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"695.000 TL
+Kredi Teklifleri"
+95,Daire,Kavaklı Mh.,105,95,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.217.000 TL
+Kredi Teklifleri"
+96,Daire,Yakuplu Mah.,115,95,2+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,100,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.232.000 TL
+Kredi Teklifleri"
+97,Daire,Cumhuriyet Mah.,180,160,3+1,0,Yüksek Giriş,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,35,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"679.000 TL
+Kredi Teklifleri"
+98,Daire,Cumhuriyet Mah.,170,160,3+2,0,5,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,65,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"849.000 TL
+Kredi Teklifleri"
+99,Daire,Cumhuriyet Mah.,155,140,3+1,0,4,14,Merkezi (Pay Ölçer),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.153.500 TL
+Kredi Teklifleri"
+100,Daire,Cumhuriyet Mah.,155,140,3+1,0,4,14,Merkezi (Pay Ölçer),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.153.500 TL
+Kredi Teklifleri"
+101,Daire,Beylikdüzü OSB,145,135,3+1,4,2,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,75,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.060.000 TL
+Kredi Teklifleri"
+102,Daire,Adnan Kahveci Mah.,150,135,3+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.899.000 TL
+Kredi Teklifleri"
+103,Daire,Adnan Kahveci Mah.,120,105,2+1,5-10 arası,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.599.000 TL
+Kredi Teklifleri"
+104,Daire,Adnan Kahveci Mah.,120,105,2+1,5-10 arası,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.599.000 TL
+Kredi Teklifleri"
+105,Daire,Cumhuriyet Mah.,80,67,1+1,4,16,25,Merkezi,1,Yok,Hayır,Boş,Evet,Belirtilmemiş,190,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"799.900 TL
+Kredi Teklifleri"
+106,Daire,Cumhuriyet Mah.,115,100,2+1,0,Bahçe Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"599.999 TL
+Kredi Teklifleri"
+107,Daire,Cumhuriyet Mah.,85,70,1+1,0,4,20,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"849.000 TL
+Kredi Teklifleri"
+108,Daire,Yakuplu Mah.,110,90,2+1,2,Giriş Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.149.000 TL
+Kredi Teklifleri"
+109,Daire,Kavaklı Mh.,148,135,3+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.220.000 TL
+Kredi Teklifleri"
+110,Daire,Kavaklı Mh.,148,135,3+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.220.000 TL
+Kredi Teklifleri"
+111,Daire,Cumhuriyet Mah.,155,145,2+1,0,Yüksek Giriş,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"699.000 TL
+Kredi Teklifleri"
+112,Daire,Cumhuriyet Mah.,110,100,2+1,1,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"775.000 TL
+Kredi Teklifleri"
+113,Daire,Kavaklı Mh.,280,260,3+2,0,3,3,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.865.000 TL
+Kredi Teklifleri"
+114,Daire,Beylikdüzü OSB,90,80,2+1,4,Yüksek Giriş,6,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.050.000 TL
+Kredi Teklifleri"
+115,Daire,Yakuplu Mah.,115,90,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.239.000 TL
+Kredi Teklifleri"
+116,Daire,Yakuplu Mah.,115,90,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.239.000 TL
+Kredi Teklifleri"
+117,Daire,Kavaklı Mh.,105,95,2+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.688.000 TL
+Kredi Teklifleri"
+118,Daire,Yakuplu Mah.,80,70,1+1,0,Giriş Katı,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"804.000 TL
+Kredi Teklifleri"
+119,Daire,Adnan Kahveci Mah.,220,200,4+2,0,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.728.000 TL
+Kredi Teklifleri"
+120,Daire,Adnan Kahveci Mah.,115,105,2+1,2,3,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.400.000 TL
+Kredi Teklifleri"
+121,Daire,Adnan Kahveci Mah.,115,105,2+1,2,3,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.400.000 TL
+Kredi Teklifleri"
+122,Daire,Adnan Kahveci Mah.,160,150,3+1,0,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.949.000 TL
+Kredi Teklifleri"
+123,Daire,Adnan Kahveci Mah.,160,150,3+1,0,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.949.000 TL
+Kredi Teklifleri"
+124,Daire,Adnan Kahveci Mah.,110,95,2+1,0,Bahçe Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.650.000 TL
+Kredi Teklifleri"
+125,Daire,Adnan Kahveci Mah.,110,95,2+1,0,4,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.629.000 TL
+Kredi Teklifleri"
+126,Daire,Adnan Kahveci Mah.,140,130,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.999.000 TL
+Kredi Teklifleri"
+127,Daire,Adnan Kahveci Mah.,140,130,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.999.000 TL
+Kredi Teklifleri"
+128,Daire,Beylikdüzü OSB,115,105,2+1,5-10 arası,Bahçe Katı,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,40,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"587.000 TL
+Kredi Teklifleri"
+129,Daire,Cumhuriyet Mah.,135,120,2+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.179.000 TL
+Kredi Teklifleri"
+130,Daire,Adnan Kahveci Mah.,140,125,3+1,0,2,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.799.999 TL
+Kredi Teklifleri"
+131,Daire,Adnan Kahveci Mah.,140,125,3+1,0,2,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.799.999 TL
+Kredi Teklifleri"
+132,Daire,Kavaklı Mh.,240,210,3+2,0,4,4,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.650.000 TL
+Kredi Teklifleri"
+133,Daire,Cumhuriyet Mah.,120,100,2+1,4,1,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.139.000 TL
+Kredi Teklifleri"
+134,Daire,Adnan Kahveci Mah.,160,140,3+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.850.000 TL
+Kredi Teklifleri"
+135,Daire,Beylikdüzü OSB,105,99,2+1,3,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"845.000 TL
+Kredi Teklifleri"
+136,Daire,Cumhuriyet Mah.,112,95,2+1,2,Bahçe Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"687.000 TL
+Kredi Teklifleri"
+137,Daire,Cumhuriyet Mah.,112,95,2+1,2,Bahçe Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"687.000 TL
+Kredi Teklifleri"
+138,Daire,Cumhuriyet Mah.,120,105,2+1,4,10,22,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.279.900 TL
+Kredi Teklifleri"
+139,Daire,Yakuplu Mah.,115,105,2+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.099.000 TL
+Kredi Teklifleri"
+140,Daire,Kavaklı Mh.,150,130,3+1,4,1,3,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,120,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.199.000 TL
+Kredi Teklifleri"
+141,Daire,Kavaklı Mh.,150,130,3+1,4,1,3,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,120,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.199.000 TL
+Kredi Teklifleri"
+142,Daire,Cumhuriyet Mah.,115,105,2+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,35,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"900.000 TL
+Kredi Teklifleri"
+143,Daire,Cumhuriyet Mah.,115,105,2+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,35,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"900.000 TL
+Kredi Teklifleri"
+144,Daire,Gürpınar Mh.,100,98,2+1,4,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.489.000 TL
+Kredi Teklifleri"
+145,Daire,Kavaklı Mh.,145,135,3+1,2,Giriş Katı,3,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.599.000 TL
+Kredi Teklifleri"
+146,Daire,Yakuplu Mah.,125,110,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.335.000 TL
+Kredi Teklifleri"
+147,Daire,Yakuplu Mah.,125,110,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.335.000 TL
+Kredi Teklifleri"
+148,Daire,Adnan Kahveci Mah.,150,130,3+1,0,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.550.000 TL
+Kredi Teklifleri"
+149,Daire,Adnan Kahveci Mah.,150,130,3+1,0,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.550.000 TL
+Kredi Teklifleri"
+150,Daire,Cumhuriyet Mah.,125,120,2+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"669.000 TL
+Kredi Teklifleri"
+151,Daire,Yakuplu Mah.,125,105,2+1,5-10 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,60,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"1.495.000 TL
+Kredi Teklifleri"
+152,Daire,Adnan Kahveci Mah.,110,90,2+1,4,1,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.890.000 TL
+Kredi Teklifleri"
+153,Daire,Barış Mh.,160,145,3+1,5-10 arası,Giriş Katı,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Özgür Sitesi,150,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.585.000 TL
+Kredi Teklifleri"
+154,Daire,Marmara Mah.,110,95,2+1,4,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.450.000 TL
+Kredi Teklifleri"
+155,Daire,Cumhuriyet Mah.,80,70,1+1,0,2,12,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"699.900 TL
+Kredi Teklifleri"
+156,Daire,Cumhuriyet Mah.,80,70,1+1,0,2,12,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"699.900 TL
+Kredi Teklifleri"
+157,Daire,Cumhuriyet Mah.,110,98,2+1,5-10 arası,3,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"898.000 TL
+Kredi Teklifleri"
+158,Daire,Cumhuriyet Mah.,110,98,2+1,5-10 arası,3,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"898.000 TL
+Kredi Teklifleri"
+159,Daire,Cumhuriyet Mah.,150,140,2+1,0,1,7,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,350,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.559.000 TL
+Kredi Teklifleri"
+160,Daire,Adnan Kahveci Mah.,100,90,2+1,4,4,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,150,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.629.000 TL
+Kredi Teklifleri"
+161,Daire,Kavaklı Mh.,150,145,3+1,0,2,3,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.299.000 TL
+Kredi Teklifleri"
+162,Daire,Yakuplu Mah.,105,100,2+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.750.000 TL
+Kredi Teklifleri"
+163,Daire,Marmara Mah.,115,95,2+1,5-10 arası,1,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.090.000 TL
+Kredi Teklifleri"
+164,Daire,Marmara Mah.,115,95,2+1,5-10 arası,1,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.090.000 TL
+Kredi Teklifleri"
+165,Daire,Gürpınar Mh.,145,130,3+1,11-15 arası,5,7,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.849.000 TL
+Kredi Teklifleri"
+166,Daire,Adnan Kahveci Mah.,110,95,2+1,0,1,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.659.000 TL
+Kredi Teklifleri"
+167,Daire,Cumhuriyet Mah.,160,145,3+1,0,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"999.000 TL
+Kredi Teklifleri"
+168,Daire,Yakuplu Mah.,60,50,1+1,1,Bahçe Katı,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.000.000 TL
+Kredi Teklifleri"
+169,Daire,Adnan Kahveci Mah.,190,170,3+2,5-10 arası,Çatı Katı,4,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.599.000 TL
+Kredi Teklifleri"
+170,Daire,Cumhuriyet Mah.,125,115,2+1,0,Bahçe Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"489.000 TL
+Kredi Teklifleri"
+171,Daire,Barış Mh.,150,135,3+1,11-15 arası,11,14,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,200,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"2.399.000 TL
+Kredi Teklifleri"
+172,Daire,Cumhuriyet Mah.,109,97,2+1,0,5,6,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"950.000 TL
+Kredi Teklifleri"
+173,Daire,Cumhuriyet Mah.,109,96,2+1,2,6,9,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.050.000 TL
+Kredi Teklifleri"
+174,Daire,Kavaklı Mh.,105,95,2+1,4,Bahçe Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.255.000 TL
+Kredi Teklifleri"
+175,Daire,Barış Mh.,170,145,3+1,11-15 arası,Bahçe Katı,7,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,250,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.579.000 TL
+Kredi Teklifleri"
+176,Daire,Cumhuriyet Mah.,180,165,4+1,0,1,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"629.900 TL
+Kredi Teklifleri"
+177,Daire,Adnan Kahveci Mah.,105,95,2+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.630.000 TL
+Kredi Teklifleri"
+178,Daire,Cumhuriyet Mah.,190,170,3+2,0,Yüksek Giriş,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"729.000 TL
+Kredi Teklifleri"
+179,Daire,Cumhuriyet Mah.,180,170,3+2,0,Giriş Katı,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,55,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"799.000 TL
+Kredi Teklifleri"
+180,Daire,Beylikdüzü OSB,100,95,2+1,5-10 arası,18,28,Merkezi (Pay Ölçer),1,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,250,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"885.000 TL
+Kredi Teklifleri"
+181,Daire,Kavaklı Mh.,140,85,2+1,1,Bahçe Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.865.000 TL
+Kredi Teklifleri"
+182,Daire,Adnan Kahveci Mah.,110,105,2+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.348.000 TL
+Kredi Teklifleri"
+183,Daire,Adnan Kahveci Mah.,110,105,2+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.348.000 TL
+Kredi Teklifleri"
+184,Daire,Cumhuriyet Mah.,115,105,2+1,0,Bahçe Katı,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"599.999 TL
+Kredi Teklifleri"
+185,Daire,Cumhuriyet Mah.,125,110,2+1,0,3,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"679.900 TL
+Kredi Teklifleri"
+186,Daire,Adnan Kahveci Mah.,190,150,4+1,3,4,4,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.599.000 TL
+Kredi Teklifleri"
+187,Daire,Cumhuriyet Mah.,180,165,3+2,0,1,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"629.900 TL
+Kredi Teklifleri"
+188,Daire,Kavaklı Mh.,115,100,2+1,0,Bahçe Katı,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Evet,Belirtilmemiş,200,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"999.000 TL
+Kredi Teklifleri"
+189,Daire,Yakuplu Mah.,100,90,2+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,50,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.219.900 TL
+Kredi Teklifleri"
+190,Daire,Kavaklı Mh.,165,150,3+1,0,1,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,250,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.765.000 TL
+Kredi Teklifleri"
+191,Daire,Kavaklı Mh.,165,150,3+1,0,1,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,250,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.765.000 TL
+Kredi Teklifleri"
+192,Daire,Dereağzı Mh.,700,350,5+2,0,Villa Tipi,3,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"5.840.000 TL
+Kredi Teklifleri"
+193,Daire,Adnan Kahveci Mah.,120,100,2+1,0,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,150,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.850.000 TL
+Kredi Teklifleri"
+194,Daire,Barış Mh.,160,150,3+1,5-10 arası,1,8,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,100,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.788.000 TL
+Kredi Teklifleri"
+195,Daire,Adnan Kahveci Mah.,155,145,3+1,4,2,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.200.000 TL
+Kredi Teklifleri"
+196,Daire,Adnan Kahveci Mah.,155,145,3+1,4,2,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.200.000 TL
+Kredi Teklifleri"
+197,Daire,Cumhuriyet Mah.,115,105,2+1,0,Bahçe Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"599.000 TL
+Kredi Teklifleri"
+198,Daire,Adnan Kahveci Mah.,140,125,3+1,5-10 arası,3,4,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.974.000 TL
+Kredi Teklifleri"
+199,Daire,Adnan Kahveci Mah.,140,125,3+1,0,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.375.000 TL
+Kredi Teklifleri"
+200,Daire,Adnan Kahveci Mah.,190,175,3+1,11-15 arası,1,8,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Beyaz İnci Konakları,400,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"4.000.000 TL
+Kredi Teklifleri"
+201,Daire,Cumhuriyet Mah.,120,100,2+1,0,6,17,Merkezi (Pay Ölçer),1,Var,Hayır,Boş,Evet,Belirtilmemiş,450,Hayır,Kat İrtifaklı,Emlak Ofisinden,Hayır,"980.000 TL
+Kredi Teklifleri"
+202,Daire,Cumhuriyet Mah.,130,120,2+1,0,Yüksek Giriş,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"849.900 TL
+Kredi Teklifleri"
+203,Daire,Cumhuriyet Mah.,62,54,Stüdyo (1+0),0,18,24,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"649.900 TL
+Kredi Teklifleri"
+204,Daire,Yakuplu Mah.,140,130,3+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Corner Park,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.849.000 TL
+Kredi Teklifleri"
+205,Daire,Kavaklı Mh.,140,130,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.989.000 TL
+Kredi Teklifleri"
+206,Daire,Kavaklı Mh.,140,130,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.989.000 TL
+Kredi Teklifleri"
+207,Daire,Adnan Kahveci Mah.,120,105,2+1,4,Bahçe Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.400.000 TL
+Kredi Teklifleri"
+208,Daire,Adnan Kahveci Mah.,160,145,3+1,0,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.750.000 TL
+Kredi Teklifleri"
+209,Daire,Adnan Kahveci Mah.,120,105,2+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.500.000 TL
+Kredi Teklifleri"
+210,Daire,Cumhuriyet Mah.,120,110,2+1,0,12,22,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.399.900 TL
+Kredi Teklifleri"
+211,Daire,Yakuplu Mah.,115,100,2+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.090.000 TL
+Kredi Teklifleri"
+212,Daire,Marmara Mah.,240,200,4+2,0,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.250.000 TL
+Kredi Teklifleri"
+213,Daire,Cumhuriyet Mah.,140,130,3+1,0,4,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,35,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.205.000 TL
+Kredi Teklifleri"
+214,Daire,Adnan Kahveci Mah.,180,170,3+1,4,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.799.000 TL
+Kredi Teklifleri"
+215,Daire,Cumhuriyet Mah.,110,95,2+1,5-10 arası,Giriş Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"679.000 TL
+Kredi Teklifleri"
+216,Daire,Kavaklı Mh.,145,130,3+1,0,4,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,300,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.835.000 TL
+Kredi Teklifleri"
+217,Daire,Kavaklı Mh.,140,135,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.550.000 TL
+Kredi Teklifleri"
+218,Daire,Cumhuriyet Mah.,110,100,2+1,4,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Bilinmiyor,Emlak Ofisinden,Evet,"679.000 TL
+Kredi Teklifleri"
+219,Daire,Kavaklı Mh.,165,145,3+1,0,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.549.000 TL
+Kredi Teklifleri"
+220,Daire,Kavaklı Mh.,165,145,3+1,0,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.549.000 TL
+Kredi Teklifleri"
+221,Daire,Marmara Mah.,135,120,2+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.850.000 TL
+Kredi Teklifleri"
+222,Daire,Cumhuriyet Mah.,135,120,3+1,4,1,5,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"990.000 TL
+Kredi Teklifleri"
+223,Daire,Adnan Kahveci Mah.,250,200,4+2,0,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"5.350.000 TL
+Kredi Teklifleri"
+224,Daire,Adnan Kahveci Mah.,110,90,2+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.500.000 TL
+Kredi Teklifleri"
+225,Daire,Cumhuriyet Mah.,140,130,2+1,3,Yüksek Giriş,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,20,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"868.000 TL
+Kredi Teklifleri"
+226,Daire,Yakuplu Mah.,110,100,2+1,0,Yüksek Giriş,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,45,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.800.000 TL
+Kredi Teklifleri"
+227,Daire,Yakuplu Mah.,117,102,2+1,1,Giriş Altı Kot 1,4,Doğalgaz (Kombi),2,Yok,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.550.000 TL
+Kredi Teklifleri"
+228,Daire,Marmara Mah.,105,95,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.549.000 TL
+Kredi Teklifleri"
+229,Daire,Yakuplu Mah.,230,200,5+2,0,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.699.000 TL
+Kredi Teklifleri"
+230,Daire,Yakuplu Mah.,135,120,3+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.149.000 TL
+Kredi Teklifleri"
+231,Daire,Kavaklı Mh.,140,130,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.399.000 TL
+Kredi Teklifleri"
+232,Daire,Adnan Kahveci Mah.,115,110,2+1,0,3,5,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.499.000 TL
+Kredi Teklifleri"
+233,Daire,Adnan Kahveci Mah.,140,125,3+1,0,4,8,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.199.000 TL
+Kredi Teklifleri"
+234,Daire,Adnan Kahveci Mah.,140,125,3+1,0,4,8,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.199.000 TL
+Kredi Teklifleri"
+235,Daire,Adnan Kahveci Mah.,180,170,3.5+1,4,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.200.000 TL
+Kredi Teklifleri"
+236,Daire,Adnan Kahveci Mah.,185,155,3+1,11-15 arası,11,11,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Bilinmiyor,Emlak Ofisinden,Hayır,"2.950.000 TL
+Kredi Teklifleri"
+237,Daire,Beylikdüzü OSB,90,85,2+1,3,Bahçe Katı,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"690.000 TL
+Kredi Teklifleri"
+238,Daire,Kavaklı Mh.,220,190,3+2,4,5,5,Doğalgaz (Kombi),2,Var,Evet,Mülk Sahibi,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Hayır,"3.750.000 TL
+Kredi Teklifleri",
+239,Daire,Kavaklı Mh.,220,190,3+2,4,5,5,Doğalgaz (Kombi),2,Var,Evet,Mülk Sahibi,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Hayır,"3.750.000 TL
+Kredi Teklifleri",
+240,Daire,Barış Mh.,150,145,3+1,16-20 arası,Bahçe Katı,8,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,200,Evet,Kat İrtifaklı,Evet,"1.590.000 TL
+Kredi Teklifleri",
+241,Daire,Barış Mh.,150,145,3+1,16-20 arası,Bahçe Katı,8,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,200,Evet,Kat İrtifaklı,Evet,"1.590.000 TL
+Kredi Teklifleri",
+242,Daire,Yakuplu Mah.,110,100,2+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.475.000 TL
+Kredi Teklifleri"
+243,Daire,Adnan Kahveci Mah.,140,115,3+1,5-10 arası,2,5,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,Emir Life,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.750.000 TL
+Kredi Teklifleri"
+244,Daire,Cumhuriyet Mah.,80,70,1+1,5-10 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"865.000 TL
+Kredi Teklifleri"
+245,Daire,Cumhuriyet Mah.,110,100,2+1,0,9,29,Merkezi (Pay Ölçer),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"819.800 TL
+Kredi Teklifleri"
+246,Daire,Adnan Kahveci Mah.,185,175,3+2,4,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.590.000 TL
+Kredi Teklifleri"
+247,Daire,Cumhuriyet Mah.,105,100,2+1,0,Bahçe Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"499.000 TL
+Kredi Teklifleri"
+248,Daire,Cumhuriyet Mah.,95,90,2+1,3,2,4,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,10,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"889.000 TL
+Kredi Teklifleri"
+249,Daire,Kavaklı Mh.,120,100,2+1,1,1,7,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Aqua Kavaklı,700,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.150.000 TL
+Kredi Teklifleri"
+250,Daire,Yakuplu Mah.,100,85,2+1,0,1,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.230.000 TL
+Kredi Teklifleri"
+251,Daire,Kavaklı Mh.,140,125,3+1,16-20 arası,4,8,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,İhlas Marmara Evleri 2. Kısım,240,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.100.000 TL
+Kredi Teklifleri"
+252,Daire,Cumhuriyet Mah.,87,63,2+1,0,1,17,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Evet,Kameroğlu Metrohome,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.250.000 TL
+Kredi Teklifleri"
+253,Daire,Adnan Kahveci Mah.,190,170,3+1,11-15 arası,10,13,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,Ata Sitesi,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"2.950.000 TL
+Kredi Teklifleri"
+254,Daire,Adnan Kahveci Mah.,200,180,3+2,0,5,5,Yerden Isıtma,2,Var,Hayır,Boş,Hayır,Belirtilmemiş,150,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.095.000 TL
+Kredi Teklifleri"
+255,Daire,Adnan Kahveci Mah.,200,180,3+2,0,5,5,Yerden Isıtma,2,Var,Hayır,Boş,Hayır,Belirtilmemiş,150,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.095.000 TL
+Kredi Teklifleri"
+256,Daire,Cumhuriyet Mah.,110,105,2+1,0,3,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"945.000 TL
+Kredi Teklifleri"
+257,Daire,Cumhuriyet Mah.,120,115,2+1,0,4,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"980.000 TL
+Kredi Teklifleri"
+258,Daire,Cumhuriyet Mah.,130,120,3+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.179.900 TL
+Kredi Teklifleri"
+259,Daire,Dereağzı Mh.,180,150,3+1,0,3,4,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"6.459.000 TL
+Kredi Teklifleri"
+260,Daire,Dereağzı Mh.,180,150,3+1,0,3,4,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"6.459.000 TL
+Kredi Teklifleri"
+261,Daire,Cumhuriyet Mah.,100,90,2+1,5-10 arası,1,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"799.000 TL
+Kredi Teklifleri"
+262,Daire,Kavaklı Mh.,145,120,3+1,0,2,3,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"4.990.000 TL
+Kredi Teklifleri"
+263,Daire,Adnan Kahveci Mah.,150,140,3+1,3,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.150.000 TL
+Kredi Teklifleri"
+264,Daire,Adnan Kahveci Mah.,170,165,3+1,16-20 arası,13,20,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Yeşil Vadi Evleri,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.700.000 TL
+Kredi Teklifleri"
+265,Daire,Cumhuriyet Mah.,160,150,3+1,5-10 arası,5,15,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,300,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"945.000 TL
+Kredi Teklifleri"
+266,Daire,Cumhuriyet Mah.,160,150,3+1,5-10 arası,5,15,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,300,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"945.000 TL
+Kredi Teklifleri"
+267,Daire,Kavaklı Mh.,120,105,3+1,5-10 arası,Bahçe Katı,3,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.650.000 TL
+Kredi Teklifleri"
+268,Daire,Adnan Kahveci Mah.,140,130,3+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.150.000 TL
+Kredi Teklifleri"
+269,Daire,Adnan Kahveci Mah.,140,130,3+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.150.000 TL
+Kredi Teklifleri"
+270,Daire,Adnan Kahveci Mah.,170,140,3+1,2,3,5,Merkezi (Pay Ölçer),2,Var,Hayır,Kiracılı,Evet,Alya Grandis,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"5.990.000 TL
+Kredi Teklifleri"
+271,Daire,Büyükşehir Mh.,90,80,2+1,16-20 arası,4,11,Merkezi (Pay Ölçer),1,Yok,Hayır,Mülk Sahibi,Evet,Büyükşehir Sitesi,250,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.750.000 TL
+Kredi Teklifleri"
+272,Daire,Büyükşehir Mh.,90,80,2+1,16-20 arası,4,11,Merkezi (Pay Ölçer),1,Yok,Hayır,Mülk Sahibi,Evet,Büyükşehir Sitesi,250,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.750.000 TL
+Kredi Teklifleri"
+273,Daire,Adnan Kahveci Mah.,180,160,3+1,5-10 arası,1,7,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,400,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"5.240.000 TL
+Kredi Teklifleri"
+274,Daire,Yakuplu Mah.,80,70,1+1,5-10 arası,2,6,Doğalgaz (Kombi),1,Yok,Evet,Boş,Hayır,Belirtilmemiş,205,Evet,Kat Mülkiyetli,Evet,"1.650.000 TL
+Kredi Teklifleri",
+275,Daire,Yakuplu Mah.,80,70,1+1,5-10 arası,2,6,Doğalgaz (Kombi),1,Yok,Evet,Boş,Hayır,Belirtilmemiş,205,Evet,Kat Mülkiyetli,Evet,"1.650.000 TL
+Kredi Teklifleri",
+276,Daire,Adnan Kahveci Mah.,160,130,3+1,5-10 arası,3,10,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,200,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"3.600.000 TL
+Kredi Teklifleri"
+277,Daire,Cumhuriyet Mah.,160,150,2+1,5-10 arası,2,7,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.300.000 TL
+Kredi Teklifleri"
+278,Daire,Cumhuriyet Mah.,110,100,2+1,4,4,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"685.000 TL
+Kredi Teklifleri"
+279,Daire,Kavaklı Mh.,144,122,3+1,4,10,12,Merkezi (Pay Ölçer),2,Var,Hayır,Kiracılı,Evet,Huzurlu Marmara,860,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"4.075.000 TL
+Kredi Teklifleri"
+280,Daire,Kavaklı Mh.,100,80,2+1,0,Bahçe Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Alya Mercan,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.100.000 TL
+Kredi Teklifleri"
+281,Daire,Kavaklı Mh.,100,80,2+1,1,Yüksek Giriş,4,Doğalgaz (Kombi),1,Yok,Hayır,Kiracılı,Evet,Kanarya Park Sitesi,100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.850.000 TL
+Kredi Teklifleri"
+282,Daire,Marmara Mah.,220,180,3+1,5-10 arası,2,5,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,500,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.950.000 TL
+Kredi Teklifleri"
+283,Daire,Adnan Kahveci Mah.,110,100,2+1,5-10 arası,6,8,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.375.000 TL
+Kredi Teklifleri"
+284,Daire,Büyükşehir Mh.,95,80,1+1,5-10 arası,5,9,Doğalgaz (Kombi),1,Yok,Hayır,Kiracılı,Evet,Ekinoks Beylikdüzü,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.750.000 TL
+Kredi Teklifleri"
+285,Daire,Adnan Kahveci Mah.,185,165,3+1,11-15 arası,3,3,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,Vista 1,Belirtilmemiş,Evet,Kat Mülkiyetli,Evet,"6.150.000 TL
+Kredi Teklifleri",
+286,Daire,Adnan Kahveci Mah.,185,165,3+1,11-15 arası,3,3,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,Vista 1,Belirtilmemiş,Evet,Kat Mülkiyetli,Evet,"6.150.000 TL
+Kredi Teklifleri",
+287,Daire,Yakuplu Mah.,75,55,2+1,5-10 arası,3,4,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,50,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"1.600.000 TL
+Kredi Teklifleri"
+288,Daire,Kavaklı Mh.,195,175,3+2,4,5,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Saytaş Gold Evleri,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.150.000 TL
+Kredi Teklifleri"
+289,Daire,Kavaklı Mh.,150,110,3+1,4,Bahçe Katı,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Aden Kavaklı Konakları,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.890.000 TL
+Kredi Teklifleri"
+290,Daire,Adnan Kahveci Mah.,90,75,1+1,5-10 arası,2,4,Merkezi (Pay Ölçer),1,Var,Hayır,Boş,Evet,Ahenk İstanbul,710,Evet,Kat Mülkiyetli,Hayır,"2.370.000 TL
+Kredi Teklifleri",
+291,Daire,Adnan Kahveci Mah.,90,75,1+1,5-10 arası,2,4,Merkezi (Pay Ölçer),1,Var,Hayır,Boş,Evet,Ahenk İstanbul,710,Evet,Kat Mülkiyetli,Hayır,"2.370.000 TL
+Kredi Teklifleri",
+292,Daire,Yakuplu Mah.,110,100,2+1,4,Yüksek Giriş,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,70,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.349.000 TL
+Kredi Teklifleri"
+293,Daire,Adnan Kahveci Mah.,150,140,3+1,0,4,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.149.000 TL
+Kredi Teklifleri"
+294,Daire,Yakuplu Mah.,110,90,3+1,16-20 arası,Giriş Katı,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.650.000 TL
+Kredi Teklifleri"
+295,Daire,Adnan Kahveci Mah.,150,140,3+1,0,4,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.149.000 TL
+Kredi Teklifleri"
+296,Daire,Adnan Kahveci Mah.,200,190,4+1,0,1,5,Yerden Isıtma,2,Var,Hayır,Boş,Evet,Dora Park 6,700,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"6.750.000 TL
+Kredi Teklifleri"
+297,Daire,Yakuplu Mah.,110,90,3+1,16-20 arası,Giriş Katı,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.650.000 TL
+Kredi Teklifleri"
+298,Daire,Cumhuriyet Mah.,115,105,2+1,4,4,8,Yerden Isıtma,1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.700.000 TL
+Kredi Teklifleri"
+299,Daire,Cumhuriyet Mah.,130,120,3+1,0,Bahçe Katı,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"749.900 TL
+Kredi Teklifleri"
+300,Daire,Cumhuriyet Mah.,140,130,3+1,0,1,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.049.900 TL
+Kredi Teklifleri"
+301,Daire,Büyükşehir Mh.,125,110,3+1,26-30 arası,5,13,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Büyükşehir Sitesi,300,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.220.000 TL
+Kredi Teklifleri"
+302,Daire,Adnan Kahveci Mah.,155,135,3+1,5-10 arası,1,5,Doğalgaz (Kombi),3,Var,Hayır,Kiracılı,Evet,Flora City,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.650.000 TL
+Kredi Teklifleri"
+303,Daire,Adnan Kahveci Mah.,155,135,3+1,5-10 arası,1,5,Doğalgaz (Kombi),3,Var,Hayır,Kiracılı,Evet,Flora City,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.650.000 TL
+Kredi Teklifleri"
+304,Daire,Cumhuriyet Mah.,100,67,1+1,5-10 arası,5,15,Merkezi (Pay Ölçer),1,Var,Evet,Kiracılı,Hayır,Belirtilmemiş,482,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.600.000 TL
+Kredi Teklifleri"
+305,Daire,Gürpınar Mh.,60,56,2+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,140,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.800.000 TL
+Kredi Teklifleri"
+306,Daire,Cumhuriyet Mah.,72,56,1+1,0,5,17,Yerden Isıtma,1,Var,Hayır,Boş,Evet,Kameroğlu Metrohome,0,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.950.000 TL
+Kredi Teklifleri"
+307,Daire,Yakuplu Mah.,105,90,2+1,1,Bahçe Katı,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.490.000 TL
+Kredi Teklifleri"
+308,Daire,Cumhuriyet Mah.,54,44,Stüdyo (1+0),0,4,12,Merkezi (Pay Ölçer),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"619.000 TL
+Kredi Teklifleri"
+309,Daire,Adnan Kahveci Mah.,350,310,5+2,5-10 arası,5,6,Merkezi (Pay Ölçer),4,Var,Hayır,Mülk Sahibi,Evet,Vista Garden,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"8.000.000 TL
+Kredi Teklifleri"
+310,Daire,Yakuplu Mah.,110,95,2+1,4,Giriş Altı Kot 1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,0,Evet,Kat Mülkiyetli,Hayır,"1.470.000 TL
+Kredi Teklifleri",
+311,Daire,Adnan Kahveci Mah.,180,165,3+1,5-10 arası,2,10,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Evet,Belirtilmemiş,450,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.122.000 TL
+Kredi Teklifleri"
+312,Daire,Adnan Kahveci Mah.,120,110,2+1,0,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.690.000 TL
+Kredi Teklifleri"
+313,Daire,Adnan Kahveci Mah.,125,105,2+1,5-10 arası,1,5,Merkezi,2,Var,Hayır,Mülk Sahibi,Evet,Asmalı Park Konakları,500,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.000.000 TL
+Kredi Teklifleri"
+314,Daire,Yakuplu Mah.,135,125,3+1,0,Yüksek Giriş,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,İnşaat Firmasından,Hayır,"1.530.000 TL
+Kredi Teklifleri"
+315,Daire,Barış Mh.,360,300,4+2,16-20 arası,6,7,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,350,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"3.950.000 TL
+Kredi Teklifleri"
+316,Daire,Yakuplu Mah.,115,95,2+1,0,4,8,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"790.000 TL
+Kredi Teklifleri"
+317,Daire,Kavaklı Mh.,145,130,3+1,0,1,1,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.619.000 TL
+Kredi Teklifleri"
+318,Daire,Kavaklı Mh.,145,130,3+1,0,1,1,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.619.000 TL
+Kredi Teklifleri"
+319,Daire,Cumhuriyet Mah.,180,120,3+1,0,Bahçe Katı,4,Merkezi,2,Var,Hayır,Boş,Hayır,Belirtilmemiş,300,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.570.000 TL
+Kredi Teklifleri"
+320,Daire,Gürpınar Mh.,295,280,5+2,5-10 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Akevler,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.200.000 TL
+Kredi Teklifleri"
+321,Daire,Yakuplu Mah.,150,120,2+2,2,Yüksek Giriş,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.472.900 TL
+Kredi Teklifleri"
+322,Daire,Kavaklı Mh.,170,142,3+2,1,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"3.450.000 TL
+Kredi Teklifleri"
+323,Daire,Yakuplu Mah.,190,150,5+1,1,5,7,Doğalgaz (Kombi),2,Var,Evet,Mülk Sahibi,Hayır,Belirtilmemiş,75,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"3.565.000 TL
+Kredi Teklifleri"
+324,Daire,Yakuplu Mah.,190,150,5+1,1,5,7,Doğalgaz (Kombi),2,Var,Evet,Mülk Sahibi,Hayır,Belirtilmemiş,75,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"3.565.000 TL
+Kredi Teklifleri"
+325,Daire,Cumhuriyet Mah.,85,75,1+1,3,Yüksek Giriş,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"780.000 TL
+Kredi Teklifleri"
+326,Daire,Yakuplu Mah.,85,69,2+1,0,Yüksek Giriş,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.750.000 TL
+Kredi Teklifleri"
+327,Daire,Adnan Kahveci Mah.,185,160,3+1,11-15 arası,2,2,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,380,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"2.925.000 TL
+Kredi Teklifleri"
+328,Daire,Barış Mh.,185,165,3+1,11-15 arası,3,14,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Plaksan Sitesi,120,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.950.000 TL
+Kredi Teklifleri"
+329,Daire,Adnan Kahveci Mah.,140,130,3+1,4,3,5,Doğalgaz (Kombi),2,Var,Belirtilmemiş,Mülk Sahibi,Hayır,Belirtilmemiş,100,Belirtilmemiş,Kat İrtifaklı,Hayır,"2.375.000 TL
+Kredi Teklifleri",
+330,Daire,Adnan Kahveci Mah.,167,142,3+1,0,1,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.250.000 TL
+Kredi Teklifleri"
+331,Daire,Adnan Kahveci Mah.,120,110,2+1,5-10 arası,12,17,Doğalgaz (Kombi),1,Yok,Evet,Boş,Evet,Kubist Park Residence,450,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"4.300.000 TL
+Kredi Teklifleri"
+332,Daire,Adnan Kahveci Mah.,130,100,2+1,0,1,7,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.600.000 TL
+Kredi Teklifleri"
+333,Daire,Adnan Kahveci Mah.,185,150,3+1,5-10 arası,2,8,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"5.150.000 TL
+Kredi Teklifleri"
+334,Daire,Adnan Kahveci Mah.,180,156,3+1,16-20 arası,7,11,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,Ekşioğlu Akkent Şelale Evleri,500,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.375.000 TL
+Kredi Teklifleri"
+335,Daire,Adnan Kahveci Mah.,180,156,3+1,16-20 arası,7,11,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,Ekşioğlu Akkent Şelale Evleri,500,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.375.000 TL
+Kredi Teklifleri"
+336,Daire,Cumhuriyet Mah.,175,160,3+1,5-10 arası,1,8,Merkezi (Pay Ölçer),2,Var,Hayır,Mülk Sahibi,Evet,Beyaz Park 2,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"6.750.000 TL
+Kredi Teklifleri"
+337,Daire,Yakuplu Mah.,110,105,2+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.959.000 TL
+Kredi Teklifleri"
+338,Daire,Marmara Mah.,213,165,4+1,3,3,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Deniz İstanbul,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"13.000.000 TL
+Kredi Teklifleri"
+339,Daire,Marmara Mah.,213,165,4+1,3,3,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Deniz İstanbul,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"13.000.000 TL
+Kredi Teklifleri"
+340,Daire,Marmara Mah.,200,170,3+1,0,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.750.000 TL
+Kredi Teklifleri"
+341,Daire,Adnan Kahveci Mah.,100,81,1+1,5-10 arası,3,7,Merkezi (Pay Ölçer),1,Yok,Hayır,Kiracılı,Evet,Belirtilmemiş,500,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.100.000 TL
+Kredi Teklifleri"
+342,Daire,Kavaklı Mh.,240,200,3+2,2,4,4,Doğalgaz (Kombi),5,Var,Hayır,Kiracılı,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.950.000 TL
+Kredi Teklifleri"
+343,Daire,Kavaklı Mh.,240,200,3+2,2,4,4,Doğalgaz (Kombi),5,Var,Hayır,Kiracılı,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.950.000 TL
+Kredi Teklifleri"
+344,Daire,Yakuplu Mah.,90,90,2+1,5-10 arası,2,5,Merkezi,1,Var,Hayır,Kiracılı,Evet,Özgün Kent Sitesi,0,Evet,Kat Mülkiyetli,Hayır,"1.630.000 TL
+Kredi Teklifleri",
+345,Daire,Yakuplu Mah.,95,75,2+1,0,Giriş Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.000.000 TL
+Kredi Teklifleri"
+346,Daire,Dereağzı Mh.,90,80,2+1,21-25 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"1.300.000 TL
+Kredi Teklifleri"
+347,Daire,Dereağzı Mh.,90,80,2+1,21-25 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"1.300.000 TL
+Kredi Teklifleri"
+348,Daire,Cumhuriyet Mah.,86,70,1.5+1,5-10 arası,1,8,Merkezi (Pay Ölçer),1,Var,Hayır,Boş,Evet,Belirtilmemiş,500,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.300.000 TL
+Kredi Teklifleri"
+349,Daire,Kavaklı Mh.,220,200,3+2,3,3,3,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Evet,"2.975.000 TL
+Kredi Teklifleri",
+350,Daire,Kavaklı Mh.,120,110,2+1,0,1,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,150,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.665.000 TL
+Kredi Teklifleri"
+351,Daire,Dereağzı Mh.,115,100,2+1,5-10 arası,3,5,Doğalgaz (Kombi),2,Var,Evet,Mülk Sahibi,Evet,Prince Homes,Belirtilmemiş,Hayır,Kat Mülkiyetli,Hayır,"3.400.000 TL
+Kredi Teklifleri",
+352,Daire,Yakuplu Mah.,100,95,2+1,0,2,5,Doğalgaz (Kombi),2,Var,Belirtilmemiş,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.450.000 TL
+Kredi Teklifleri"
+353,Daire,Kavaklı Mh.,125,110,2+1,0,2,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,İnşaat Firmasından,Evet,"2.199.000 TL
+Kredi Teklifleri"
+354,Daire,Dereağzı Mh.,150,130,3+1,3,1,3,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Camellia Evleri,Belirtilmemiş,Evet,Kat Mülkiyetli,Hayır,"2.970.000 TL
+Kredi Teklifleri",
+355,Daire,Adnan Kahveci Mah.,120,110,2+1,4,1,4,Doğalgaz (Kombi),2,Yok,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"1.825.000 TL
+Kredi Teklifleri"
+356,Daire,Adnan Kahveci Mah.,120,110,2+1,4,1,4,Doğalgaz (Kombi),2,Yok,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"1.825.000 TL
+Kredi Teklifleri"
+357,Daire,Adnan Kahveci Mah.,380,320,5+2,11-15 arası,15,15,Doğalgaz (Kombi),3,Var,Hayır,Mülk Sahibi,Evet,Yeşilkent 1 Sitesi,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"5.100.000 TL
+Kredi Teklifleri"
+358,Daire,Adnan Kahveci Mah.,156,124,3+1,5-10 arası,Bahçe Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.949.000 TL
+Kredi Teklifleri"
+359,Daire,Adnan Kahveci Mah.,180,155,3+1,16-20 arası,10,15,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.200.000 TL
+Kredi Teklifleri"
+360,Daire,Kavaklı Mh.,145,130,3+1,16-20 arası,3,8,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Evet,İhlas Marmara Evleri 2. Kısım,Belirtilmemiş,Belirtilmemiş,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.500.000 TL
+Kredi Teklifleri"
+361,Daire,Dereağzı Mh.,130,100,2+1,3,4,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,150,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.775.000 TL
+Kredi Teklifleri"
+362,Daire,Adnan Kahveci Mah.,165,140,3+1,4,5,9,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,150,Hayır,Kat İrtifaklı,Emlak Ofisinden,Hayır,"3.100.000 TL
+Kredi Teklifleri"
+363,Daire,Adnan Kahveci Mah.,350,300,5+2,5-10 arası,7,7,Doğalgaz (Kombi),3,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"4.950.000 TL
+Kredi Teklifleri"
+364,Daire,Adnan Kahveci Mah.,120,105,2+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.275.000 TL
+Kredi Teklifleri"
+365,Daire,Kavaklı Mh.,172,148,3+1,0,Bahçe Katı,12,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Evet,İhlas Marmara Evleri 4. Kısım,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"5.100.000 TL
+Kredi Teklifleri"
+366,Daire,Adnan Kahveci Mah.,110,100,2+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"1.999.000 TL
+Kredi Teklifleri"
+367,Daire,Marmara Mah.,110,100,3+1,16-20 arası,6,8,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,İhlas Marmara Evleri 1. Kısım,360,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.425.000 TL
+Kredi Teklifleri"
+368,Daire,Adnan Kahveci Mah.,110,90,2+1,11-15 arası,8,9,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Elit Park Evleri,260,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.450.000 TL
+Kredi Teklifleri"
+369,Daire,Marmara Mah.,115,100,2+1,0,Giriş Katı,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,20,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.259.000 TL
+Kredi Teklifleri"
+370,Daire,Dereağzı Mh.,155,135,3+1,5-10 arası,4,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,120,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.750.000 TL
+Kredi Teklifleri"
+371,Daire,Adnan Kahveci Mah.,380,360,7+2,5-10 arası,5,6,Merkezi (Pay Ölçer),3,Var,Hayır,Mülk Sahibi,Evet,Dora Park 3,1.400,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"12.850.000 TL
+Kredi Teklifleri"
+372,Daire,Barış Mh.,150,140,3+1,11-15 arası,4,12,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.250.000 TL
+Kredi Teklifleri"
+373,Daire,Barış Mh.,150,140,3+1,11-15 arası,4,12,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.250.000 TL
+Kredi Teklifleri"
+374,Daire,Beylikdüzü OSB,100,90,2+1,0,3,8,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,60,Evet,Kat İrtifaklı,İnşaat Firmasından,Hayır,"892.000 TL
+Kredi Teklifleri"
+375,Daire,Beylikdüzü OSB,100,90,2+1,0,3,8,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,60,Evet,Kat İrtifaklı,İnşaat Firmasından,Hayır,"892.000 TL
+Kredi Teklifleri"
+376,Daire,Barış Mh.,160,145,3+1,21-25 arası,3,14,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.550.000 TL
+Kredi Teklifleri"
+377,Daire,Kavaklı Mh.,134,100,2+1,0,5,22,Merkezi (Pay Ölçer),1,Yok,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"4.750.000 TL
+Kredi Teklifleri"
+378,Daire,Yakuplu Mah.,90,85,2+1,4,Bahçe Katı,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,20,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.169.000 TL
+Kredi Teklifleri"
+379,Daire,Yakuplu Mah.,90,85,2+1,4,Bahçe Katı,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,20,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.169.000 TL
+Kredi Teklifleri"
+380,Daire,Adnan Kahveci Mah.,145,130,3+1,4,1,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,80,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.100.000 TL
+Kredi Teklifleri"
+381,Daire,Gürpınar Mh.,110,90,2+1,4,3,6,Doğalgaz (Kombi),2,Var,Evet,Boş,Evet,Blue Sea City 34 Konutları,350,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.840.000 TL
+Kredi Teklifleri"
+382,Daire,Barış Mh.,82,70,1+1,5-10 arası,10,10,Merkezi (Pay Ölçer),1,Var,Hayır,Kiracılı,Evet,Makyol Yaşam Beylikdüzü,650,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.300.000 TL
+Kredi Teklifleri"
+383,Daire,Kavaklı Mh.,115,105,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.799.000 TL
+Kredi Teklifleri"
+384,Daire,Dereağzı Mh.,110,100,2+1,4,3,5,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,150,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.450.000 TL
+Kredi Teklifleri"
+385,Daire,Marmara Mah.,180,160,3+1,5-10 arası,4,10,Doğalgaz (Kombi),3,Var,Hayır,Mülk Sahibi,Evet,Beyza Konakları,150,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.500.000 TL
+Kredi Teklifleri"
+386,Daire,Kavaklı Mh.,85,70,2+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.250.000 TL
+Kredi Teklifleri"
+387,Daire,Kavaklı Mh.,85,70,2+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.250.000 TL
+Kredi Teklifleri"
+388,Daire,Adnan Kahveci Mah.,150,145,3+1,11-15 arası,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.100.000 TL
+Kredi Teklifleri"
+389,Daire,Kavaklı Mh.,130,110,3+1,0,4,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"990.000 TL
+Kredi Teklifleri"
+390,Daire,Adnan Kahveci Mah.,200,180,3+1,5-10 arası,4,7,Doğalgaz (Kombi),2,Var,Evet,Mülk Sahibi,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"4.650.000 TL
+Kredi Teklifleri"
+391,Daire,Barış Mh.,105,75,2+1,5-10 arası,Yüksek Giriş,14,Merkezi (Pay Ölçer),1,Var,Hayır,Mülk Sahibi,Evet,Aris Park Residence,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.385.000 TL
+Kredi Teklifleri"
+392,Daire,Kavaklı Mh.,100,90,2+1,5-10 arası,4,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Hayır,"2.400.000 TL
+Kredi Teklifleri",
+393,Daire,Kavaklı Mh.,100,90,2+1,5-10 arası,4,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Hayır,"2.400.000 TL
+Kredi Teklifleri",
+394,Daire,Adnan Kahveci Mah.,150,120,3+1,21-25 arası,4,12,Doğalgaz (Kombi),2,Yok,Hayır,Kiracılı,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.850.000 TL
+Kredi Teklifleri"
+395,Daire,Adnan Kahveci Mah.,150,120,3+1,21-25 arası,4,12,Doğalgaz (Kombi),2,Yok,Hayır,Kiracılı,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.850.000 TL
+Kredi Teklifleri"
+396,Daire,Gürpınar Mh.,150,120,3+1,0,1,6,Doğalgaz (Kombi),2,Yok,Hayır,Mülk Sahibi,Evet,Gürpınar Konakları,400,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.000.000 TL
+Kredi Teklifleri"
+397,Daire,Gürpınar Mh.,150,120,3+1,0,1,6,Doğalgaz (Kombi),2,Yok,Hayır,Mülk Sahibi,Evet,Gürpınar Konakları,400,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.000.000 TL
+Kredi Teklifleri"
+398,Daire,Adnan Kahveci Mah.,125,105,2+1,5-10 arası,Bahçe Katı,8,Doğalgaz (Kombi),2,Yok,Hayır,Kiracılı,Evet,Adel Palas,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.500.000 TL
+Kredi Teklifleri"
+399,Daire,Barış Mh.,145,125,3+1,21-25 arası,1,9,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.550.000 TL
+Kredi Teklifleri"
+400,Daire,Kavaklı Mh.,120,110,2+1,4,1,3,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Evet,Ayazma Konakları,450,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.650.000 TL
+Kredi Teklifleri"
+401,Daire,Barış Mh.,239,188,3+1,3,6,11,Merkezi,2,Var,Hayır,Kiracılı,Evet,Westside İstanbul,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"7.000.000 TL
+Kredi Teklifleri"
+402,Daire,Yakuplu Mah.,110,100,2+1,0,1,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.488.000 TL
+Kredi Teklifleri"
+403,Daire,Kavaklı Mh.,350,300,7+1,1,4,5,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Şehri Beyaz Konakları 2,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"7.440.000 TL
+Kredi Teklifleri"
+404,Daire,Kavaklı Mh.,115,110,2+1,0,Bahçe Katı,5,Merkezi (Pay Ölçer),1,Var,Hayır,Boş,Evet,Dora Park 7,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.975.000 TL
+Kredi Teklifleri"
+405,Daire,Adnan Kahveci Mah.,145,130,3+1,4,4,5,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Evet,Belirtilmemiş,400,Evet,Kat Mülkiyetli,Hayır,"3.700.000 TL
+Kredi Teklifleri",
+406,Daire,Cumhuriyet Mah.,140,130,3+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,40,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.200.000 TL
+Kredi Teklifleri"
+407,Daire,Cumhuriyet Mah.,140,130,3+1,0,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,40,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.200.000 TL
+Kredi Teklifleri"
+408,Daire,Marmara Mah.,110,95,2+1,0,Bahçe Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.650.000 TL
+Kredi Teklifleri"
+409,Daire,Adnan Kahveci Mah.,185,160,3+1,16-20 arası,2,12,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.150.000 TL
+Kredi Teklifleri"
+410,Daire,Kavaklı Mh.,127,107,2+1,5-10 arası,2,5,Merkezi (Pay Ölçer),2,Var,Hayır,Mülk Sahibi,Evet,Bey Kasrı Konakları,1.250,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.500.000 TL
+Kredi Teklifleri"
+411,Daire,Adnan Kahveci Mah.,175,158,3+1,16-20 arası,3,14,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Yeşilkent Sitesi 3,400,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.250.000 TL
+Kredi Teklifleri"
+412,Daire,Adnan Kahveci Mah.,110,100,2+1,4,Bahçe Katı,5,Merkezi (Pay Ölçer),2,Var,Hayır,Mülk Sahibi,Evet,Ahenk İstanbul,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.350.000 TL
+Kredi Teklifleri"
+413,Daire,Adnan Kahveci Mah.,110,100,2+1,4,Bahçe Katı,5,Merkezi (Pay Ölçer),2,Var,Hayır,Mülk Sahibi,Evet,Ahenk İstanbul,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.350.000 TL
+Kredi Teklifleri"
+414,Daire,Marmara Mah.,100,80,1+1,0,2,10,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,İn Mari,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.800.000 TL
+Kredi Teklifleri"
+415,Daire,Yakuplu Mah.,230,200,4+2,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.050.000 TL
+Kredi Teklifleri"
+416,Daire,Adnan Kahveci Mah.,90,70,1+1,0,12,23,Merkezi (Pay Ölçer),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.500.000 TL
+Kredi Teklifleri"
+417,Daire,Barış Mh.,140,120,3+1,16-20 arası,Yüksek Giriş,14,Doğalgaz (Kombi),1,Yok,Hayır,Kiracılı,Hayır,Belirtilmemiş,230,Evet,Kat Mülkiyetli,Hayır,"2.650.000 TL
+Kredi Teklifleri",
+418,Daire,Cumhuriyet Mah.,145,130,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.900.000 TL
+Kredi Teklifleri"
+419,Daire,Büyükşehir Mh.,85,75,2+1,21-25 arası,8,12,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.750.000 TL
+Kredi Teklifleri"
+420,Daire,Adnan Kahveci Mah.,170,150,3+1,16-20 arası,12,14,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,280,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.860.000 TL
+Kredi Teklifleri"
+421,Daire,Adnan Kahveci Mah.,170,150,3+1,16-20 arası,12,14,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,280,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.860.000 TL
+Kredi Teklifleri"
+422,Daire,Yakuplu Mah.,155,140,3+1,16-20 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.300.000 TL
+Kredi Teklifleri"
+423,Daire,Yakuplu Mah.,155,140,3+1,16-20 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.300.000 TL
+Kredi Teklifleri"
+424,Daire,Adnan Kahveci Mah.,235,220,4+2,5-10 arası,3,5,Merkezi (Pay Ölçer),3,Var,Hayır,Kiracılı,Evet,Zülal Konakları,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.950.000 TL
+Kredi Teklifleri"
+425,Daire,Yakuplu Mah.,105,100,2+1,5-10 arası,2,4,Doğalgaz (Kombi),1,Var,Evet,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"2.250.000 TL
+Kredi Teklifleri"
+426,Daire,Kavaklı Mh.,160,153,3+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Şehri Beyaz Konakları,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"4.100.000 TL
+Kredi Teklifleri"
+427,Daire,Yakuplu Mah.,148,120,3+1,3,2,4,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Zirve Park Yaşam Evleri,500,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.795.000 TL
+Kredi Teklifleri"
+428,Daire,Yakuplu Mah.,200,175,3+2,0,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.219.000 TL
+Kredi Teklifleri"
+429,Daire,Kavaklı Mh.,124,120,2+1,0,Yüksek Giriş,5,Doğalgaz (Kombi),5,Var,Hayır,Boş,Evet,Şehri Beyaz Konakları 2,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.865.000 TL
+Kredi Teklifleri"
+430,Daire,Yakuplu Mah.,120,100,2+1,0,Bahçe Katı,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"750.000 TL
+Kredi Teklifleri"
+431,Daire,Kavaklı Mh.,210,185,3+2,2,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.675.000 TL
+Kredi Teklifleri"
+432,Daire,Marmara Mah.,96,78,2+1,11-15 arası,5,10,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Eston Reşitpaşa 3 Evleri,550,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"2.975.000 TL
+Kredi Teklifleri"
+433,Daire,Marmara Mah.,96,78,2+1,11-15 arası,5,10,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Eston Reşitpaşa 3 Evleri,550,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"2.975.000 TL
+Kredi Teklifleri"
+434,Daire,Adnan Kahveci Mah.,190,170,3+1,4,7,7,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,300,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"4.300.000 TL
+Kredi Teklifleri"
+435,Daire,Adnan Kahveci Mah.,190,170,3+1,4,7,7,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,300,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"4.300.000 TL
+Kredi Teklifleri"
+436,Daire,Yakuplu Mah.,135,115,3+1,5-10 arası,Giriş Katı,5,Doğalgaz (Kombi),2,Yok,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.650.000 TL
+Kredi Teklifleri"
+437,Daire,Sahil Mah.,160,145,3+1,2,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Alya Marin,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"6.000.000 TL
+Kredi Teklifleri"
+438,Daire,Adnan Kahveci Mah.,110,100,2+1,0,4,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"2.650.000 TL
+Kredi Teklifleri"
+439,Daire,Marmara Mah.,145,125,3+1,21-25 arası,4,10,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Evet,Gelişim Sitesi,200,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.200.000 TL
+Kredi Teklifleri"
+440,Daire,Marmara Mah.,145,125,3+1,21-25 arası,4,10,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Evet,Gelişim Sitesi,200,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.200.000 TL
+Kredi Teklifleri"
+441,Daire,Adnan Kahveci Mah.,280,250,4+2,2,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"4.500.000 TL
+Kredi Teklifleri"
+442,Daire,Marmara Mah.,180,160,3+1,16-20 arası,1,9,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Evet,Gelişim Sitesi,110,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.150.000 TL
+Kredi Teklifleri"
+443,Daire,Kavaklı Mh.,185,165,3+2,4,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.800.000 TL
+Kredi Teklifleri"
+444,Daire,Adnan Kahveci Mah.,120,105,2+1,16-20 arası,11,12,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Evet,Velittin Küçük Sitesi,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.500.000 TL
+Kredi Teklifleri"
+445,Daire,Adnan Kahveci Mah.,120,105,2+1,16-20 arası,11,12,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Evet,Velittin Küçük Sitesi,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.500.000 TL
+Kredi Teklifleri"
+446,Daire,Kavaklı Mh.,140,130,3+1,1,3,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.350.000 TL
+Kredi Teklifleri"
+447,Daire,Yakuplu Mah.,155,145,3+1,0,8,10,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.525.000 TL
+Kredi Teklifleri"
+448,Daire,Cumhuriyet Mah.,130,125,3+1,5-10 arası,2,10,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.475.000 TL
+Kredi Teklifleri"
+449,Daire,Cumhuriyet Mah.,130,125,3+1,5-10 arası,2,10,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.475.000 TL
+Kredi Teklifleri"
+450,Daire,Kavaklı Mh.,210,185,3+2,5-10 arası,5,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,150,Evet,Kat Mülkiyetli,Hayır,"3.100.000 TL
+Kredi Teklifleri",
+451,Daire,Marmara Mah.,235,160,4+1,3,3,6,Merkezi,3,Var,Evet,Mülk Sahibi,Evet,Deniz İstanbul Mercan Konakları,Belirtilmemiş,Belirtilmemiş,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"14.600.000 TL
+Kredi Teklifleri"
+452,Daire,Kavaklı Mh.,80,59,1.5+1,11-15 arası,Yüksek Giriş,4,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Bilim Yuva Sitesi 2. Kısım,150,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.400.000 TL
+Kredi Teklifleri"
+453,Daire,Kavaklı Mh.,127,120,2+1,5-10 arası,5,8,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Evet,Kavaklı Konakları,800,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.550.000 TL
+Kredi Teklifleri"
+454,Daire,Adnan Kahveci Mah.,165,145,3+1,11-15 arası,8,14,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,200,Evet,Bilinmiyor,Emlak Ofisinden,Hayır,"2.850.000 TL
+Kredi Teklifleri"
+455,Daire,Adnan Kahveci Mah.,140,120,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.549.000 TL
+Kredi Teklifleri"
+456,Daire,Adnan Kahveci Mah.,180,160,3+1,3,Bahçe Katı,8,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Flora City,750,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.750.000 TL
+Kredi Teklifleri"
+457,Daire,Büyükşehir Mh.,60,55,1+1,26-30 arası,4,5,Doğalgaz (Kombi),1,Var,Belirtilmemiş,Kiracılı,Hayır,Belirtilmemiş,Belirtilmemiş,Belirtilmemiş,Kat Mülkiyetli,Hayır,"1.285.000 TL
+Kredi Teklifleri",
+458,Daire,Kavaklı Mh.,250,230,5+2,2,4,5,Doğalgaz (Kombi),4,Var,Evet,Boş,Hayır,Belirtilmemiş,800,Hayır,Kat İrtifaklı,Emlak Ofisinden,Hayır,"5.760.000 TL
+Kredi Teklifleri"
+459,Daire,Yakuplu Mah.,125,115,2+1,0,7,10,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"550.000 TL
+Kredi Teklifleri"
+460,Daire,Cumhuriyet Mah.,135,125,2+1,0,10,15,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"525.000 TL
+Kredi Teklifleri"
+461,Daire,Dereağzı Mh.,110,100,2+1,5-10 arası,Bahçe Katı,2,Doğalgaz (Kombi),1,Var,Evet,Boş,Evet,Sunkent Tatil Sitesi,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.400.000 TL
+Kredi Teklifleri"
+462,Daire,Büyükşehir Mh.,175,150,3+1,16-20 arası,Yüksek Giriş,14,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Güzelkent Sitesi,300,Evet,Kat İrtifaklı,Evet,"2.250.000 TL
+Kredi Teklifleri",
+463,Daire,Barış Mh.,150,130,3+1,11-15 arası,6,12,Doğalgaz (Kombi),1,Var,Evet,Kiracılı,Hayır,Belirtilmemiş,300,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.500.000 TL
+Kredi Teklifleri"
+464,Daire,Barış Mh.,150,130,3+1,11-15 arası,6,12,Doğalgaz (Kombi),1,Var,Evet,Kiracılı,Hayır,Belirtilmemiş,300,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.500.000 TL
+Kredi Teklifleri"
+465,Daire,Kavaklı Mh.,160,140,3+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.325.000 TL
+Kredi Teklifleri"
+466,Daire,Dereağzı Mh.,120,95,2+1,5-10 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.250.000 TL
+Kredi Teklifleri"
+467,Daire,Dereağzı Mh.,120,95,2+1,5-10 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.250.000 TL
+Kredi Teklifleri"
+468,Daire,Adnan Kahveci Mah.,135,115,3+1,1,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"4.350.000 TL
+Kredi Teklifleri"
+469,Daire,Kavaklı Mh.,140,125,3+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,İnşaat Firmasından,Evet,"1.959.999 TL
+Kredi Teklifleri"
+470,Daire,Yakuplu Mah.,125,100,2+1,0,Bahçe Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,İnşaat Firmasından,Evet,"1.149.999 TL
+Kredi Teklifleri"
+471,Daire,Dereağzı Mh.,135,120,3+1,4,3,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,120,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.550.000 TL
+Kredi Teklifleri"
+472,Daire,Gürpınar Mh.,245,210,5+2,5-10 arası,5,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.350.000 TL
+Kredi Teklifleri"
+473,Daire,Adnan Kahveci Mah.,120,100,2+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,İnşaat Firmasından,Evet,"2.299.999 TL
+Kredi Teklifleri"
+474,Daire,Adnan Kahveci Mah.,120,100,2+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,İnşaat Firmasından,Evet,"2.299.999 TL
+Kredi Teklifleri"
+475,Daire,Dereağzı Mh.,80,60,2+1,0,Bahçe Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.215.000 TL
+Kredi Teklifleri"
+476,Daire,Kavaklı Mh.,250,230,5+2,0,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"4.150.000 TL
+Kredi Teklifleri"
+477,Daire,Kavaklı Mh.,125,100,3+1,0,1,3,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Alya Mercan,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.999.999 TL
+Kredi Teklifleri"
+478,Daire,Barış Mh.,140,125,3+1,21-25 arası,6,9,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Evet,Şişli Huzur Sitesi,200,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.550.000 TL
+Kredi Teklifleri"
+479,Daire,Barış Mh.,140,125,3+1,21-25 arası,6,9,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Evet,Şişli Huzur Sitesi,200,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.550.000 TL
+Kredi Teklifleri"
+480,Daire,Yakuplu Mah.,70,55,1+1,5-10 arası,Bahçe Katı,3,Doğalgaz (Kombi),1,Yok,Hayır,Kiracılı,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"750.000 TL
+Kredi Teklifleri"
+481,Daire,Yakuplu Mah.,70,55,1+1,5-10 arası,Bahçe Katı,3,Doğalgaz (Kombi),1,Yok,Hayır,Kiracılı,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"750.000 TL
+Kredi Teklifleri"
+482,Daire,Adnan Kahveci Mah.,200,185,3+1,21-25 arası,14,15,Doğalgaz (Kombi),2,Var,Evet,Mülk Sahibi,Hayır,Belirtilmemiş,500,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.950.000 TL
+Kredi Teklifleri"
+483,Daire,Adnan Kahveci Mah.,200,185,3+1,21-25 arası,14,15,Doğalgaz (Kombi),2,Var,Evet,Mülk Sahibi,Hayır,Belirtilmemiş,500,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.950.000 TL
+Kredi Teklifleri"
+484,Daire,Barış Mh.,170,160,3+1,11-15 arası,12,14,Kat Kaloriferi,2,Var,Hayır,Boş,Evet,Ada 90 Çamlık Sitesi,150,Evet,Kat Mülkiyetli,Hayır,"2.950.000 TL
+Kredi Teklifleri",
+485,Daire,Barış Mh.,170,160,3+1,11-15 arası,12,14,Kat Kaloriferi,2,Var,Hayır,Boş,Evet,Ada 90 Çamlık Sitesi,150,Evet,Kat Mülkiyetli,Hayır,"2.950.000 TL
+Kredi Teklifleri",
+486,Daire,Marmara Mah.,210,170,4+1,4,2,5,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Deniz İstanbul Mercan Konakları,Belirtilmemiş,Evet,Kat Mülkiyetli,Hayır,"10.700.000 TL
+Kredi Teklifleri",
+487,Daire,Barış Mh.,170,160,3+1,11-15 arası,12,14,Kat Kaloriferi,2,Var,Hayır,Boş,Evet,Ada 90 Çamlık Sitesi,150,Evet,Kat Mülkiyetli,Hayır,"2.950.000 TL
+Kredi Teklifleri",
+488,Daire,Kavaklı Mh.,120,105,2+1,4,1,4,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.100.000 TL
+Kredi Teklifleri"
+489,Daire,Barış Mh.,150,140,3+1,5-10 arası,12,14,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.899.999 TL
+Kredi Teklifleri"
+490,Daire,Yakuplu Mah.,130,120,2+2,11-15 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.290.000 TL
+Kredi Teklifleri"
+491,Daire,Adnan Kahveci Mah.,180,160,3+1,16-20 arası,2,14,Doğalgaz (Kombi),3,Var,Hayır,Kiracılı,Evet,İdeal Evleri,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.550.000 TL
+Kredi Teklifleri"
+492,Daire,Cumhuriyet Mah.,71,61,1+1,5-10 arası,16,17,Merkezi (Pay Ölçer),1,Var,Hayır,Kiracılı,Evet,Demir Romance,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.300.000 TL
+Kredi Teklifleri"
+493,Daire,Marmara Mah.,200,185,3+1,16-20 arası,2,14,Merkezi,2,Var,Evet,Mülk Sahibi,Evet,T.E.V.D. Sağlık Sitesi,650,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"4.700.000 TL
+Kredi Teklifleri"
+494,Daire,Kavaklı Mh.,120,110,2+1,2,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.049.000 TL
+Kredi Teklifleri"
+495,Daire,Kavaklı Mh.,120,110,2+1,2,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.049.000 TL
+Kredi Teklifleri"
+496,Daire,Adnan Kahveci Mah.,145,135,3+1,5-10 arası,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,85,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.050.000 TL
+Kredi Teklifleri"
+497,Daire,Adnan Kahveci Mah.,145,135,3+1,5-10 arası,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,85,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.050.000 TL
+Kredi Teklifleri"
+498,Daire,Marmara Mah.,144,115,2+1,3,2,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Deniz İstanbul Mercan Konakları,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"7.675.000 TL
+Kredi Teklifleri"
+499,Daire,Yakuplu Mah.,140,120,3+1,4,3,5,Doğalgaz (Kombi),1,Var,Evet,Boş,Hayır,Belirtilmemiş,100,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.220.000 TL
+Kredi Teklifleri"
+500,Daire,Kavaklı Mh.,168,130,3+1,1,1,4,Kat Kaloriferi,2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,500,Belirtilmemiş,Kat İrtifaklı,Evet,"3.500.000 TL
+Kredi Teklifleri",
+501,Daire,Cumhuriyet Mah.,130,120,3+1,0,Bahçe Katı,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"749.900 TL
+Kredi Teklifleri"
+502,Daire,Cumhuriyet Mah.,130,120,3+1,0,Bahçe Katı,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"749.900 TL
+Kredi Teklifleri"
+503,Daire,Adnan Kahveci Mah.,230,200,4+2,5-10 arası,3,4,Doğalgaz (Kombi),3,Var,Hayır,Kiracılı,Evet,Kolej Evleri,250,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.200.000 TL
+Kredi Teklifleri"
+504,Daire,Büyükşehir Mh.,85,80,2+1,21-25 arası,Yüksek Giriş,12,Merkezi (Pay Ölçer),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,250,Evet,Kat Mülkiyetli,Hayır,"1.750.000 TL
+Kredi Teklifleri",
+505,Daire,Marmara Mah.,165,150,3+1,5-10 arası,8,12,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.346.000 TL
+Kredi Teklifleri"
+506,Daire,Marmara Mah.,182,180,3.5+1,4,Bahçe Katı,3,Yerden Isıtma,2,Var,Hayır,Mülk Sahibi,Evet,Dekar Asmalı Hayat,1.600,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"8.300.000 TL
+Kredi Teklifleri"
+507,Daire,Sahil Mah.,125,115,2+1,0,Bahçe Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.849.000 TL
+Kredi Teklifleri"
+508,Daire,Cumhuriyet Mah.,150,135,3+1,5-10 arası,2,11,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.199.900 TL
+Kredi Teklifleri"
+509,Daire,Cumhuriyet Mah.,145,130,3+1,0,Yüksek Giriş,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"868.000 TL
+Kredi Teklifleri"
+510,Daire,Adnan Kahveci Mah.,125,100,2+1,5-10 arası,5,7,Doğalgaz (Kombi),2,Yok,Hayır,Mülk Sahibi,Evet,İdeal Evleri,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.000.000 TL
+Kredi Teklifleri"
+511,Daire,Adnan Kahveci Mah.,125,100,2+1,5-10 arası,5,7,Doğalgaz (Kombi),2,Yok,Hayır,Mülk Sahibi,Evet,İdeal Evleri,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.000.000 TL
+Kredi Teklifleri"
+512,Daire,Adnan Kahveci Mah.,270,200,5+2,4,4,4,Doğalgaz (Kombi),3,Var,Belirtilmemiş,Mülk Sahibi,Hayır,Belirtilmemiş,Belirtilmemiş,Belirtilmemiş,Kat Mülkiyetli,Hayır,"9.500.000 TL
+Kredi Teklifleri",
+513,Daire,Adnan Kahveci Mah.,135,125,2+1,0,6,9,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"5.320.000 TL
+Kredi Teklifleri"
+514,Daire,Adnan Kahveci Mah.,135,125,2+1,0,6,9,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"5.320.000 TL
+Kredi Teklifleri"
+515,Daire,Kavaklı Mh.,60,42,1+1,1,9,12,Merkezi (Pay Ölçer),1,Var,Evet,Boş,Evet,Demir Country,400,Evet,Kat Mülkiyetli,İnşaat Firmasından,Hayır,"2.325.000 TL
+Kredi Teklifleri"
+516,Daire,Kavaklı Mh.,60,42,1+1,1,9,12,Merkezi (Pay Ölçer),1,Var,Evet,Boş,Evet,Demir Country,400,Evet,Kat Mülkiyetli,İnşaat Firmasından,Hayır,"2.325.000 TL
+Kredi Teklifleri"
+517,Daire,Kavaklı Mh.,145,130,3+1,0,Bahçe Katı,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.599.000 TL
+Kredi Teklifleri"
+518,Daire,Kavaklı Mh.,85,65,2+1,0,Bahçe Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.650.000 TL
+Kredi Teklifleri"
+519,Daire,Adnan Kahveci Mah.,325,275,4+1,5-10 arası,1,8,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Evet,Hilal Konakları,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,"11.930.000 TL
+Kredi Teklifleri"
+520,Daire,Dereağzı Mh.,300,280,5+2,4,5,5,Merkezi (Pay Ölçer),3,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"6.750.000 TL
+Kredi Teklifleri"
+521,Daire,Adnan Kahveci Mah.,165,155,3+1,16-20 arası,3,11,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,Simakent Sitesi,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.550.000 TL
+Kredi Teklifleri"
+522,Daire,Cumhuriyet Mah.,110,100,2+1,5-10 arası,9,10,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.925.000 TL
+Kredi Teklifleri"
+523,Daire,Adnan Kahveci Mah.,110,100,2+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.600.000 TL
+Kredi Teklifleri"
+524,Daire,Dereağzı Mh.,110,98,2+1,21-25 arası,Giriş Katı,7,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.550.000 TL
+Kredi Teklifleri"
+525,Daire,Barış Mh.,160,150,3+1,21-25 arası,4,14,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,100,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"2.335.000 TL
+Kredi Teklifleri"
+526,Daire,Adnan Kahveci Mah.,92,65,2+1,5-10 arası,6,7,Merkezi (Pay Ölçer),1,Yok,Hayır,Kiracılı,Evet,Kalekent Evleri,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.950.000 TL
+Kredi Teklifleri"
+527,Daire,Kavaklı Mh.,150,140,3+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.850.000 TL
+Kredi Teklifleri"
+528,Daire,Adnan Kahveci Mah.,190,180,3+1,1,2,6,Merkezi (Pay Ölçer),2,Var,Hayır,Mülk Sahibi,Evet,Doğa Panorama Evleri,500,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"315.000 TL
+Kredi Teklifleri"
+529,Daire,Yakuplu Mah.,165,155,3+1,5-10 arası,4,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.700.000 TL
+Kredi Teklifleri"
+530,Daire,Yakuplu Mah.,165,155,3+1,5-10 arası,4,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.700.000 TL
+Kredi Teklifleri"
+531,Daire,Yakuplu Mah.,145,135,3+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.990.000 TL
+Kredi Teklifleri"
+532,Daire,Yakuplu Mah.,145,135,3+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.990.000 TL
+Kredi Teklifleri"
+533,Daire,Adnan Kahveci Mah.,170,158,3+1,5-10 arası,12,14,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.790.000 TL
+Kredi Teklifleri"
+534,Daire,Barış Mh.,200,149,4+1,0,7,15,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,600,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"10.000.000 TL
+Kredi Teklifleri"
+535,Daire,Kavaklı Mh.,170,145,3+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.299.000 TL
+Kredi Teklifleri"
+536,Daire,Kavaklı Mh.,170,145,3+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.299.000 TL
+Kredi Teklifleri"
+537,Daire,Yakuplu Mah.,110,95,2+1,0,Giriş Katı,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.770.000 TL
+Kredi Teklifleri"
+538,Daire,Yakuplu Mah.,110,95,2+1,0,Giriş Katı,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.770.000 TL
+Kredi Teklifleri"
+539,Daire,Barış Mh.,145,130,3+1,21-25 arası,3,14,Doğalgaz (Kombi),1,Yok,Hayır,Kiracılı,Hayır,Belirtilmemiş,250,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.250.000 TL
+Kredi Teklifleri"
+540,Daire,Gürpınar Mh.,115,110,2+1,5-10 arası,3,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.350.000 TL
+Kredi Teklifleri"
+541,Daire,Gürpınar Mh.,115,110,2+1,5-10 arası,3,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.350.000 TL
+Kredi Teklifleri"
+542,Daire,Gürpınar Mh.,95,70,2+1,4,4,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.629.000 TL
+Kredi Teklifleri"
+543,Daire,Adnan Kahveci Mah.,120,110,2+1,4,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.300.000 TL
+Kredi Teklifleri"
+544,Daire,Adnan Kahveci Mah.,185,145,3+1,3,4,7,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Evet,Gül Park Evleri,500,Evet,Kat Mülkiyetli,Evet,"7.950.000 TL
+Kredi Teklifleri",
+545,Daire,Barış Mh.,165,155,3+1,11-15 arası,12,15,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,Kardelen Sitesi,200,Evet,Kat Mülkiyetli,Hayır,"2.749.000 TL
+Kredi Teklifleri",
+546,Daire,Yakuplu Mah.,195,170,4+2,5-10 arası,3,3,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Evet,"2.615.000 TL
+Kredi Teklifleri",
+547,Daire,Adnan Kahveci Mah.,215,185,4+1,5-10 arası,1,4,Merkezi,2,Var,Evet,Kiracılı,Evet,Dora Park 5,980,Evet,Kat Mülkiyetli,Hayır,"10.750.000 TL
+Kredi Teklifleri",
+548,Daire,Adnan Kahveci Mah.,145,120,3+1,5-10 arası,Giriş Katı,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.199.000 TL
+Kredi Teklifleri"
+549,Daire,Adnan Kahveci Mah.,360,320,5+2,5-10 arası,5,5,Merkezi (Pay Ölçer),3,Var,Hayır,Mülk Sahibi,Evet,Dora Park Evleri 2,1.300,Evet,Kat Mülkiyetli,Evet,"14.500.000 TL
+Kredi Teklifleri",
+550,Daire,Büyükşehir Mh.,155,145,3+1,16-20 arası,12,14,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"2.900.000 TL
+Kredi Teklifleri"
+551,Daire,Kavaklı Mh.,146,135,3+1,5-10 arası,Giriş Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.275.000 TL
+Kredi Teklifleri"
+552,Daire,Kavaklı Mh.,146,135,3+1,5-10 arası,Giriş Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.275.000 TL
+Kredi Teklifleri"
+553,Daire,Yakuplu Mah.,250,200,5+2,5-10 arası,3,3,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.295.000 TL
+Kredi Teklifleri"
+554,Daire,Kavaklı Mh.,155,150,3+1,3,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.090.000 TL
+Kredi Teklifleri"
+555,Daire,Gürpınar Mh.,155,140,3+1,0,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.390.000 TL
+Kredi Teklifleri"
+556,Daire,Adnan Kahveci Mah.,185,160,3+1,16-20 arası,Yüksek Giriş,16,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Ata Sitesi,390,Evet,Kat Mülkiyetli,Evet,"2.675.000 TL
+Kredi Teklifleri",
+557,Daire,Adnan Kahveci Mah.,185,160,3+1,16-20 arası,Yüksek Giriş,16,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Ata Sitesi,390,Evet,Kat Mülkiyetli,Evet,"2.675.000 TL
+Kredi Teklifleri",
+558,Daire,Kavaklı Mh.,400,250,4+2,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.750.000 TL
+Kredi Teklifleri"
+559,Daire,Yakuplu Mah.,110,95,2+1,5-10 arası,3,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.040.000 TL
+Kredi Teklifleri"
+560,Daire,Adnan Kahveci Mah.,120,100,2+1,4,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,150,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.850.000 TL
+Kredi Teklifleri"
+561,Daire,Yakuplu Mah.,130,110,3+1,0,5,10,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"895.000 TL
+Kredi Teklifleri"
+562,Daire,Yakuplu Mah.,147,132,3+1,0,4,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.195.000 TL
+Kredi Teklifleri"
+563,Daire,Adnan Kahveci Mah.,175,140,3+1,5-10 arası,1,8,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,350,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"4.000.000 TL
+Kredi Teklifleri"
+564,Daire,Marmara Mah.,130,120,3+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Bilinmiyor,Emlak Ofisinden,Hayır,"1.970.000 TL
+Kredi Teklifleri"
+565,Daire,Kavaklı Mh.,148,138,3+1,0,Bahçe Katı,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Bilinmiyor,Emlak Ofisinden,Evet,"950.000 TL
+Kredi Teklifleri"
+566,Daire,Yakuplu Mah.,140,130,3+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Bilinmiyor,Emlak Ofisinden,Evet,"1.850.000 TL
+Kredi Teklifleri"
+567,Daire,Yakuplu Mah.,125,115,2+1,4,4,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,İnşaat Firmasından,Evet,"1.750.000 TL
+Kredi Teklifleri"
+568,Daire,Adnan Kahveci Mah.,220,190,4+2,0,5,5,Yerden Isıtma,3,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"3.850.000 TL
+Kredi Teklifleri"
+569,Daire,Adnan Kahveci Mah.,220,190,4+2,0,5,5,Yerden Isıtma,3,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"3.850.000 TL
+Kredi Teklifleri"
+570,Daire,Beylikdüzü OSB,140,135,3+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.290.000 TL
+Kredi Teklifleri"
+571,Daire,Adnan Kahveci Mah.,140,130,2+1,0,Bahçe Katı,3,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.219.500 TL
+Kredi Teklifleri"
+572,Daire,Adnan Kahveci Mah.,140,130,2+1,0,Bahçe Katı,3,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.219.500 TL
+Kredi Teklifleri"
+573,Daire,Marmara Mah.,175,155,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"4.000.000 TL
+Kredi Teklifleri"
+574,Daire,Marmara Mah.,175,155,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"4.000.000 TL
+Kredi Teklifleri"
+575,Daire,Adnan Kahveci Mah.,105,85,2+1,3,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.630.000 TL
+Kredi Teklifleri"
+576,Daire,Adnan Kahveci Mah.,105,85,2+1,3,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.630.000 TL
+Kredi Teklifleri"
+577,Daire,Beylikdüzü OSB,115,105,2+1,0,Bahçe Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"685.000 TL
+Kredi Teklifleri"
+578,Daire,Cumhuriyet Mah.,164,146,3+1,21-25 arası,3,8,Merkezi,2,Var,Hayır,Kiracılı,Evet,Bizimkent Sitesi,500,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"4.000.000 TL
+Kredi Teklifleri"
+579,Daire,Yakuplu Mah.,95,85,2+1,4,Giriş Katı,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,20,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.279.000 TL
+Kredi Teklifleri"
+580,Daire,Barış Mh.,100,80,1+1,5-10 arası,4,15,Doğalgaz (Kombi),1,Yok,Evet,Boş,Evet,Belirtilmemiş,600,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.830.000 TL
+Kredi Teklifleri"
+581,Daire,Kavaklı Mh.,95,60,1+1,3,Zemin Kat,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"849.000 TL
+Kredi Teklifleri"
+582,Daire,Adnan Kahveci Mah.,110,80,2+1,16-20 arası,Yüksek Giriş,12,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Evet,Velittin Küçük Sitesi,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.630.000 TL
+Kredi Teklifleri"
+583,Daire,Kavaklı Mh.,150,135,3+1,5-10 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,150,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.800.000 TL
+Kredi Teklifleri"
+584,Daire,Gürpınar Mh.,120,110,2+1,0,2,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.400.000 TL
+Kredi Teklifleri"
+585,Daire,Cumhuriyet Mah.,100,90,2+1,4,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"945.000 TL
+Kredi Teklifleri"
+586,Daire,Yakuplu Mah.,220,200,4+1,11-15 arası,Çatı Katı,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.650.000 TL
+Kredi Teklifleri"
+587,Daire,Barış Mh.,155,135,3+1,11-15 arası,9,14,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,250,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.700.000 TL
+Kredi Teklifleri"
+588,Daire,Kavaklı Mh.,125,110,2+1,16-20 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Evet,Bilim Yuva Sitesi 2. Kısım,200,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.550.000 TL
+Kredi Teklifleri"
+589,Daire,Yakuplu Mah.,85,75,2+1,5-10 arası,2,8,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Belirtilmemiş,Kat Mülkiyetli,Hayır,"2.550.000 TL
+Kredi Teklifleri",
+590,Daire,Cumhuriyet Mah.,75,58,1+1,5-10 arası,16,17,Merkezi (Pay Ölçer),1,Var,Hayır,Boş,Evet,Demir Romance,Belirtilmemiş,Belirtilmemiş,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.590.000 TL
+Kredi Teklifleri"
+591,Daire,Yakuplu Mah.,135,116,3+1,5-10 arası,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.100.000 TL
+Kredi Teklifleri"
+592,Daire,Yakuplu Mah.,110,90,2+1,0,7,30 ve üzeri,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,250,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.000.000 TL
+Kredi Teklifleri"
+593,Daire,Barış Mh.,140,125,3+1,16-20 arası,12,14,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.630.000 TL
+Kredi Teklifleri"
+594,Daire,Marmara Mah.,400,300,5+1,2,8,8,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Evet,Deniz İstanbul Mercan Konakları,Belirtilmemiş,Evet,Kat İrtifaklı,Hayır,"11.250.000 TL
+Kredi Teklifleri",
+595,Daire,Marmara Mah.,400,300,5+1,2,8,8,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Evet,Deniz İstanbul Mercan Konakları,Belirtilmemiş,Evet,Kat İrtifaklı,Hayır,"11.250.000 TL
+Kredi Teklifleri",
+596,Daire,Marmara Mah.,145,130,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.099.000 TL
+Kredi Teklifleri"
+597,Daire,Gürpınar Mh.,135,120,3+1,0,1,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.750.000 TL
+Kredi Teklifleri"
+598,Daire,Adnan Kahveci Mah.,235,220,4+2,4,5,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"6.299.999 TL
+Kredi Teklifleri"
+599,Daire,Adnan Kahveci Mah.,235,220,4+2,4,5,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"6.299.999 TL
+Kredi Teklifleri"
+600,Daire,Yakuplu Mah.,110,100,2+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.620.000 TL
+Kredi Teklifleri"
+601,Daire,Kavaklı Mh.,75,65,1+1,3,Bahçe Katı,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"970.000 TL
+Kredi Teklifleri"
+602,Daire,Yakuplu Mah.,100,95,2+1,0,Bahçe Katı,4,Doğalgaz (Kombi),1,Yok,Hayır,Kiracılı,Hayır,Belirtilmemiş,0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.549.000 TL
+Kredi Teklifleri"
+603,Daire,Adnan Kahveci Mah.,240,220,5+2,0,5,5,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,"4.675.000 TL
+Kredi Teklifleri"
+604,Daire,Beylikdüzü OSB,105,95,2+1,0,3,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,60,Evet,Kat Mülkiyetli,Hayır,"895.000 TL
+Kredi Teklifleri",
+605,Daire,Beylikdüzü OSB,110,105,2+1,3,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,45,Evet,Kat Mülkiyetli,Hayır,"765.000 TL
+Kredi Teklifleri",
+606,Daire,Marmara Mah.,150,140,3+1,5-10 arası,6,8,Doğalgaz (Kombi),3,Var,Evet,Boş,Evet,Yeşil Akasya Evleri,0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.669.000 TL
+Kredi Teklifleri"
+607,Daire,Yakuplu Mah.,130,100,2+1,0,2,8,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.300.000 TL
+Kredi Teklifleri"
+608,Daire,Kavaklı Mh.,136,97,2+1,0,8,12,Merkezi (Pay Ölçer),2,Var,Hayır,Kiracılı,Evet,Azur Marmara,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.950.000 TL
+Kredi Teklifleri"
+609,Daire,Gürpınar Mh.,125,105,2+1,5-10 arası,1,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.550.000 TL
+Kredi Teklifleri"
+610,Daire,Cumhuriyet Mah.,125,100,3+1,21-25 arası,9,11,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Bizim Konut Sitesi,150,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.100.000 TL
+Kredi Teklifleri"
+611,Daire,Yakuplu Mah.,240,215,4+2,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Evet,Mülk Sahibi,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"3.550.000 TL
+Kredi Teklifleri"
+612,Daire,Beylikdüzü OSB,110,100,2+1,5-10 arası,Bahçe Katı,5,Doğalgaz (Kombi),2,Yok,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"649.999 TL
+Kredi Teklifleri"
+613,Daire,Yakuplu Mah.,100,90,2+1,5-10 arası,2,3,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"1.500.000 TL
+Kredi Teklifleri"
+614,Daire,Cumhuriyet Mah.,120,110,2+1,5-10 arası,2,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"790.000 TL
+Kredi Teklifleri"
+615,Daire,Cumhuriyet Mah.,120,110,2+1,5-10 arası,2,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"790.000 TL
+Kredi Teklifleri"
+616,Daire,Dereağzı Mh.,210,200,4+2,0,4,5,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,200,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"4.450.000 TL
+Kredi Teklifleri"
+617,Daire,Marmara Mah.,165,155,4.5+1,3,4,8,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Deniz İstanbul,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"13.000.000 TL
+Kredi Teklifleri"
+618,Daire,Büyükşehir Mh.,115,100,3+1,21-25 arası,8,8,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,125,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.500.000 TL
+Kredi Teklifleri"
+619,Daire,Barış Mh.,180,155,3+1,16-20 arası,2,9,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Evet,Belirtilmemiş,150,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.175.000 TL
+Kredi Teklifleri"
+620,Daire,Kavaklı Mh.,90,80,2+1,4,Giriş Katı,4,Doğalgaz (Kombi),1,Yok,Hayır,Kiracılı,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.650.000 TL
+Kredi Teklifleri"
+621,Daire,Adnan Kahveci Mah.,270,225,5+2,4,4,4,Doğalgaz (Kombi),3,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.500.000 TL
+Kredi Teklifleri"
+622,Daire,Yakuplu Mah.,90,70,1+1,0,3,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"790.000 TL
+Kredi Teklifleri"
+623,Daire,Kavaklı Mh.,110,90,2+1,5-10 arası,4,5,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.500.000 TL
+Kredi Teklifleri"
+624,Daire,Barış Mh.,150,135,3+1,21-25 arası,1,9,Merkezi (Pay Ölçer),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,250,Evet,Kat İrtifaklı,Hayır,"3.500.000 TL
+Kredi Teklifleri",
+625,Daire,Beylikdüzü OSB,130,110,3+1,0,2,8,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"885.000 TL
+Kredi Teklifleri"
+626,Daire,Adnan Kahveci Mah.,270,250,5+2,11-15 arası,5,6,Merkezi (Pay Ölçer),3,Var,Evet,Mülk Sahibi,Evet,Günyüzü Park Evleri,600,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"12.000.000 TL
+Kredi Teklifleri"
+627,Daire,Adnan Kahveci Mah.,431,325,7+2,4,3,8,Merkezi (Pay Ölçer),4,Var,Hayır,Boş,Evet,Saklı Vadi Konakları,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"14.250.000 TL
+Kredi Teklifleri"
+628,Daire,Adnan Kahveci Mah.,431,325,7+2,4,3,8,Merkezi (Pay Ölçer),4,Var,Hayır,Boş,Evet,Saklı Vadi Konakları,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"14.250.000 TL
+Kredi Teklifleri"
+629,Daire,Adnan Kahveci Mah.,155,135,3+1,5-10 arası,4,8,Merkezi (Pay Ölçer),3,Var,Evet,Boş,Evet,Belirtilmemiş,280,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"4.350.000 TL
+Kredi Teklifleri"
+630,Daire,Cumhuriyet Mah.,115,105,2+1,4,7,14,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,450,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.297.000 TL
+Kredi Teklifleri"
+631,Daire,Cumhuriyet Mah.,115,105,2+1,4,7,14,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,450,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.297.000 TL
+Kredi Teklifleri"
+632,Daire,Adnan Kahveci Mah.,155,135,3+1,5-10 arası,4,8,Merkezi (Pay Ölçer),3,Var,Evet,Boş,Evet,Belirtilmemiş,280,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"4.350.000 TL
+Kredi Teklifleri"
+633,Daire,Beylikdüzü OSB,140,117,2+1,2,3,7,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.250.000 TL
+Kredi Teklifleri"
+634,Daire,Cumhuriyet Mah.,115,105,2+1,4,7,14,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,450,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.297.000 TL
+Kredi Teklifleri"
+635,Daire,Adnan Kahveci Mah.,350,290,3+1,21-25 arası,15,15,Yerden Isıtma,3,Var,Hayır,Boş,Evet,Yeşilkent Sitesi 2,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"5.250.000 TL
+Kredi Teklifleri"
+636,Daire,Yakuplu Mah.,180,170,4+2,0,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.149.000 TL
+Kredi Teklifleri"
+637,Daire,Büyükşehir Mh.,135,120,3+1,5-10 arası,2,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.450.000 TL
+Kredi Teklifleri"
+638,Daire,Marmara Mah.,135,120,3+1,0,1,4,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.149.000 TL
+Kredi Teklifleri"
+639,Daire,Kavaklı Mh.,115,110,3+1,0,Yüksek Giriş,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.449.000 TL
+Kredi Teklifleri"
+640,Daire,Barış Mh.,160,120,3+1,3,Bahçe Katı,9,Merkezi (Pay Ölçer),2,Var,Evet,Mülk Sahibi,Evet,Westside İstanbul,1.500,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"6.700.000 TL
+Kredi Teklifleri"
+641,Daire,Cumhuriyet Mah.,176,146,3+1,21-25 arası,6,8,Merkezi,2,Var,Hayır,Kiracılı,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"4.000.000 TL
+Kredi Teklifleri"
+642,Daire,Kavaklı Mh.,120,105,2+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Hayır,"2.300.000 TL
+Kredi Teklifleri",
+643,Daire,Marmara Mah.,185,165,3+1,0,4,12,Yerden Isıtma,2,Var,Hayır,Boş,Evet,Belirtilmemiş,750,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"6.000.000 TL
+Kredi Teklifleri"
+644,Daire,Marmara Mah.,185,165,3+1,0,4,12,Yerden Isıtma,2,Var,Hayır,Boş,Evet,Belirtilmemiş,750,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"6.000.000 TL
+Kredi Teklifleri"
+645,Daire,Yakuplu Mah.,135,120,2+1,16-20 arası,2,10,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Mimoza Konutları,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.500.000 TL
+Kredi Teklifleri"
+646,Daire,Beylikdüzü OSB,110,100,2+1,3,3,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,45,Evet,Kat Mülkiyetli,Hayır,"895.000 TL
+Kredi Teklifleri",
+647,Daire,Beylikdüzü OSB,110,100,2+1,3,3,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,45,Evet,Kat Mülkiyetli,Hayır,"895.000 TL
+Kredi Teklifleri",
+648,Daire,Gürpınar Mh.,160,145,3+1,5-10 arası,1,5,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.450.000 TL
+Kredi Teklifleri"
+649,Daire,Yakuplu Mah.,115,100,2+1,5-10 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"1.665.000 TL
+Kredi Teklifleri"
+650,Daire,Adnan Kahveci Mah.,350,335,6+2,5-10 arası,6,6,Merkezi (Pay Ölçer),3,Var,Hayır,Kiracılı,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"5.250.000 TL
+Kredi Teklifleri"
+651,Daire,Kavaklı Mh.,140,130,3+1,0,1,5,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,Yüksel Konakları,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.250.000 TL
+Kredi Teklifleri"
+652,Daire,Adnan Kahveci Mah.,185,175,3+1,1,5,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.650.000 TL
+Kredi Teklifleri"
+653,Daire,Cumhuriyet Mah.,185,150,3+1,5-10 arası,11,14,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,100,Hayır,Kat İrtifaklı,Emlak Ofisinden,Evet,"2.750.000 TL
+Kredi Teklifleri"
+654,Daire,Barış Mh.,145,115,3+1,11-15 arası,14,14,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"2.300.000 TL
+Kredi Teklifleri"
+655,Daire,Barış Mh.,145,115,3+1,11-15 arası,14,14,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"2.300.000 TL
+Kredi Teklifleri"
+656,Daire,Yakuplu Mah.,100,90,2+1,5-10 arası,2,3,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"1.500.000 TL
+Kredi Teklifleri"
+657,Daire,Kavaklı Mh.,100,95,2+1,4,7,13,Merkezi (Pay Ölçer),1,Var,Hayır,Kiracılı,Evet,Huzurlu Marmara,350,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.000.000 TL
+Kredi Teklifleri"
+658,Daire,Büyükşehir Mh.,140,125,3+1,26-30 arası,5,11,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Hayır,"2.220.000 TL
+Kredi Teklifleri",
+659,Daire,Adnan Kahveci Mah.,120,100,2+1,4,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.899.000 TL
+Kredi Teklifleri"
+660,Daire,Adnan Kahveci Mah.,120,100,2+1,4,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.899.000 TL
+Kredi Teklifleri"
+661,Daire,Adnan Kahveci Mah.,185,165,3+1,16-20 arası,4,11,Doğalgaz (Kombi),2,Var,Evet,Mülk Sahibi,Hayır,Belirtilmemiş,200,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"3.050.000 TL
+Kredi Teklifleri"
+662,Daire,Adnan Kahveci Mah.,185,165,3+1,16-20 arası,4,11,Doğalgaz (Kombi),2,Var,Evet,Mülk Sahibi,Hayır,Belirtilmemiş,200,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"3.050.000 TL
+Kredi Teklifleri"
+663,Daire,Barış Mh.,70,55,1+1,2,7,9,Merkezi (Pay Ölçer),1,Var,Hayır,Kiracılı,Evet,Westside İstanbul,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.500.000 TL
+Kredi Teklifleri"
+664,Daire,Barış Mh.,70,55,1+1,2,7,9,Merkezi (Pay Ölçer),1,Var,Hayır,Kiracılı,Evet,Westside İstanbul,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.500.000 TL
+Kredi Teklifleri"
+665,Daire,Kavaklı Mh.,230,185,5+1,5-10 arası,3,4,Doğalgaz (Kombi),3,Var,Hayır,Kiracılı,Evet,Çimen Park Evleri,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"2.975.000 TL
+Kredi Teklifleri"
+666,Daire,Cumhuriyet Mah.,138,105,2+1,0,2,15,Yerden Isıtma,2,Var,Hayır,Boş,Evet,Kameroğlu Metrohome,Belirtilmemiş,Hayır,Kat İrtifaklı,Emlak Ofisinden,Hayır,"5.200.000 TL
+Kredi Teklifleri"
+667,Daire,Yakuplu Mah.,85,76,2+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.600.000 TL
+Kredi Teklifleri"
+668,Daire,Yakuplu Mah.,85,76,2+1,0,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.600.000 TL
+Kredi Teklifleri"
+669,Daire,Kavaklı Mh.,250,215,4+2,4,4,4,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Evet,Palmiye Konakları,400,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"4.500.000 TL
+Kredi Teklifleri"
+670,Daire,Barış Mh.,150,135,3+1,21-25 arası,1,13,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.590.000 TL
+Kredi Teklifleri"
+671,Daire,Adnan Kahveci Mah.,90,82,2+1,4,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"1.990.000 TL
+Kredi Teklifleri"
+672,Daire,Adnan Kahveci Mah.,250,220,3.5+1,16-20 arası,Giriş Altı Kot 4,6,Doğalgaz (Kombi),3,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,200,Belirtilmemiş,Kat İrtifaklı,Hayır,"5.950.000 TL
+Kredi Teklifleri",
+673,Daire,Kavaklı Mh.,110,95,2+1,4,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.825.000 TL
+Kredi Teklifleri"
+674,Daire,Barış Mh.,155,140,3+1,21-25 arası,14,14,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Aydın Kent Sitesi,250,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.725.000 TL
+Kredi Teklifleri"
+675,Daire,Adnan Kahveci Mah.,190,185,3+1,5-10 arası,9,13,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,Pınar Kent Sitesi,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"4.100.000 TL
+Kredi Teklifleri"
+676,Daire,Kavaklı Mh.,140,110,2+2,5-10 arası,9,10,Doğalgaz (Kombi),1,Var,Evet,Mülk Sahibi,Evet,Bey 2023 Evleri,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.250.000 TL
+Kredi Teklifleri"
+677,Daire,Kavaklı Mh.,140,110,2+2,5-10 arası,9,10,Doğalgaz (Kombi),1,Var,Evet,Mülk Sahibi,Evet,Bey 2023 Evleri,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.250.000 TL
+Kredi Teklifleri"
+678,Daire,Barış Mh.,157,140,3+1,11-15 arası,14,15,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,250,Evet,Bilinmiyor,Emlak Ofisinden,Hayır,"2.850.000 TL
+Kredi Teklifleri"
+679,Daire,Kavaklı Mh.,165,150,3+1,3,2,20,Doğalgaz (Kombi),1,Var,Evet,Boş,Evet,Aqua Kavaklı,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.700.000 TL
+Kredi Teklifleri"
+680,Daire,Yakuplu Mah.,150,125,2+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.749.000 TL
+Kredi Teklifleri"
+681,Daire,Marmara Mah.,230,192,4.5+1,5-10 arası,10,12,Merkezi (Pay Ölçer),2,Var,Hayır,Mülk Sahibi,Evet,İhlas Marmara Evleri 3. Kısım,950,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"9.500.000 TL
+Kredi Teklifleri"
+682,Daire,Adnan Kahveci Mah.,185,170,3+1,16-20 arası,5,15,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,Altın Kent Sitesi,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.050.000 TL
+Kredi Teklifleri"
+683,Daire,Marmara Mah.,210,170,4+1,4,2,5,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Deniz İstanbul Mercan Konakları,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"10.750.000 TL
+Kredi Teklifleri"
+684,Daire,Marmara Mah.,210,170,4+1,4,2,5,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Deniz İstanbul Mercan Konakları,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"10.750.000 TL
+Kredi Teklifleri"
+685,Daire,Adnan Kahveci Mah.,180,150,3+1,16-20 arası,11,15,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,300,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.300.000 TL
+Kredi Teklifleri"
+686,Daire,Cumhuriyet Mah.,161,145,3.5+1,5-10 arası,15,17,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Evet,Demir Romance,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"6.500.000 TL
+Kredi Teklifleri"
+687,Daire,Barış Mh.,150,140,3+1,16-20 arası,12,14,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,Okatan Sitesi,250,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.400.000 TL
+Kredi Teklifleri"
+688,Daire,Büyükşehir Mh.,150,135,3+1,16-20 arası,11,14,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,Güzelkent Sitesi,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"2.600.000 TL
+Kredi Teklifleri"
+689,Daire,Büyükşehir Mh.,145,135,3+1,16-20 arası,1,10,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,180,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.200.000 TL
+Kredi Teklifleri"
+690,Daire,Barış Mh.,150,135,3+1,11-15 arası,1,14,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,200,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.670.000 TL
+Kredi Teklifleri"
+691,Daire,Barış Mh.,145,125,3+1,21-25 arası,3,12,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Piramit Konutları,200,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.100.000 TL
+Kredi Teklifleri"
+692,Daire,Barış Mh.,145,125,3+1,21-25 arası,3,12,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Piramit Konutları,200,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.100.000 TL
+Kredi Teklifleri"
+693,Daire,Kavaklı Mh.,142,110,2+1,0,11,11,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Evet,Demir Country,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"4.700.000 TL
+Kredi Teklifleri"
+694,Daire,Marmara Mah.,160,150,3+1,16-20 arası,4,10,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,Menekşe Evleri,250,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.270.000 TL
+Kredi Teklifleri"
+695,Daire,Yakuplu Mah.,75,65,1+1,5-10 arası,Bahçe Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Evet,"750.000 TL
+Kredi Teklifleri",
+696,Daire,Yakuplu Mah.,75,65,1+1,5-10 arası,Bahçe Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Evet,"750.000 TL
+Kredi Teklifleri",
+697,Daire,Cumhuriyet Mah.,140,130,3+1,0,1,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.049.900 TL
+Kredi Teklifleri"
+698,Daire,Adnan Kahveci Mah.,185,145,3+1,21-25 arası,11,14,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Altın Kent Sitesi,200,Hayır,Kat İrtifaklı,Emlak Ofisinden,Hayır,"3.925.000 TL
+Kredi Teklifleri"
+699,Daire,Yakuplu Mah.,180,150,3+1,11-15 arası,Giriş Katı,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Yakuplu Konakları,1.020,Hayır,Kat Mülkiyetli,Hayır,"3.890.000 TL
+Kredi Teklifleri",
+700,Daire,Yakuplu Mah.,180,150,3+1,11-15 arası,Giriş Katı,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Yakuplu Konakları,1.020,Hayır,Kat Mülkiyetli,Hayır,"3.890.000 TL
+Kredi Teklifleri",
+701,Daire,Barış Mh.,160,148,3+1,5-10 arası,3,14,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.390.000 TL
+Kredi Teklifleri"
+702,Daire,Gürpınar Mh.,125,110,3+1,5-10 arası,Giriş Katı,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.999.000 TL
+Kredi Teklifleri"
+703,Daire,Barış Mh.,155,135,3+1,16-20 arası,13,14,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.385.000 TL
+Kredi Teklifleri"
+704,Daire,Yakuplu Mah.,95,90,2+1,5-10 arası,2,4,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,80,Evet,Kat Mülkiyetli,Hayır,"1.900.000 TL
+Kredi Teklifleri",
+705,Daire,Kavaklı Mh.,120,105,2+1,0,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Hayır,Kat Mülkiyetli,İnşaat Firmasından,Evet,"1.659.999 TL
+Kredi Teklifleri"
+706,Daire,Adnan Kahveci Mah.,90,70,2+1,5-10 arası,4,4,Merkezi (Pay Ölçer),1,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,295,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.000.000 TL
+Kredi Teklifleri"
+707,Daire,Adnan Kahveci Mah.,130,120,2+1,5-10 arası,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.390.000 TL
+Kredi Teklifleri"
+708,Daire,Kavaklı Mh.,105,90,2+1,5-10 arası,Giriş Altı Kot 1,4,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,150,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"1.145.000 TL
+Kredi Teklifleri"
+709,Daire,Kavaklı Mh.,105,90,2+1,5-10 arası,Giriş Altı Kot 1,4,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,150,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"1.145.000 TL
+Kredi Teklifleri"
+710,Daire,Yakuplu Mah.,220,165,4+1,0,Bahçe Katı,6,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Hayır,Kat İrtifaklı,Emlak Ofisinden,Evet,"8.100.000 TL
+Kredi Teklifleri"
+711,Daire,Yakuplu Mah.,144,80,2+1,0,4,14,Merkezi (Pay Ölçer),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Hayır,Kat İrtifaklı,Emlak Ofisinden,Hayır,"5.380.000 TL
+Kredi Teklifleri"
+712,Daire,Yakuplu Mah.,110,100,2+1,0,1,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.400.000 TL
+Kredi Teklifleri"
+713,Daire,Büyükşehir Mh.,105,90,3+1,21-25 arası,8,11,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Büyükşehir Sitesi,200,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.900.000 TL
+Kredi Teklifleri"
+714,Daire,Dereağzı Mh.,135,125,3+1,11-15 arası,3,3,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,70,Evet,Kat İrtifaklı,Hayır,"3.100.000 TL
+Kredi Teklifleri",
+715,Daire,Dereağzı Mh.,135,125,3+1,11-15 arası,3,3,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,70,Evet,Kat İrtifaklı,Hayır,"3.100.000 TL
+Kredi Teklifleri",
+716,Daire,Adnan Kahveci Mah.,145,125,3+1,16-20 arası,9,14,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Ak Yaşam Evleri,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.650.000 TL
+Kredi Teklifleri"
+717,Daire,Cumhuriyet Mah.,110,105,2+1,4,1,19,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"789.000 TL
+Kredi Teklifleri"
+718,Daire,Adnan Kahveci Mah.,202,155,4+1,4,3,5,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Evet,Alya Grandis,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"7.900.000 TL
+Kredi Teklifleri"
+719,Daire,Kavaklı Mh.,225,215,5+2,0,5,5,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.099.000 TL
+Kredi Teklifleri"
+720,Daire,Kavaklı Mh.,225,215,5+2,0,5,5,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.099.000 TL
+Kredi Teklifleri"
+721,Daire,Beylikdüzü OSB,130,110,3+1,0,3,8,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"735.000 TL
+Kredi Teklifleri"
+722,Daire,Yakuplu Mah.,110,100,2+1,5-10 arası,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.845.000 TL
+Kredi Teklifleri"
+723,Daire,Yakuplu Mah.,110,100,2+1,5-10 arası,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.845.000 TL
+Kredi Teklifleri"
+724,Daire,Barış Mh.,200,150,3.5+1,3,5,13,Merkezi (Pay Ölçer),2,Var,Hayır,Kiracılı,Evet,Vira İstanbul,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"6.500.000 TL
+Kredi Teklifleri"
+725,Daire,Adnan Kahveci Mah.,110,75,1+1,1,Yüksek Giriş,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"1.580.000 TL
+Kredi Teklifleri"
+726,Daire,Gürpınar Mh.,110,90,2+1,26-30 arası,1,8,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.500.000 TL
+Kredi Teklifleri"
+727,Daire,Marmara Mah.,145,135,3+1,4,8,15,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.399.000 TL
+Kredi Teklifleri"
+728,Daire,Adnan Kahveci Mah.,120,120,2+1,3,5,8,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.800.000 TL
+Kredi Teklifleri"
+729,Daire,Adnan Kahveci Mah.,175,157,3+1,11-15 arası,4,13,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,250,Evet,Kat Mülkiyetli,Evet,"4.000.000 TL
+Kredi Teklifleri",
+730,Daire,Sahil Mah.,135,125,2+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Güverte Beylikdüzü,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.600.000 TL
+Kredi Teklifleri"
+731,Daire,Yakuplu Mah.,65,55,1+1,0,Giriş Katı,5,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"1.015.000 TL
+Kredi Teklifleri"
+732,Daire,Kavaklı Mh.,125,110,2+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.560.000 TL
+Kredi Teklifleri"
+733,Daire,Cumhuriyet Mah.,180,175,4+1,1,5,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.350.000 TL
+Kredi Teklifleri"
+734,Daire,Adnan Kahveci Mah.,145,120,2+1,5-10 arası,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,450,Evet,Kat Mülkiyetli,Hayır,"3.500.000 TL
+Kredi Teklifleri",
+735,Daire,Adnan Kahveci Mah.,155,140,3+1,5-10 arası,9,10,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.450.000 TL
+Kredi Teklifleri"
+736,Daire,Gürpınar Mh.,250,200,5+2,4,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,200,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.390.000 TL
+Kredi Teklifleri"
+737,Daire,Gürpınar Mh.,250,200,5+2,4,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,200,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.390.000 TL
+Kredi Teklifleri"
+738,Daire,Yakuplu Mah.,130,120,2+1,0,1,5,Doğalgaz (Kombi),2,Var,Evet,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.399.999 TL
+Kredi Teklifleri"
+739,Daire,Kavaklı Mh.,250,210,4+2,4,4,4,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Yeni Hayat Konakları,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"6.950.000 TL
+Kredi Teklifleri"
+740,Daire,Yakuplu Mah.,105,100,2+1,4,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.559.000 TL
+Kredi Teklifleri"
+741,Daire,Yakuplu Mah.,105,100,2+1,4,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.559.000 TL
+Kredi Teklifleri"
+742,Daire,Adnan Kahveci Mah.,105,90,2+1,0,2,5,Merkezi (Pay Ölçer),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Bilinmiyor,Emlak Ofisinden,Hayır,"1.750.000 TL
+Kredi Teklifleri"
+743,Daire,Adnan Kahveci Mah.,57,45,1+1,5-10 arası,2,7,Merkezi (Pay Ölçer),1,Var,Hayır,Kiracılı,Evet,Kalekent Evleri,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.850.000 TL
+Kredi Teklifleri"
+744,Daire,Adnan Kahveci Mah.,100,90,2+1,0,1,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,400,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.600.000 TL
+Kredi Teklifleri"
+745,Daire,Barış Mh.,137,93,2+1,0,10,16,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,822,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"7.000.000 TL
+Kredi Teklifleri"
+746,Daire,Dereağzı Mh.,185,115,3+1,4,Bahçe Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.750.000 TL
+Kredi Teklifleri"
+747,Daire,Cumhuriyet Mah.,75,66,1+1,21-25 arası,4,8,Merkezi,1,Yok,Hayır,Kiracılı,Evet,Bizimkent Sitesi,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.000.000 TL
+Kredi Teklifleri"
+748,Daire,Büyükşehir Mh.,120,110,3+1,26-30 arası,6,8,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Büyükşehir Sitesi,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.950.000 TL
+Kredi Teklifleri"
+749,Daire,Adnan Kahveci Mah.,160,140,3+1,5-10 arası,10,14,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,Mavisu Evleri,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.900.000 TL
+Kredi Teklifleri"
+750,Daire,Adnan Kahveci Mah.,160,140,3+1,5-10 arası,10,14,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,Mavisu Evleri,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.900.000 TL
+Kredi Teklifleri"
+751,Daire,Sahil Mah.,300,250,5+2,0,3,3,Doğalgaz (Kombi),3,Var,Hayır,Mülk Sahibi,Evet,Keyif Kavaklı Marin,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"13.950.000 TL
+Kredi Teklifleri"
+752,Daire,Yakuplu Mah.,160,140,3+1,5-10 arası,3,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Burcu Evleri,50,Evet,Kat Mülkiyetli,Hayır,"2.450.000 TL
+Kredi Teklifleri",
+753,Daire,Yakuplu Mah.,160,140,3+1,5-10 arası,3,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Burcu Evleri,50,Evet,Kat Mülkiyetli,Hayır,"2.450.000 TL
+Kredi Teklifleri",
+754,Daire,Kavaklı Mh.,240,175,4+2,0,4,4,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"8.100.000 TL
+Kredi Teklifleri"
+755,Daire,Kavaklı Mh.,240,175,4+2,0,4,4,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"8.100.000 TL
+Kredi Teklifleri"
+756,Daire,Barış Mh.,145,120,3+1,21-25 arası,6,12,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.300.000 TL
+Kredi Teklifleri"
+757,Daire,Barış Mh.,145,120,3+1,21-25 arası,6,12,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.300.000 TL
+Kredi Teklifleri"
+758,Daire,Kavaklı Mh.,104,97,2+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,0,Evet,Kat Mülkiyetli,Hayır,"1.950.000 TL
+Kredi Teklifleri",
+759,Daire,Barış Mh.,165,145,3+1,21-25 arası,2,14,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,250,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.950.000 TL
+Kredi Teklifleri"
+760,Daire,Adnan Kahveci Mah.,185,160,4+2,4,5,6,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"4.750.000 TL
+Kredi Teklifleri"
+761,Daire,Adnan Kahveci Mah.,400,380,5+2,11-15 arası,8,9,Doğalgaz (Kombi),3,Var,Hayır,Mülk Sahibi,Evet,Alba Residence,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"7.500.000 TL
+Kredi Teklifleri"
+762,Daire,Adnan Kahveci Mah.,400,380,5+2,11-15 arası,8,9,Doğalgaz (Kombi),3,Var,Hayır,Mülk Sahibi,Evet,Alba Residence,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"7.500.000 TL
+Kredi Teklifleri"
+763,Daire,Büyükşehir Mh.,125,110,3+1,26-30 arası,12,13,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Büyükşehir Sitesi,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.825.000 TL
+Kredi Teklifleri"
+764,Daire,Kavaklı Mh.,125,115,2+1,0,1,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,İnşaat Firmasından,Evet,"1.899.000 TL
+Kredi Teklifleri"
+765,Daire,Yakuplu Mah.,125,110,2+1,5-10 arası,1,7,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,100,Belirtilmemiş,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.970.000 TL
+Kredi Teklifleri"
+766,Daire,Cumhuriyet Mah.,190,175,3+1,5-10 arası,Bahçe Katı,9,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Saklıhan Konakları,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"5.000.000 TL
+Kredi Teklifleri"
+767,Daire,Cumhuriyet Mah.,190,175,3+1,5-10 arası,Bahçe Katı,9,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Saklıhan Konakları,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"5.000.000 TL
+Kredi Teklifleri"
+768,Daire,Adnan Kahveci Mah.,145,140,3+1,5-10 arası,3,9,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,75,Evet,Kat Mülkiyetli,Hayır,"2.275.000 TL
+Kredi Teklifleri",
+769,Daire,Adnan Kahveci Mah.,145,140,3+1,5-10 arası,3,9,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,75,Evet,Kat Mülkiyetli,Hayır,"2.275.000 TL
+Kredi Teklifleri",
+770,Daire,Barış Mh.,160,150,3+1,16-20 arası,8,14,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.155.000 TL
+Kredi Teklifleri"
+771,Daire,Adnan Kahveci Mah.,275,255,4+1,5-10 arası,Giriş Altı Kot 1,7,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"9.300.000 TL
+Kredi Teklifleri"
+772,Daire,Adnan Kahveci Mah.,275,255,4+1,5-10 arası,Giriş Altı Kot 1,7,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"9.300.000 TL
+Kredi Teklifleri"
+773,Daire,Kavaklı Mh.,115,100,2+1,0,Giriş Katı,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.650.000 TL
+Kredi Teklifleri"
+774,Daire,Marmara Mah.,145,119,3+1,1,3,5,Doğalgaz (Kombi),2,Var,Evet,Boş,Evet,Deniz İstanbul,Belirtilmemiş,Evet,Kat Mülkiyetli,İnşaat Firmasından,Hayır,"7.499.000 TL
+Kredi Teklifleri"
+775,Daire,Marmara Mah.,145,119,3+1,1,3,5,Doğalgaz (Kombi),2,Var,Evet,Boş,Evet,Deniz İstanbul,Belirtilmemiş,Evet,Kat Mülkiyetli,İnşaat Firmasından,Hayır,"7.499.000 TL
+Kredi Teklifleri"
+776,Daire,Cumhuriyet Mah.,115,110,2+1,5-10 arası,Giriş Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.500.000 TL
+Kredi Teklifleri"
+777,Daire,Gürpınar Mh.,95,80,2+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.950.000 TL
+Kredi Teklifleri"
+778,Daire,Gürpınar Mh.,95,80,2+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.950.000 TL
+Kredi Teklifleri"
+779,Daire,Marmara Mah.,150,135,3+1,21-25 arası,Yüksek Giriş,8,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,İhlas Marmara Evleri 1. Kısım,275,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.000.000 TL
+Kredi Teklifleri"
+780,Daire,Kavaklı Mh.,350,320,4+2,0,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Bilinmiyor,Emlak Ofisinden,Evet,"2.870.000 TL
+Kredi Teklifleri"
+781,Daire,Yakuplu Mah.,110,100,2+1,1,7,16,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Hayır,Kat İrtifaklı,Emlak Ofisinden,Evet,"1.600.000 TL
+Kredi Teklifleri"
+782,Daire,Kavaklı Mh.,105,100,2+1,2,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.890.000 TL
+Kredi Teklifleri"
+783,Daire,Cumhuriyet Mah.,160,150,3+1,5-10 arası,6,7,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.400.000 TL
+Kredi Teklifleri"
+784,Daire,Cumhuriyet Mah.,160,150,3+1,5-10 arası,6,7,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.400.000 TL
+Kredi Teklifleri"
+785,Daire,Kavaklı Mh.,120,110,2+1,0,2,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Bilinmiyor,Emlak Ofisinden,Evet,"1.450.000 TL
+Kredi Teklifleri"
+786,Daire,Kavaklı Mh.,150,130,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.650.000 TL
+Kredi Teklifleri"
+787,Daire,Yakuplu Mah.,100,95,2+1,4,1,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Hayır,"1.490.000 TL
+Kredi Teklifleri",
+788,Daire,Marmara Mah.,120,100,2+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.349.000 TL
+Kredi Teklifleri"
+789,Daire,Kavaklı Mh.,110,90,2+1,4,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,150,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.100.000 TL
+Kredi Teklifleri"
+790,Daire,Kavaklı Mh.,110,90,2+1,4,2,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,150,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.100.000 TL
+Kredi Teklifleri"
+791,Daire,Kavaklı Mh.,130,115,2+1,2,1,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.099.000 TL
+Kredi Teklifleri"
+792,Daire,Adnan Kahveci Mah.,105,95,3+1,5-10 arası,2,4,Merkezi (Pay Ölçer),2,Var,Hayır,Kiracılı,Evet,Nevsa Konakları,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"5.500.000 TL
+Kredi Teklifleri"
+793,Daire,Adnan Kahveci Mah.,105,95,3+1,5-10 arası,2,4,Merkezi (Pay Ölçer),2,Var,Hayır,Kiracılı,Evet,Nevsa Konakları,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"5.500.000 TL
+Kredi Teklifleri"
+794,Daire,Barış Mh.,145,135,3+1,21-25 arası,9,14,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Evet,Belirtilmemiş,250,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.250.000 TL
+Kredi Teklifleri"
+795,Daire,Adnan Kahveci Mah.,180,155,3+1,5-10 arası,3,3,Doğalgaz (Kombi),2,Var,Evet,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.900.000 TL
+Kredi Teklifleri"
+796,Daire,Gürpınar Mh.,280,240,5+2,4,5,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Hayır,"3.800.000 TL
+Kredi Teklifleri",
+797,Daire,Gürpınar Mh.,280,240,5+2,4,5,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Hayır,"3.800.000 TL
+Kredi Teklifleri",
+798,Daire,Büyükşehir Mh.,95,85,2+1,5-10 arası,5,12,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,150,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.850.000 TL
+Kredi Teklifleri"
+799,Daire,Cumhuriyet Mah.,160,136,3+1,21-25 arası,14,15,Merkezi,2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.310.000 TL
+Kredi Teklifleri"
+800,Daire,Adnan Kahveci Mah.,230,200,4+2,0,Çatı Katı,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.949.500 TL
+Kredi Teklifleri"
+801,Daire,Kavaklı Mh.,120,100,2+1,0,1,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"955.000 TL
+Kredi Teklifleri"
+802,Daire,Gürpınar Mh.,75,70,2+1,5-10 arası,3,4,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"1.600.000 TL
+Kredi Teklifleri"
+803,Daire,Dereağzı Mh.,185,155,4+1,0,1,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.669.999 TL
+Kredi Teklifleri"
+804,Daire,Kavaklı Mh.,145,130,3+1,1,1,3,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.100.000 TL
+Kredi Teklifleri"
+805,Daire,Kavaklı Mh.,135,110,3+1,1,Çatı Katı,3,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"2.050.000 TL
+Kredi Teklifleri"
+806,Daire,Kavaklı Mh.,135,110,3+1,1,Çatı Katı,3,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"2.050.000 TL
+Kredi Teklifleri"
+807,Daire,Adnan Kahveci Mah.,270,220,6+1,2,5,5,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.750.000 TL
+Kredi Teklifleri"
+808,Daire,Kavaklı Mh.,120,110,2+1,0,1,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.425.000 TL
+Kredi Teklifleri"
+809,Daire,Gürpınar Mh.,165,145,3+1,11-15 arası,1,5,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,250,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.475.000 TL
+Kredi Teklifleri"
+810,Daire,Cumhuriyet Mah.,170,146,3+1,21-25 arası,5,8,Merkezi (Pay Ölçer),2,Var,Hayır,Mülk Sahibi,Evet,Bizimkent Sitesi,400,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"4.000.000 TL
+Kredi Teklifleri"
+811,Daire,Adnan Kahveci Mah.,125,100,3+1,0,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.800.000 TL
+Kredi Teklifleri"
+812,Daire,Yakuplu Mah.,285,250,5+2,5-10 arası,6,6,Doğalgaz (Kombi),4,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,60,Evet,Bilinmiyor,Evet,"3.275.000 TL
+Kredi Teklifleri",
+813,Daire,Yakuplu Mah.,85,75,2+1,4,Bahçe Katı,6,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Hayır,"1.150.000 TL
+Kredi Teklifleri",
+814,Daire,Adnan Kahveci Mah.,85,65,1+1,3,Yüksek Giriş,3,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"1.220.000 TL
+Kredi Teklifleri"
+815,Daire,Adnan Kahveci Mah.,85,65,1+1,3,Yüksek Giriş,3,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"1.220.000 TL
+Kredi Teklifleri"
+816,Daire,Kavaklı Mh.,220,200,4+2,4,3,3,Doğalgaz (Kombi),3,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"4.200.000 TL
+Kredi Teklifleri"
+817,Daire,Adnan Kahveci Mah.,160,145,3+2,0,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.299.000 TL
+Kredi Teklifleri"
+818,Daire,Kavaklı Mh.,200,170,3+2,0,4,5,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Marmara Konakları,600,Hayır,Kat İrtifaklı,Emlak Ofisinden,Evet,"3.300.000 TL
+Kredi Teklifleri"
+819,Daire,Sahil Mah.,105,95,2+1,4,2,5,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,110,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.600.000 TL
+Kredi Teklifleri"
+820,Daire,Yakuplu Mah.,165,145,3+2,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.675.000 TL
+Kredi Teklifleri"
+821,Daire,Yakuplu Mah.,165,145,3+2,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.675.000 TL
+Kredi Teklifleri"
+822,Daire,Adnan Kahveci Mah.,185,165,3+1,2,2,4,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.747.500 TL
+Kredi Teklifleri"
+823,Daire,Adnan Kahveci Mah.,195,180,3+1,16-20 arası,Yüksek Giriş,15,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,Emincan Kent Sitesi,200,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.450.000 TL
+Kredi Teklifleri"
+824,Daire,Adnan Kahveci Mah.,195,180,3+1,16-20 arası,Yüksek Giriş,15,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,Emincan Kent Sitesi,200,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.450.000 TL
+Kredi Teklifleri"
+825,Daire,Adnan Kahveci Mah.,160,155,3+1,16-20 arası,10,12,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Simakent Sitesi,Belirtilmemiş,Evet,Kat İrtifaklı,Evet,"3.950.000 TL
+Kredi Teklifleri",
+826,Daire,Adnan Kahveci Mah.,160,155,3+1,16-20 arası,10,12,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Simakent Sitesi,Belirtilmemiş,Evet,Kat İrtifaklı,Evet,"3.950.000 TL
+Kredi Teklifleri",
+827,Daire,Cumhuriyet Mah.,120,100,3+1,5-10 arası,13,15,Merkezi (Pay Ölçer),2,Var,Evet,Boş,Hayır,Belirtilmemiş,760,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.800.000 TL
+Kredi Teklifleri"
+828,Daire,Adnan Kahveci Mah.,160,130,3+1,16-20 arası,15,16,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Banksis Sitesi,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.100.000 TL
+Kredi Teklifleri"
+829,Daire,Adnan Kahveci Mah.,145,130,3+1,0,2,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,300,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.250.000 TL
+Kredi Teklifleri"
+830,Daire,Adnan Kahveci Mah.,145,130,3+1,0,2,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,300,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.250.000 TL
+Kredi Teklifleri"
+831,Daire,Gürpınar Mh.,95,80,2+1,4,Giriş Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"1.090.000 TL
+Kredi Teklifleri"
+832,Daire,Adnan Kahveci Mah.,125,100,3+1,4,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Letisya Evleri,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.880.000 TL
+Kredi Teklifleri"
+833,Daire,Adnan Kahveci Mah.,125,100,3+1,4,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Letisya Evleri,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.880.000 TL
+Kredi Teklifleri"
+834,Daire,Adnan Kahveci Mah.,155,135,3+1,5-10 arası,4,8,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Osten Park Evleri,350,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"4.159.000 TL
+Kredi Teklifleri"
+835,Daire,Adnan Kahveci Mah.,125,100,3+1,4,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Evet,Letisya Evleri,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.880.000 TL
+Kredi Teklifleri"
+836,Daire,Kavaklı Mh.,160,140,3+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.399.000 TL
+Kredi Teklifleri"
+837,Daire,Cumhuriyet Mah.,140,127,3+1,0,6,10,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.245.000 TL
+Kredi Teklifleri"
+838,Daire,Yakuplu Mah.,290,270,5+2,4,Çatı Katı,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"2.200.000 TL
+Kredi Teklifleri"
+839,Daire,Sahil Mah.,183,170,4+1,2,Bahçe Katı,4,Doğalgaz (Kombi),3,Yok,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,2.100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"8.500.000 TL
+Kredi Teklifleri"
+840,Daire,Yakuplu Mah.,180,140,3+1,0,4,8,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"4.000.000 TL
+Kredi Teklifleri"
+841,Daire,Kavaklı Mh.,120,100,2+1,0,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.850.000 TL
+Kredi Teklifleri"
+842,Daire,Kavaklı Mh.,120,100,2+1,0,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.850.000 TL
+Kredi Teklifleri"
+843,Daire,Adnan Kahveci Mah.,145,120,2+1,5-10 arası,5,9,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Evet,Belirtilmemiş,300,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.400.000 TL
+Kredi Teklifleri"
+844,Daire,Marmara Mah.,125,110,2+1,3,5,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.625.000 TL
+Kredi Teklifleri"
+845,Daire,Adnan Kahveci Mah.,200,150,3+2,4,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.800.000 TL
+Kredi Teklifleri"
+846,Daire,Adnan Kahveci Mah.,200,150,3+2,4,3,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.800.000 TL
+Kredi Teklifleri"
+847,Daire,Kavaklı Mh.,100,90,2+1,21-25 arası,5,6,Doğalgaz Sobası,2,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,40,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.680.000 TL
+Kredi Teklifleri"
+848,Daire,Adnan Kahveci Mah.,160,145,3+1,16-20 arası,10,14,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Simakent Sitesi,350,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"2.675.000 TL
+Kredi Teklifleri"
+849,Daire,Dereağzı Mh.,150,140,3+1,4,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.540.000 TL
+Kredi Teklifleri"
+850,Daire,Cumhuriyet Mah.,135,120,3+1,0,2,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"1.690.000 TL
+Kredi Teklifleri"
+851,Daire,Cumhuriyet Mah.,110,90,2+1,2,Yüksek Giriş,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Bilinmiyor,Emlak Ofisinden,Hayır,"1.255.000 TL
+Kredi Teklifleri"
+852,Daire,Yakuplu Mah.,100,90,2+1,0,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,60,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"1.730.000 TL
+Kredi Teklifleri"
+853,Daire,Kavaklı Mh.,280,240,5+1,5-10 arası,3,4,Doğalgaz (Kombi),3,Var,Hayır,Mülk Sahibi,Evet,Kavaklı Park Sitesi,300,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"4.150.000 TL
+Kredi Teklifleri"
+854,Daire,Barış Mh.,280,270,5+1,16-20 arası,Villa Tipi,3,Doğalgaz (Kombi),3,Var,Hayır,Boş,Hayır,Belirtilmemiş,0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"5.800.000 TL
+Kredi Teklifleri"
+855,Daire,Cumhuriyet Mah.,135,128,3+1,16-20 arası,2,13,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Basındoğa Sitesi,300,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.150.000 TL
+Kredi Teklifleri"
+856,Daire,Gürpınar Mh.,125,115,2+1,0,1,6,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.689.000 TL
+Kredi Teklifleri"
+857,Daire,Adnan Kahveci Mah.,200,185,3+1,5-10 arası,4,12,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,300,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"3.550.000 TL
+Kredi Teklifleri"
+858,Daire,Cumhuriyet Mah.,140,120,2+1,5-10 arası,7,14,Merkezi (Pay Ölçer),2,Var,Evet,Kiracılı,Evet,Belirtilmemiş,750,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.075.000 TL
+Kredi Teklifleri"
+859,Daire,Adnan Kahveci Mah.,145,125,3+1,4,3,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.900.000 TL
+Kredi Teklifleri"
+860,Daire,Adnan Kahveci Mah.,185,158,3+1,16-20 arası,6,12,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Yeşilkent Sitesi 2,400,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"3.200.000 TL
+Kredi Teklifleri"
+861,Daire,Kavaklı Mh.,100,90,2+1,5-10 arası,2,3,Doğalgaz (Kombi),1,Yok,Hayır,Kiracılı,Hayır,Belirtilmemiş,150,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.850.000 TL
+Kredi Teklifleri"
+862,Daire,Kavaklı Mh.,100,90,2+1,5-10 arası,2,3,Doğalgaz (Kombi),1,Yok,Hayır,Kiracılı,Hayır,Belirtilmemiş,150,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.850.000 TL
+Kredi Teklifleri"
+863,Daire,Barış Mh.,250,200,4.5+1,3,3,5,Doğalgaz (Kombi),3,Var,Hayır,Boş,Evet,Vira İstanbul,300,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"7.150.000 TL
+Kredi Teklifleri"
+864,Daire,Cumhuriyet Mah.,65,59,1+1,5-10 arası,2,14,Merkezi (Pay Ölçer),1,Var,Hayır,Kiracılı,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.174.000 TL
+Kredi Teklifleri"
+865,Daire,Adnan Kahveci Mah.,70,60,1+1,5-10 arası,1,7,Merkezi (Pay Ölçer),1,Var,Evet,Boş,Evet,Kalekent Evleri,450,Hayır,Kat İrtifaklı,Emlak Ofisinden,Hayır,"3.300.000 TL
+Kredi Teklifleri"
+866,Daire,Cumhuriyet Mah.,130,125,2+1,2,12,15,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Evet,Belirtilmemiş,300,Evet,Kat İrtifaklı,Evet,"1.430.000 TL
+Kredi Teklifleri",
+867,Daire,Adnan Kahveci Mah.,150,140,3+1,0,3,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.850.000 TL
+Kredi Teklifleri"
+868,Daire,Adnan Kahveci Mah.,150,140,3+1,0,3,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.850.000 TL
+Kredi Teklifleri"
+869,Daire,Sahil Mah.,110,100,2+1,0,3,6,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.500.000 TL
+Kredi Teklifleri"
+870,Daire,Kavaklı Mh.,150,130,4+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,0,Evet,Kat İrtifaklı,Evet,"2.750.000 TL
+Kredi Teklifleri",
+871,Daire,Kavaklı Mh.,150,130,4+1,5-10 arası,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,0,Evet,Kat İrtifaklı,Evet,"2.750.000 TL
+Kredi Teklifleri",
+872,Daire,Kavaklı Mh.,85,75,2+1,1,Yüksek Giriş,3,Doğalgaz (Kombi),1,Yok,Hayır,Kiracılı,Hayır,Belirtilmemiş,35,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.500.000 TL
+Kredi Teklifleri"
+873,Daire,Adnan Kahveci Mah.,125,95,2+1,5-10 arası,3,4,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.880.000 TL
+Kredi Teklifleri"
+874,Daire,Adnan Kahveci Mah.,125,95,2+1,5-10 arası,3,4,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.880.000 TL
+Kredi Teklifleri"
+875,Daire,Cumhuriyet Mah.,120,110,2+1,1,3,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"970.000 TL
+Kredi Teklifleri"
+876,Daire,Yakuplu Mah.,145,115,3+1,0,8,14,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Evet,Belirtilmemiş,0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.915.000 TL
+Kredi Teklifleri"
+877,Daire,Sahil Mah.,160,140,3+1,4,3,3,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,Belirtilmemiş,Hayır,Kat İrtifaklı,Emlak Ofisinden,Hayır,"5.250.000 TL
+Kredi Teklifleri"
+878,Daire,Sahil Mah.,160,140,3+1,4,3,3,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,Belirtilmemiş,Hayır,Kat İrtifaklı,Emlak Ofisinden,Hayır,"5.250.000 TL
+Kredi Teklifleri"
+879,Daire,Adnan Kahveci Mah.,145,110,3+1,11-15 arası,4,8,Doğalgaz (Kombi),2,Var,Hayır,Kiracılı,Evet,Akkonak Sitesi,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.250.000 TL
+Kredi Teklifleri"
+880,Daire,Kavaklı Mh.,135,125,4+2,0,3,3,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"4.149.000 TL
+Kredi Teklifleri"
+881,Daire,Marmara Mah.,120,115,2+1,0,1,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.849.000 TL
+Kredi Teklifleri"
+882,Daire,Yakuplu Mah.,175,165,4+2,0,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,0,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.999.000 TL
+Kredi Teklifleri"
+883,Daire,Adnan Kahveci Mah.,180,165,3+1,16-20 arası,7,11,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.300.000 TL
+Kredi Teklifleri"
+884,Daire,Yakuplu Mah.,95,85,2+1,0,Yüksek Giriş,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,50,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.690.000 TL
+Kredi Teklifleri"
+885,Daire,Barış Mh.,220,185,3.5+1,5-10 arası,2,12,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Beyaz City,755,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"5.120.000 TL
+Kredi Teklifleri"
+886,Daire,Barış Mh.,220,185,3.5+1,5-10 arası,2,12,Doğalgaz (Kombi),2,Var,Hayır,Mülk Sahibi,Evet,Beyaz City,755,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"5.120.000 TL
+Kredi Teklifleri"
+887,Daire,Yakuplu Mah.,100,90,2+1,0,2,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.550.000 TL
+Kredi Teklifleri"
+888,Daire,Cumhuriyet Mah.,80,70,1+1,0,5,10,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"1.180.000 TL
+Kredi Teklifleri"
+889,Daire,Cumhuriyet Mah.,80,70,1+1,0,5,10,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"1.180.000 TL
+Kredi Teklifleri"
+890,Daire,Adnan Kahveci Mah.,110,100,2+1,4,Bahçe Katı,5,Doğalgaz (Kombi),1,Yok,Belirtilmemiş,Boş,Hayır,Belirtilmemiş,200,Evet,Kat Mülkiyetli,Hayır,"2.395.000 TL
+Kredi Teklifleri",
+891,Daire,Yakuplu Mah.,110,100,2+1,0,Bahçe Katı,4,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.248.000 TL
+Kredi Teklifleri"
+892,Daire,Gürpınar Mh.,130,105,3+1,0,1,5,Yerden Isıtma,2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,"2.750.000 TL
+Kredi Teklifleri"
+893,Daire,Yakuplu Mah.,145,135,2+1,1,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.000.000 TL
+Kredi Teklifleri"
+894,Daire,Cumhuriyet Mah.,145,135,2+1,0,1,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.150.000 TL
+Kredi Teklifleri"
+895,Daire,Yakuplu Mah.,90,75,2+1,5-10 arası,Bahçe Katı,4,Doğalgaz (Kombi),1,Yok,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Hayır,"1.100.000 TL
+Kredi Teklifleri",
+896,Daire,Kavaklı Mh.,108,93,2+1,5-10 arası,3,5,Doğalgaz (Kombi),1,Var,Hayır,Boş,Hayır,Belirtilmemiş,100,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"1.929.000 TL
+Kredi Teklifleri"
+897,Daire,Kavaklı Mh.,152,120,4+2,0,4,4,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"3.950.000 TL
+Kredi Teklifleri"
+898,Daire,Marmara Mah.,145,120,3+1,11-15 arası,1,8,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Beylerbeyi Konutları,100,Evet,Kat Mülkiyetli,Hayır,"3.000.000 TL
+Kredi Teklifleri",
+899,Daire,Adnan Kahveci Mah.,170,145,3+1,11-15 arası,Yüksek Giriş,15,Doğalgaz (Kombi),2,Yok,Hayır,Boş,Hayır,Belirtilmemiş,200,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.500.000 TL
+Kredi Teklifleri"
+900,Daire,Kavaklı Mh.,125,115,2+1,5-10 arası,1,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,200,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.450.000 TL
+Kredi Teklifleri"
+901,Daire,Adnan Kahveci Mah.,150,120,2+1,5-10 arası,2,7,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,550,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"4.450.000 TL
+Kredi Teklifleri"
+902,Daire,Dereağzı Mh.,155,135,3+1,5-10 arası,4,5,Doğalgaz (Kombi),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"2.500.000 TL
+Kredi Teklifleri"
+903,Daire,Adnan Kahveci Mah.,115,100,2+1,4,2,5,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Evet,Belirtilmemiş,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"2.250.000 TL
+Kredi Teklifleri"
+904,Daire,Adnan Kahveci Mah.,300,240,5+1,3,7,8,Merkezi (Pay Ölçer),3,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,Belirtilmemiş,Belirtilmemiş,Kat Mülkiyetli,Emlak Ofisinden,Evet,"7.850.000 TL
+Kredi Teklifleri"
+905,Daire,Adnan Kahveci Mah.,300,240,5+1,3,7,8,Merkezi (Pay Ölçer),3,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,Belirtilmemiş,Belirtilmemiş,Kat Mülkiyetli,Emlak Ofisinden,Evet,"7.850.000 TL
+Kredi Teklifleri"
+906,Daire,Kavaklı Mh.,90,80,2+1,5-10 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,100,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"1.590.000 TL
+Kredi Teklifleri"
+907,Daire,Kavaklı Mh.,90,80,2+1,5-10 arası,1,4,Doğalgaz (Kombi),1,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,100,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"1.590.000 TL
+Kredi Teklifleri"
+908,Daire,Marmara Mah.,170,155,3+1,3,2,10,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Konfor Residence,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"3.450.000 TL
+Kredi Teklifleri"
+0,Residence,Adnan Kahveci Mah.,340,280,5+1,11-15 arası,12,13,Merkezi (Pay Ölçer),2,Var,Hayır,Kiracılı,Evet,Aktel Residence,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"8.300.000 TL
+Kredi Teklifleri"
+1,Residence,Barış Mh.,150,135,2+1,11-15 arası,2,13,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,700,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.700.000 TL
+Kredi Teklifleri"
+2,Residence,Barış Mh.,150,135,2+1,11-15 arası,2,13,Doğalgaz (Kombi),1,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,700,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.700.000 TL
+Kredi Teklifleri"
+3,Residence,Barış Mh.,230,185,4+1,11-15 arası,11,13,Merkezi,2,Var,Hayır,Mülk Sahibi,Evet,Beyaz City,820,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"10.250.000 TL
+Kredi Teklifleri"
+4,Residence,Cumhuriyet Mah.,110,85,1+1,5-10 arası,6,15,Merkezi (Pay Ölçer),1,Var,Evet,Kiracılı,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"1.550.000 TL
+Kredi Teklifleri"
+5,Residence,Büyükşehir Mh.,105,85,2+1,11-15 arası,4,9,Doğalgaz (Kombi),2,Yok,Hayır,Kiracılı,Evet,Ekinoks Residence,990,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"3.300.000 TL
+Kredi Teklifleri"
+6,Residence,Yakuplu Mah.,136,112,2+1,0,7,28,Merkezi (Pay Ölçer),2,Var,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,"4.450.000 TL
+Kredi Teklifleri"
+7,Residence,Cumhuriyet Mah.,193,143,3+1,0,16,22,Merkezi,1,Var,Hayır,Boş,Evet,Kameroğlu Metrohome,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"7.350.000 TL
+Kredi Teklifleri"
+8,Residence,Cumhuriyet Mah.,125,110,2+1,2,9,10,Doğalgaz (Kombi),2,Var,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"1.750.000 TL
+Kredi Teklifleri"
+0,Müstakil Ev,Dereağzı Mh.,500,287,10+2,11-15 arası,,4,Doğalgaz (Kombi),4,Var,Hayır,Kiracılı,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Bilinmiyor,Emlak Ofisinden,Hayır,"12.000.000 TL
+Kredi Teklifleri"
+1,Müstakil Ev,Dereağzı Mh.,850,120,1+1,11-15 arası,,1,Yok,1,Var,Evet,Mülk Sahibi,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"15.000.000 TL
+Kredi Teklifleri"
+2,Müstakil Ev,Sahil Mah.,330,288,7+2,16-20 arası,,4,Doğalgaz (Kombi),3,Var,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Evet,"7.500.000 TL
+Kredi Teklifleri"
+0,Villa,Marmara Mah.,275,255,5+2,0,,4,Doğalgaz (Kombi),4,,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"10.899.999 TL
+Kredi Teklifleri"
+1,Villa,Marmara Mah.,350,300,4+2,0,,3,Yerden Isıtma,2,,Hayır,Boş,Evet,Deniz İstanbul,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"10.789.000 TL
+Kredi Teklifleri"
+2,Villa,Dereağzı Mh.,700,350,5+2,0,,3,Doğalgaz (Kombi),4,,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"5.832.000 TL
+Kredi Teklifleri"
+3,Villa,Sahil Mah.,400,350,5+2,0,,3,Yerden Isıtma,4,,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"10.900.000 TL
+Kredi Teklifleri"
+4,Villa,Adnan Kahveci Mah.,700,550,6+2,0,,4,Yerden Isıtma,6 Üzeri,,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"22.500.000 TL
+Kredi Teklifleri"
+5,Villa,Kavaklı Mh.,270,210,5+2,0,,3,Doğalgaz (Kombi),3,,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"5.850.000 TL
+Kredi Teklifleri"
+6,Villa,Adnan Kahveci Mah.,450,350,6+2,0,,3,Doğalgaz (Kombi),4,,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"11.999.999 TL
+Kredi Teklifleri"
+7,Villa,Dereağzı Mh.,560,510,7+2,0,,4,Yerden Isıtma,5,,Hayır,Boş,Evet,Belirtilmemiş,1,Evet,Kat İrtifaklı,İnşaat Firmasından,Evet,"22.000.000 TL
+Kredi Teklifleri"
+8,Villa,Dereağzı Mh.,850,650,10 Üzeri,0,,4,Yerden Isıtma,6,,Belirtilmemiş,Mülk Sahibi,Hayır,Belirtilmemiş,Belirtilmemiş,Belirtilmemiş,Kat Mülkiyetli,Evet,"26.000.000 TL
+Kredi Teklifleri",
+9,Villa,Marmara Mah.,520,370,5+2,5-10 arası,,3,Doğalgaz (Kombi),4,,Hayır,Kiracılı,Hayır,Belirtilmemiş,3.000,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"15.000.000 TL
+Kredi Teklifleri"
+10,Villa,Marmara Mah.,520,370,5+2,5-10 arası,,3,Doğalgaz (Kombi),4,,Hayır,Kiracılı,Hayır,Belirtilmemiş,3.000,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"15.000.000 TL
+Kredi Teklifleri"
+11,Villa,Gürpınar Mh.,400,300,4+2,11-15 arası,,3,Doğalgaz (Kombi),3,,Hayır,Boş,Evet,Uzun Ömür Villaları,1.700,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"9.200.000 TL
+Kredi Teklifleri"
+12,Villa,Adnan Kahveci Mah.,576,300,7+2,0,,4,Doğalgaz (Kombi),4,,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"12.996.000 TL
+Kredi Teklifleri"
+13,Villa,Dereağzı Mh.,320,285,5+2,0,,4,Doğalgaz (Kombi),5,,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"12.500.000 TL
+Kredi Teklifleri"
+14,Villa,Dereağzı Mh.,320,285,5+2,0,,4,Doğalgaz (Kombi),5,,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"12.500.000 TL
+Kredi Teklifleri"
+15,Villa,Kavaklı Mh.,670,560,7+2,0,,3,Yerden Isıtma,4,,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,İnşaat Firmasından,Hayır,"11.550.000 TL
+Kredi Teklifleri"
+16,Villa,Kavaklı Mh.,5.000,4.500,6+2,4,,3,Doğalgaz (Kombi),4,,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"200.000.000 TL
+Kredi Teklifleri"
+17,Villa,Marmara Mah.,380,350,6+2,0,,3,Yerden Isıtma,3,,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"8.499.000 TL
+Kredi Teklifleri"
+18,Villa,Marmara Mah.,699,600,6+2,5-10 arası,,4,Doğalgaz (Kombi),5,,Hayır,Boş,Evet,Kalyon Marina Villaları,0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"70.000.000 TL
+Kredi Teklifleri"
+19,Villa,Marmara Mah.,699,600,6+2,5-10 arası,,4,Doğalgaz (Kombi),5,,Hayır,Boş,Evet,Kalyon Marina Villaları,0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"70.000.000 TL
+Kredi Teklifleri"
+20,Villa,Gürpınar Mh.,350,295,7+2,16-20 arası,,3,Doğalgaz (Kombi),3,,Hayır,Kiracılı,Hayır,Belirtilmemiş,650,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"9.000.000 TL
+Kredi Teklifleri"
+21,Villa,Dereağzı Mh.,540,400,7+2,0,,4,Doğalgaz (Kombi),4,,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"18.500.000 TL
+Kredi Teklifleri"
+22,Villa,Sahil Mah.,300,240,4+1,16-20 arası,,2,Doğalgaz (Kombi),2,,Belirtilmemiş,Kiracılı,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Evet,"8.850.000 TL
+Kredi Teklifleri",
+23,Villa,Marmara Mah.,355,335,4+2,1,,3,Yerden Isıtma,2,,Hayır,Boş,Evet,Deniz İstanbul,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"10.900.000 TL
+Kredi Teklifleri"
+24,Villa,Dereağzı Mh.,850,400,6+2,0,,4,Doğalgaz (Kombi),5,,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Hayır,"11.999.000 TL
+Kredi Teklifleri",
+25,Villa,Gürpınar Mh.,290,240,6+2,11-15 arası,,3,Doğalgaz (Kombi),2,,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Hayır,"8.750.000 TL
+Kredi Teklifleri"
+26,Villa,Marmara Mah.,450,350,5+2,4,,3,Doğalgaz (Kombi),5,,Hayır,Mülk Sahibi,Evet,Kalyon Marina Villaları,1.500,Evet,Kat Mülkiyetli,Hayır,"42.500.000 TL
+Kredi Teklifleri",
+27,Villa,Dereağzı Mh.,450,350,6+2,1,,4,Yerden Isıtma,6,,Evet,Kiracılı,Evet,Mavera Villa,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"26.000.000 TL
+Kredi Teklifleri"
+28,Villa,Dereağzı Mh.,450,350,6+2,1,,4,Yerden Isıtma,6,,Evet,Kiracılı,Evet,Mavera Villa,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"26.000.000 TL
+Kredi Teklifleri"
+29,Villa,Marmara Mah.,400,350,5+2,0,,4,Yerden Isıtma,4,,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"11.348.000 TL
+Kredi Teklifleri"
+30,Villa,Dereağzı Mh.,360,330,7+2,0,,3,Doğalgaz (Kombi),3,,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"20.500.000 TL
+Kredi Teklifleri"
+31,Villa,Dereağzı Mh.,360,330,7+2,5-10 arası,,3,Doğalgaz (Kombi),4,,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"18.500.000 TL
+Kredi Teklifleri"
+32,Villa,Sahil Mah.,400,350,6+2,0,,3,Doğalgaz (Kombi),4,,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"7.499.000 TL
+Kredi Teklifleri"
+33,Villa,Marmara Mah.,423,337,5+2,0,,3,Yok,4,,Hayır,Boş,Evet,West Wall Marina Villaları,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"13.500.000 TL
+Kredi Teklifleri"
+34,Villa,Dereağzı Mh.,320,300,6+1,16-20 arası,,3,Doğalgaz (Kombi),3,,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"5.300.000 TL
+Kredi Teklifleri"
+35,Villa,Sahil Mah.,500,450,4+1,5-10 arası,,3,Doğalgaz (Kombi),4,,Evet,Mülk Sahibi,Evet,Belirtilmemiş,0,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"9.700.000 TL
+Kredi Teklifleri"
+36,Villa,Dereağzı Mh.,510,430,8+3,0,,3,Doğalgaz (Kombi),3,,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"11.850.000 TL
+Kredi Teklifleri"
+37,Villa,Marmara Mah.,361,255,5+1,4,,2,Doğalgaz (Kombi),4,,Hayır,Mülk Sahibi,Evet,Dekar Asmalı Hayat,1.500,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"17.900.000 TL
+Kredi Teklifleri"
+38,Villa,Gürpınar Mh.,680,600,10+2,21-25 arası,,4,Doğalgaz (Kombi),4,,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,Belirtilmemiş,Hayır,Kat İrtifaklı,Emlak Ofisinden,Hayır,"35.000.000 TL
+Kredi Teklifleri"
+39,Villa,Gürpınar Mh.,680,600,10+2,21-25 arası,,4,Doğalgaz (Kombi),4,,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,Belirtilmemiş,Hayır,Kat İrtifaklı,Emlak Ofisinden,Hayır,"35.000.000 TL
+Kredi Teklifleri"
+40,Villa,Dereağzı Mh.,600,450,6+2,0,,3,Yerden Isıtma,4,,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"14.999.999 TL
+Kredi Teklifleri"
+41,Villa,Dereağzı Mh.,500,400,5+2,0,,3,Doğalgaz (Kombi),3,,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"16.750.000 TL
+Kredi Teklifleri"
+42,Villa,Gürpınar Mh.,450,350,5+2,0,,2,Doğalgaz (Kombi),3,,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"7.490.000 TL
+Kredi Teklifleri"
+43,Villa,Gürpınar Mh.,450,350,5+2,0,,2,Doğalgaz (Kombi),3,,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"7.490.000 TL
+Kredi Teklifleri"
+44,Villa,Adnan Kahveci Mah.,500,400,6+2,0,,3,Yerden Isıtma,4,,Evet,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"21.999.999 TL
+Kredi Teklifleri"
+45,Villa,Dereağzı Mh.,600,550,6+3,1,,5,Doğalgaz (Kombi),3,,Belirtilmemiş,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"15.500.000 TL
+Kredi Teklifleri"
+46,Villa,Dereağzı Mh.,235,180,3+2,26-30 arası,,3,Doğalgaz (Kombi),5,,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"3.500.000 TL
+Kredi Teklifleri"
+47,Villa,Dereağzı Mh.,235,180,3+2,26-30 arası,,3,Doğalgaz (Kombi),5,,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat İrtifaklı,Emlak Ofisinden,Evet,"3.500.000 TL
+Kredi Teklifleri"
+48,Villa,Marmara Mah.,669,571,5+1,0,,3,Doğalgaz (Kombi),5,,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"49.000.000 TL
+Kredi Teklifleri"
+49,Villa,Gürpınar Mh.,400,350,5+1,16-20 arası,,3,Doğalgaz (Kombi),3,,Hayır,Boş,Evet,Sultan Fatih Sitesi,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"4.900.000 TL
+Kredi Teklifleri"
+50,Villa,Sahil Mah.,550,550,6+2,0,,3,Doğalgaz (Kombi),6,,Belirtilmemiş,Boş,Evet,Deniz Yıldızı Villaları,900,Evet,Kat Mülkiyetli,Hayır,"14.950.000 TL
+Kredi Teklifleri",
+51,Villa,Dereağzı Mh.,590,490,6+2,0,,4,Doğalgaz (Kombi),4,,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"13.500.000 TL
+Kredi Teklifleri"
+52,Villa,Gürpınar Mh.,750,623,5+2,0,,4,Yerden Isıtma,6,,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Hayır,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"14.825.000 TL
+Kredi Teklifleri"
+53,Villa,Sahil Mah.,330,270,5+2,0,,4,Doğalgaz (Kombi),4,,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"7.499.000 TL
+Kredi Teklifleri"
+54,Villa,Barış Mh.,300,280,6+1,3,,4,Doğalgaz (Kombi),4,,Hayır,Kiracılı,Evet,Askent Villaları,1.500,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"11.750.000 TL
+Kredi Teklifleri"
+55,Villa,Kavaklı Mh.,295,230,4+2,0,,2,Doğalgaz (Kombi),3,,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"6.250.000 TL
+Kredi Teklifleri"
+56,Villa,Sahil Mah.,500,400,6+2,0,,4,Doğalgaz (Kombi),3,,Hayır,Boş,Evet,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"22.000.000 TL
+Kredi Teklifleri"
+57,Villa,Dereağzı Mh.,400,240,6+1,5-10 arası,,4,Yerden Isıtma,5,,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Evet,"12.000.000 TL
+Kredi Teklifleri"
+58,Villa,Gürpınar Mh.,200,180,4+2,16-20 arası,,3,Doğalgaz (Kombi),1,,Hayır,Mülk Sahibi,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Hayır,"7.500.000 TL
+Kredi Teklifleri",
+59,Villa,Gürpınar Mh.,220,210,3+1,16-20 arası,,3,Doğalgaz (Kombi),2,,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"6.200.000 TL
+Kredi Teklifleri"
+60,Villa,Gürpınar Mh.,220,210,3+1,16-20 arası,,3,Doğalgaz (Kombi),2,,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"6.200.000 TL
+Kredi Teklifleri"
+61,Villa,Sahil Mah.,400,320,6+1,4,,3,Doğalgaz (Kombi),5,,Hayır,Kiracılı,Evet,Belirtilmemiş,300,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"11.950.000 TL
+Kredi Teklifleri"
+62,Villa,Sahil Mah.,352,312,5+1,0,,3,Doğalgaz (Kombi),5,,Hayır,Boş,Hayır,Belirtilmemiş,Belirtilmemiş,Evet,Kat Mülkiyetli,Emlak Ofisinden,Hayır,"21.500.000 TL
+Kredi Teklifleri"
